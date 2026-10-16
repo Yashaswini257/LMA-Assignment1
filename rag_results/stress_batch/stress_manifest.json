@@ -1,0 +1,10 @@
+{
+  "corpus_sha256": "3c677bc1679ab57c60f46214556cc849595eca08cc3fdc03499f07387b1a2eb8",
+  "count": 24,
+  "bi_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "ce_model": "cross-encoder/ms-marco-MiniLM-L6-v2",
+  "top_k": 10,
+  "context_k": 3,
+  "case_sha256": "0e0d75ac97f61b4a4f9bbef12cd3c2d8f97f6729b88527e4b7062f1173292aab",
+  "protocol": "Exploratory, constructed after Q02-Q14 inspection. No LLM answers generated."
+}

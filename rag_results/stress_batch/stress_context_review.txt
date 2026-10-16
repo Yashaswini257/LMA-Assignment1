@@ -1,0 +1,3376 @@
+==========================================================================================
+Q15: Our final delegation includes 29 approved team officials. Can all 29 sit with the substitutes during a match?
+Article 32.2 | both_have_labelled_evidence
+Expected answer: No. The match bench allows at most 11 team officials, one of whom must be the team medical doctor; officials must be on the start list and not suspended.
+Why test: Registration eligibility in 24.6 versus the separate match-bench capacity limit.
+
+BASELINE TOP 3
+[C0096, PDF p.43]
+43
+
+
+
+
+ARTICLE 32: TECHNICAL AND WARM-UP AREAS
+
+32.1    The technical area is the area which the coach, other team officials and substitutes
+      are allowed to occupy during the match. It includes the dugout (ifapplicable),
+      theteam bench and a marked zone adjacent to the pitch.
+
+32.2  No more than 26 people (15 substitute players and 11 officials – one of these
+      teamofficials shall be the team medical doctor) shall be allowed to sit on the
+      team bench. A suspended player or team official will not be allowed to sit on
+      the team     bench. Only the officials indicated on the start list may sit on the team
+      bench or be in the technical area during the match.
+
+32.3  No more than 20 additional technical overflow seats in the stand shall be allocated
+      for accredited officials providing technical support to the team during the match
+      (kit manager, assistant physiot
+[C0097, PDF p.43]
+technical overflow seats in the stand shall be allocated
+      for accredited officials providing technical support to the team during the match
+      (kit manager, assistant physiotherapist, etc.). Staff occupying such seats shall
+      have access to the dressing rooms.
+
+32.4  During the match, substitutes are allowed to leave the technical area to warm
+      up. At the Match Coordination Meeting, the FIFA Match Director shall explain
+      exactly where they may warm up.
+
+32.5  A maximum of five players per team shall warm up at the same time behind
+      the advertising boards to the rear of the goal (with a maximum of one official).
+      Ifthere is not sufficient space behind the goals, both teams shall warm up in the
+      designated area behind the first assistant referee or next to their own team bench.
+      In this case, five players and one official per team may warm up at the same time.
+      Thewarm-
+[C0094, PDF p.42]
+list are not able to begin the match
+              due to injury or illness, they may be replaced by any of the eligible substitutes as
+              long as the FIFA Match Director and the referee are officially informed thereof prior
+              to kick-off. Within 24 hours, the team concerned shall also provideFIFA with a
+              medical report issued by the medical doctor (in one of the official FIFA languages).
+
+        31.5   Further to the above, any injured or ill player who is removed from the start list
+              will no longer be eligible to take part in the match, and thus cannot be selected
+              as a substitute player at any time during the match. Such a change to the start list
+              will not reduce the number of official substitutions that may be made by a team
+              during the match. Although no longer eligible to play as a substitute, the    injured
+              or ill player who was removed from the start list before kick-off may be seated
+              on
+
+RERANKED TOP 3
+[C0073, PDF p.34]
+34
+
+
+
+
+
+
+              Injured or ill goalkeepers who are replaced must return their accreditation to FIFA.
+              Accordingly, goalkeepers who have returned their accreditation shall no longer
+              be considered members of the participating club’s final list.
+
+        24.5  The final list of a maximum of 35 players will be published by FIFA after the
+              submission deadline.
+
+        24.6     Along with the above final list of players, a final list of up to 29 officials shall be
+              submitted online by the deadline stipulated in the relevant circular letter. Onlythe
+              29 officials confirmed on the final list will be eligible to sit on the team bench
+              during matches (cf. article 32 of these Regulations).
+
+        24.7  Before the start of the Competition, every player and official on the final list must
+              prove their identity by producing their legally valid individual passport with a
+              photograph. Any player or official who fails to submit this document will not be
+              allowed to take part in the Competition.
+[C0096, PDF p.43]
+43
+
+
+
+
+ARTICLE 32: TECHNICAL AND WARM-UP AREAS
+
+32.1    The technical area is the area which the coach, other team officials and substitutes
+      are allowed to occupy during the match. It includes the dugout (ifapplicable),
+      theteam bench and a marked zone adjacent to the pitch.
+
+32.2  No more than 26 people (15 substitute players and 11 officials – one of these
+      teamofficials shall be the team medical doctor) shall be allowed to sit on the
+      team bench. A suspended player or team official will not be allowed to sit on
+      the team     bench. Only the officials indicated on the start list may sit on the team
+      bench or be in the technical area during the match.
+
+32.3  No more than 20 additional technical overflow seats in the stand shall be allocated
+      for accredited officials providing technical support to the team during the match
+      (kit manager, assistant physiot
+[C0092, PDF p.42]
+42
+
+
+
+
+        ARTICLE 31: START LIST
+
+        31.1     The electronic start list system will be available and accessible eight hours prior to
+              the kick-off of the respective match with the full names and shirt numbers ofthe
+              maximum of 35 players listed on the final list, together with the full names of
+              the officials eligible to be seated on the team bench. A maximum of 26 players
+              (including a minimum of two goalkeepers) may be chosen for the start list.
+              Changes can be made at the team’s discretion up to 90 minutes before kick-off.
+              The traditional paper start list will also be available prior to each match.
+
+        31.2   The start list should be duly completed by selecting the 11 players who will start
+              the match and the maximum of 15 substitutes, indicating the captain, selecting
+              the officials to be seated on the team bench (maximum of 11) and submitted by
+              the authorised team official and/or signed if
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0096, PDF p.43]
+43
+
+
+
+
+ARTICLE 32: TECHNICAL AND WARM-UP AREAS
+
+32.1    The technical area is the area which the coach, other team officials and substitutes
+      are allowed to occupy during the match. It includes the dugout (ifapplicable),
+      theteam bench and a marked zone adjacent to the pitch.
+
+32.2  No more than 26 people (15 substitute players and 11 officials – one of these
+      teamofficials shall be the team medical doctor) shall be allowed to sit on the
+      team bench. A suspended player or team official will not be allowed to sit on
+      the team     bench. Only the officials indicated on the start list may sit on the team
+      bench or be in the technical area during the match.
+
+32.3  No more than 20 additional technical overflow seats in the stand shall be allocated
+      for accredited officials providing technical support to the team during the match
+      (kit manager, assistant physiot
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q16: The substitutes are warming up behind their own bench while the match is being played. May they use the official footballs supplied by FIFA?
+Article 32.5 | labelled_evidence_outside_top10
+Expected answer: No. The warm-up described in article 32.5 may not involve any balls.
+Why test: Official-ball permission in 30.3 versus prohibition in match-time substitute warm-ups.
+
+BASELINE TOP 3
+[C0097, PDF p.43]
+technical overflow seats in the stand shall be allocated
+      for accredited officials providing technical support to the team during the match
+      (kit manager, assistant physiotherapist, etc.). Staff occupying such seats shall
+      have access to the dressing rooms.
+
+32.4  During the match, substitutes are allowed to leave the technical area to warm
+      up. At the Match Coordination Meeting, the FIFA Match Director shall explain
+      exactly where they may warm up.
+
+32.5  A maximum of five players per team shall warm up at the same time behind
+      the advertising boards to the rear of the goal (with a maximum of one official).
+      Ifthere is not sufficient space behind the goals, both teams shall warm up in the
+      designated area behind the first assistant referee or next to their own team bench.
+      In this case, five players and one official per team may warm up at the same time.
+      Thewarm-
+[C0095, PDF p.42]
+Although no longer eligible to play as a substitute, the    injured
+              or ill player who was removed from the start list before kick-off may be seated
+              on the team bench.
+
+        31.6   Only the players who were identified on the official start list submitted to the FIFA
+              Match Director, or were confirmed as a warm-up injury/illness replacement player,
+              may start the match. In the case of any discrepancies of players on the pitch at
+              the beginning of the match, the matter will be submitted to the FIFA Disciplinary
+              Committee for a decision.
+[C0096, PDF p.43]
+43
+
+
+
+
+ARTICLE 32: TECHNICAL AND WARM-UP AREAS
+
+32.1    The technical area is the area which the coach, other team officials and substitutes
+      are allowed to occupy during the match. It includes the dugout (ifapplicable),
+      theteam bench and a marked zone adjacent to the pitch.
+
+32.2  No more than 26 people (15 substitute players and 11 officials – one of these
+      teamofficials shall be the team medical doctor) shall be allowed to sit on the
+      team bench. A suspended player or team official will not be allowed to sit on
+      the team     bench. Only the officials indicated on the start list may sit on the team
+      bench or be in the technical area during the match.
+
+32.3  No more than 20 additional technical overflow seats in the stand shall be allocated
+      for accredited officials providing technical support to the team during the match
+      (kit manager, assistant physiot
+
+RERANKED TOP 3
+[C0097, PDF p.43]
+technical overflow seats in the stand shall be allocated
+      for accredited officials providing technical support to the team during the match
+      (kit manager, assistant physiotherapist, etc.). Staff occupying such seats shall
+      have access to the dressing rooms.
+
+32.4  During the match, substitutes are allowed to leave the technical area to warm
+      up. At the Match Coordination Meeting, the FIFA Match Director shall explain
+      exactly where they may warm up.
+
+32.5  A maximum of five players per team shall warm up at the same time behind
+      the advertising boards to the rear of the goal (with a maximum of one official).
+      Ifthere is not sufficient space behind the goals, both teams shall warm up in the
+      designated area behind the first assistant referee or next to their own team bench.
+      In this case, five players and one official per team may warm up at the same time.
+      Thewarm-
+[C0095, PDF p.42]
+Although no longer eligible to play as a substitute, the    injured
+              or ill player who was removed from the start list before kick-off may be seated
+              on the team bench.
+
+        31.6   Only the players who were identified on the official start list submitted to the FIFA
+              Match Director, or were confirmed as a warm-up injury/illness replacement player,
+              may start the match. In the case of any discrepancies of players on the pitch at
+              the beginning of the match, the matter will be submitted to the FIFA Disciplinary
+              Committee for a decision.
+[C0094, PDF p.42]
+list are not able to begin the match
+              due to injury or illness, they may be replaced by any of the eligible substitutes as
+              long as the FIFA Match Director and the referee are officially informed thereof prior
+              to kick-off. Within 24 hours, the team concerned shall also provideFIFA with a
+              medical report issued by the medical doctor (in one of the official FIFA languages).
+
+        31.5   Further to the above, any injured or ill player who is removed from the start list
+              will no longer be eligible to take part in the match, and thus cannot be selected
+              as a substitute player at any time during the match. Such a change to the start list
+              will not reduce the number of official substitutions that may be made by a team
+              during the match. Although no longer eligible to play as a substitute, the    injured
+              or ill player who was removed from the start list before kick-off may be seated
+              on
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0098, PDF p.43]
+next to their own team bench.
+      In this case, five players and one official per team may warm up at the same time.
+      Thewarm-up may not involve the use of any balls.
+
+32.6  Smoking, vaping and the use of any tobacco-related products are only allowed
+      in the designated areas (if made available) and are not allowed in the technical
+      area, in the vicinity of the field of play or within the competition areas, such as
+      the dressing rooms.
+
+32.7  Small, hand-held electronic equipment (e.g. microphones, headphones, earpieces,
+      mobile phones/smartphones, smartwatches, tablets, laptops, etc.) are permitted in
+      the technical area only if used for coaching/tactics or player welfare in accordance
+      with the Laws of the Game and the FIFA Media and MarketingRegulations.
+
+32.8 Additional special equipment
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q17: Our wearable player-tracking system is certified and registered with FIFA. May we put its antenna next to the coach inside the technical area?
+Article 32.8 | both_have_labelled_evidence
+Expected answer: No. Such additional equipment must be placed in the stadium area designated by FIFA, not in the technical area.
+Why test: General tracker permission in 30.4 versus antenna-placement restriction.
+
+BASELINE TOP 3
+[C0099, PDF p.43]
+coaching/tactics or player welfare in accordance
+      with the Laws of the Game and the FIFA Media and MarketingRegulations.
+
+32.8 Additional special equipment items (e.g. antennae) for the use of wearable
+      technology at Competition matches may only be positioned in a dedicated area
+      of a stadium defined by FIFA, but not in the technical area of such stadium.
+                                                                                                                 VIII.
+[C0090, PDF p.40]
+Media and Marketing Regulations.
+
+       30.3  The footballs used in the Competition shall be selected and exclusively supplied
+              by FIFA. Time permitting, each team will receive training balls from FIFA prior
+              to the Competition after the successful submission of the required team entry
+              details. Training balls will also be provided to the teams upon arrival in the host
+              country. Only these balls provided by FIFA may be used for training and warm-up
+              sessions at the official stadiums and training sites.
+
+       30.4  Teams are allowed to use their own wearable tracking system, as long as the system
+              has been tested and certified according to the Laws of the Game, registered with
+              FIFA by the participating club for use in the Competition andotherwise complies
+              with the FIFA Equipment Regulations, the FIFA Mediaand Marketing Regulations
+              and any other applicable FIFA regulations.
+[C0081, PDF p.37]
+once reviewed and approved by FIFA as
+      stated in article 27 paragraph 3 below, may be worn duringmatches.
+
+27.3  The participating clubs shall send to FIFA for approval a sample of all items
+      of the full first-choice and alternative team kits (shirt, shorts, socks, all three
+      goalkeeper’s kits, gloves, caps, wristbands and headbands, etc.) intended for use
+      during the Competition. In addition, FIFA may organise a kit-day session prior to
+      the Competition; should it do so, the date shall be confirmed by circular letter.
+      Representatives of all participating clubs shall attend. All equipment (kits, gloves,
+      bags, medical equipment, etc.) that could be on display within the stadiums,
+      thetraining sites and the hotels or during transfers to, from or within the host
+      country shall be approved by FIFA. FIFA shall issue a written team equipment
+      inspection report
+
+RERANKED TOP 3
+[C0099, PDF p.43]
+coaching/tactics or player welfare in accordance
+      with the Laws of the Game and the FIFA Media and MarketingRegulations.
+
+32.8 Additional special equipment items (e.g. antennae) for the use of wearable
+      technology at Competition matches may only be positioned in a dedicated area
+      of a stadium defined by FIFA, but not in the technical area of such stadium.
+                                                                                                                 VIII.
+[C0090, PDF p.40]
+Media and Marketing Regulations.
+
+       30.3  The footballs used in the Competition shall be selected and exclusively supplied
+              by FIFA. Time permitting, each team will receive training balls from FIFA prior
+              to the Competition after the successful submission of the required team entry
+              details. Training balls will also be provided to the teams upon arrival in the host
+              country. Only these balls provided by FIFA may be used for training and warm-up
+              sessions at the official stadiums and training sites.
+
+       30.4  Teams are allowed to use their own wearable tracking system, as long as the system
+              has been tested and certified according to the Laws of the Game, registered with
+              FIFA by the participating club for use in the Competition andotherwise complies
+              with the FIFA Equipment Regulations, the FIFA Mediaand Marketing Regulations
+              and any other applicable FIFA regulations.
+[C0098, PDF p.43]
+next to their own team bench.
+      In this case, five players and one official per team may warm up at the same time.
+      Thewarm-up may not involve the use of any balls.
+
+32.6  Smoking, vaping and the use of any tobacco-related products are only allowed
+      in the designated areas (if made available) and are not allowed in the technical
+      area, in the vicinity of the field of play or within the competition areas, such as
+      the dressing rooms.
+
+32.7  Small, hand-held electronic equipment (e.g. microphones, headphones, earpieces,
+      mobile phones/smartphones, smartwatches, tablets, laptops, etc.) are permitted in
+      the technical area only if used for coaching/tactics or player welfare in accordance
+      with the Laws of the Game and the FIFA Media and MarketingRegulations.
+
+32.8 Additional special equipment
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0099, PDF p.43]
+coaching/tactics or player welfare in accordance
+      with the Laws of the Game and the FIFA Media and MarketingRegulations.
+
+32.8 Additional special equipment items (e.g. antennae) for the use of wearable
+      technology at Competition matches may only be positioned in a dedicated area
+      of a stadium defined by FIFA, but not in the technical area of such stadium.
+                                                                                                                 VIII.
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q18: We are visiting a stadium for the first time on the day before our match. Are we allowed to walk on the playing surface to inspect it despite the ban on stadium training?
+Article 34.2 | both_have_labelled_evidence
+Expected answer: Yes. The familiarisation visit allows players and officials to inspect the pitch on foot wearing training shoes; it does not authorise a training session.
+Why test: Training prohibition in 34.1 versus permission for a familiarisation visit.
+
+BASELINE TOP 3
+[C0102, PDF p.44]
+that are due to play a match in a stadium in which they have not previously
+              played will be entitled to a familiarisation session in that stadium on the day before
+              the match. The players and team officials will be permitted to walk around the
+              field of play (to inspect the pitch only and wearing training shoes) and stadium
+              to familiarise themselves with the set-up. Such familiarisation sessions shall be
+              open to the media for the first 15 minutes.
+
+       34.3  Official training session and stadium familiarisation times will be communicated
+              by FIFA.
+[C0101, PDF p.44]
+by players and officials is prohibited. The similar display
+              of commercial messages and slogans of any nature in any language or form by
+              players and officials is not allowed for the duration of their time at any official
+              activity organised by FIFA (including official matches and training sessions,
+              aswell as during official press conferences and mixed-zone activities).
+
+       ARTICLE 34: OFFICIAL TRAINING SESSIONS,
+                               STADIUM FAMILIARISATION VISITS
+                               ANDPRE-MATCH WARM-UPS
+
+       34.1   In order to preserve the quality of the pitch for the matches, no official training
+              sessions will be allowed at the stadiums before any match. In principle,
+              allparticipating clubs’ official training sessions will be conducted at the Team
+              Base Camp training sites or at the venue-specific training sites.
+
+       34.2  Teams that are due to play a match in a stadium in which they have not previously
+              played will be entitled to a familiarisation session in that stadium on the
+[C0057, PDF p.28]
+28
+
+
+
+
+       ARTICLE 18: STADIUMS
+
+       18.1    Matches shall be played on natural grass only.
+
+       18.2   Unless otherwise approved by FIFA, the pitch shall have the following dimensions:
+              length 105m, width 68m.
+
+       18.3   The pitch watering schedule and the height of the grass will be communicated
+              by the FIFA Match Director at the Match Coordination Meeting.
+
+       18.4  The field of play, accessory equipment and all facilities for each match shall
+              be in optimum condition and comply with the Laws of the Game and all other
+              relevant regulations. All goals shall be equipped with white goalposts and white
+              goal nets with dark support posts and padding. Each stadium shall have spare
+              goals, netsand corner flags located in close proximity to the field of play for
+              contingency purposes.
+
+       18.5  All Competition stadiums shall be tobacco-free and free of vapours from
+              e-cigarettes in accordance with the FIFA Event
+
+RERANKED TOP 3
+[C0102, PDF p.44]
+that are due to play a match in a stadium in which they have not previously
+              played will be entitled to a familiarisation session in that stadium on the day before
+              the match. The players and team officials will be permitted to walk around the
+              field of play (to inspect the pitch only and wearing training shoes) and stadium
+              to familiarise themselves with the set-up. Such familiarisation sessions shall be
+              open to the media for the first 15 minutes.
+
+       34.3  Official training session and stadium familiarisation times will be communicated
+              by FIFA.
+[C0101, PDF p.44]
+by players and officials is prohibited. The similar display
+              of commercial messages and slogans of any nature in any language or form by
+              players and officials is not allowed for the duration of their time at any official
+              activity organised by FIFA (including official matches and training sessions,
+              aswell as during official press conferences and mixed-zone activities).
+
+       ARTICLE 34: OFFICIAL TRAINING SESSIONS,
+                               STADIUM FAMILIARISATION VISITS
+                               ANDPRE-MATCH WARM-UPS
+
+       34.1   In order to preserve the quality of the pitch for the matches, no official training
+              sessions will be allowed at the stadiums before any match. In principle,
+              allparticipating clubs’ official training sessions will be conducted at the Team
+              Base Camp training sites or at the venue-specific training sites.
+
+       34.2  Teams that are due to play a match in a stadium in which they have not previously
+              played will be entitled to a familiarisation session in that stadium on the
+[C0028, PDF p.14]
+14
+
+
+
+
+
+
+       8.3    Protests regarding the eligibility of players nominated for matches shall be
+              submitted via the FIFA Legal Portal at legalportal.fifa.com    (cf. art. 18 par. 1 ofthe
+              FIFA Disciplinary Code) no later than three days before the first match   of the
+              Competition. Such protests shall be dealt with by the FIFA DisciplinaryCommittee.
+
+       8.4     Protests regarding the state of the pitch, its surroundings, markings or accessory
+              items (e.g. goals, flagposts or footballs) shall be made in writing to the referee
+              before the start of the match by the head of delegation of the team lodging
+              the protest. If the pitch’s playing surface becomes unplayable during a match,
+              the captain of the protesting team shall immediately lodge a protest with the
+              referee in the presence of the captain of the opposing team. The protests shall
+              be confirmed in writing to the FIFA Match
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0102, PDF p.44]
+that are due to play a match in a stadium in which they have not previously
+              played will be entitled to a familiarisation session in that stadium on the day before
+              the match. The players and team officials will be permitted to walk around the
+              field of play (to inspect the pitch only and wearing training shoes) and stadium
+              to familiarise themselves with the set-up. Such familiarisation sessions shall be
+              open to the media for the first 15 minutes.
+
+       34.3  Official training session and stadium familiarisation times will be communicated
+              by FIFA.
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q19: The referee has awarded six minutes of added time at the end of the second half. Should the stadium clock keep counting from 90 to 96?
+Article 20.1 | both_have_labelled_evidence
+Expected answer: No. The stadium clock showing elapsed play must stop at the end of normal time, at 90 minutes for the second half.
+Why test: Added-time display boards and match duration versus the stadium-clock stopping rule.
+
+BASELINE TOP 3
+[C0059, PDF p.28]
+match.
+              In such an event, the roof is to remain closed until the end of the match. The roof
+              may only be opened or closed if there is no one on the pitch.
+
+       ARTICLE 20: STADIUM CLOCKS AND GIANT SCREEN
+
+       20.1   Clocks in the stadium showing the length of time played may run during the
+              match, provided that they are stopped at the end of normal playing time in each
+              half, i.e. after 45 and 90 minutes respectively. This stipulation shall also apply if
+              extra time is played (i.e. after 15 minutes of each half).
+[C0053, PDF p.24]
+24
+
+
+
+
+       ARTICLE 14: EXTRA TIME AND PENALTIES (PENALTY
+                              SHOOTOUT)
+
+       14.1    In the knockout stage, if a match is level at the end of normal playing time, extra
+             time shall be played. Extra time shall consist of two 15-minute periods, with an
+             interval of five minutes at the end of normal playing time, but not between the
+             two periods of extra time. The players shall remain on the pitch during both of
+             these intervals.
+
+       14.2   If the score is still level at the end of extra time, penalties (penalty shootout) shall
+             be taken to determine the winner, in accordance with the procedure specified in
+             the Laws of the Game.
+[C0110, PDF p.48]
+, comprising two periods of 45 minutes.
+
+       ARTICLE 36: REFEREES
+
+       36.1   The referees, assistant referees, fourth officials and video assistant referees
+              (if appointed) (hereinafter referred to collectively as “match officials”) for the
+              Competition shall be appointed for each match by the FIFA Referees Committee.
+              They shall be selected from the FIFA International Refereeing List in force and
+              come from a member association that is not represented by a team playing in
+              the match in question. The decisions of the FIFA Referees Committee are final
+              and binding and not subject to appeal.
+
+RERANKED TOP 3
+[C0059, PDF p.28]
+match.
+              In such an event, the roof is to remain closed until the end of the match. The roof
+              may only be opened or closed if there is no one on the pitch.
+
+       ARTICLE 20: STADIUM CLOCKS AND GIANT SCREEN
+
+       20.1   Clocks in the stadium showing the length of time played may run during the
+              match, provided that they are stopped at the end of normal playing time in each
+              half, i.e. after 45 and 90 minutes respectively. This stipulation shall also apply if
+              extra time is played (i.e. after 15 minutes of each half).
+[C0108, PDF p.48]
+48
+
+
+
+
+
+
+       35.5  Players are entitled to a 15-minute interval at half-time; a short drinks break
+              (which should not exceed one minute) is permitted at the interval of half-time in
+              extra time. If a match goes into extra time, a break not exceeding five minutes is
+              permitted before the first period of extra time begins.
+
+       35.6  Extreme weather conditions may warrant cooling breaks to be implemented
+              during the course of a match in accordance with the protocols established by
+              the FIFA Medical Committee and/or documented in the FIFA Football Emergency
+              Medicine Manual. Such breaks will be considered on a match-by-match basis.
+              Responsibility for implementing and controlling cooling breaks resides with
+              the referee.
+
+       35.7  Goal-line technology or any other technology may be used for the purpose
+              of verifying whether a goal has been scored to support the referee’s decision.
+              Theparticipating clubs shall consent, without
+[C0053, PDF p.24]
+24
+
+
+
+
+       ARTICLE 14: EXTRA TIME AND PENALTIES (PENALTY
+                              SHOOTOUT)
+
+       14.1    In the knockout stage, if a match is level at the end of normal playing time, extra
+             time shall be played. Extra time shall consist of two 15-minute periods, with an
+             interval of five minutes at the end of normal playing time, but not between the
+             two periods of extra time. The players shall remain on the pitch during both of
+             these intervals.
+
+       14.2   If the score is still level at the end of extra time, penalties (penalty shootout) shall
+             be taken to determine the winner, in accordance with the procedure specified in
+             the Laws of the Game.
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0059, PDF p.28]
+match.
+              In such an event, the roof is to remain closed until the end of the match. The roof
+              may only be opened or closed if there is no one on the pitch.
+
+       ARTICLE 20: STADIUM CLOCKS AND GIANT SCREEN
+
+       20.1   Clocks in the stadium showing the length of time played may run during the
+              match, provided that they are stopped at the end of normal playing time in each
+              half, i.e. after 45 and 90 minutes respectively. This stipulation shall also apply if
+              extra time is played (i.e. after 15 minutes of each half).
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q20: A defender has to take over in goal during a match. Does the emergency goalkeeper shirt need to display his usual shirt number and name?
+Article 28.3 | both_have_labelled_evidence
+Expected answer: No. The special goalkeeper shirts supplied for an outfield player taking over in goal have no names or numbers.
+Why test: Normal name/number requirements in 28.1-28.2 versus emergency shirt exception.
+
+BASELINE TOP 3
+[C0085, PDF p.38]
+the final decision regarding the name that appears on the shirt.
+
+       28.3  Each team shall supply a set of goalkeeper shirts without names or numbers.
+              These shirts will only be used in those special circumstances in which an outfield
+              player must take the position of goalkeeper during a match. This extra set of
+              goalkeeper shirts must be provided in the same three colours as the regular
+              goalkeeper shirts.
+[C0084, PDF p.38]
+shall be displayed on the back of each of their playing
+              shirts and on the front of the shorts in accordance with the FIFA Equipment
+              Regulations. The same number may, at the participating club’s discretion,
+              bedisplayed on the front of the shirt, in which case the display must comply
+              with the FIFA Equipment Regulations.
+
+       28.2  The player’s last name or popular name (or abbreviation) shall be affixed above
+              the number on the back of the shirt and shall be clearly legible in accordance
+              with the FIFA Equipment Regulations. The name on the shirt must bear a strong
+              resemblance to the player’s popular name as indicated on FIFA’s official list of
+              players and in any other official FIFA documentation. In case of doubt, FIFA shall
+              have the final decision regarding the name that appears on the shirt.
+
+       28.3  Each team shall supply a set of goalkeeper shirts without names or numbers.
+              These
+[C0083, PDF p.38]
+38
+
+
+
+
+
+
+       27.4   All equipment (kits, gloves, bags, medical equipment, etc.) that could be on display
+              in the stadiums, the training sites, the hotels or during transfers to, from or within
+              the host country shall be re-checked and approved by FIFA during the Team
+              Arrival Meeting for the Competition.
+
+       ARTICLE 28: NUMBERS AND NAMES
+
+       28.1   Throughout the Competition, players shall wear the number assigned to them
+              on the final list. Players shall wear set numbers between 1 and 99, provided that
+              the players are registered with the same number in the most recent season of
+              their club’s league competition and upon confirmation by the relevant member
+              association. If number 1 is used, it shall be reserved exclusively for one of the
+              goalkeepers. Such number shall be displayed on the back of each of their playing
+              shirts and on the front of the shorts in accordance with the FIFA Equipment
+              Regulations. The same number
+
+RERANKED TOP 3
+[C0085, PDF p.38]
+the final decision regarding the name that appears on the shirt.
+
+       28.3  Each team shall supply a set of goalkeeper shirts without names or numbers.
+              These shirts will only be used in those special circumstances in which an outfield
+              player must take the position of goalkeeper during a match. This extra set of
+              goalkeeper shirts must be provided in the same three colours as the regular
+              goalkeeper shirts.
+[C0084, PDF p.38]
+shall be displayed on the back of each of their playing
+              shirts and on the front of the shorts in accordance with the FIFA Equipment
+              Regulations. The same number may, at the participating club’s discretion,
+              bedisplayed on the front of the shirt, in which case the display must comply
+              with the FIFA Equipment Regulations.
+
+       28.2  The player’s last name or popular name (or abbreviation) shall be affixed above
+              the number on the back of the shirt and shall be clearly legible in accordance
+              with the FIFA Equipment Regulations. The name on the shirt must bear a strong
+              resemblance to the player’s popular name as indicated on FIFA’s official list of
+              players and in any other official FIFA documentation. In case of doubt, FIFA shall
+              have the final decision regarding the name that appears on the shirt.
+
+       28.3  Each team shall supply a set of goalkeeper shirts without names or numbers.
+              These
+[C0083, PDF p.38]
+38
+
+
+
+
+
+
+       27.4   All equipment (kits, gloves, bags, medical equipment, etc.) that could be on display
+              in the stadiums, the training sites, the hotels or during transfers to, from or within
+              the host country shall be re-checked and approved by FIFA during the Team
+              Arrival Meeting for the Competition.
+
+       ARTICLE 28: NUMBERS AND NAMES
+
+       28.1   Throughout the Competition, players shall wear the number assigned to them
+              on the final list. Players shall wear set numbers between 1 and 99, provided that
+              the players are registered with the same number in the most recent season of
+              their club’s league competition and upon confirmation by the relevant member
+              association. If number 1 is used, it shall be reserved exclusively for one of the
+              goalkeepers. Such number shall be displayed on the back of each of their playing
+              shirts and on the front of the shorts in accordance with the FIFA Equipment
+              Regulations. The same number
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0085, PDF p.38]
+the final decision regarding the name that appears on the shirt.
+
+       28.3  Each team shall supply a set of goalkeeper shirts without names or numbers.
+              These shirts will only be used in those special circumstances in which an outfield
+              player must take the position of goalkeeper during a match. This extra set of
+              goalkeeper shirts must be provided in the same three colours as the regular
+              goalkeeper shirts.
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q21: A club has 29 accredited officials. May an official who is suspended watch the match from the team bench?
+Article 32.2 | both_have_labelled_evidence
+Expected answer: No. A suspended player or team official may not sit on the team bench.
+Why test: Accreditation and list membership versus a suspension-based restriction.
+
+BASELINE TOP 3
+[C0096, PDF p.43]
+43
+
+
+
+
+ARTICLE 32: TECHNICAL AND WARM-UP AREAS
+
+32.1    The technical area is the area which the coach, other team officials and substitutes
+      are allowed to occupy during the match. It includes the dugout (ifapplicable),
+      theteam bench and a marked zone adjacent to the pitch.
+
+32.2  No more than 26 people (15 substitute players and 11 officials – one of these
+      teamofficials shall be the team medical doctor) shall be allowed to sit on the
+      team bench. A suspended player or team official will not be allowed to sit on
+      the team     bench. Only the officials indicated on the start list may sit on the team
+      bench or be in the technical area during the match.
+
+32.3  No more than 20 additional technical overflow seats in the stand shall be allocated
+      for accredited officials providing technical support to the team during the match
+      (kit manager, assistant physiot
+[C0032, PDF p.15]
+.3     Single yellow cards in the Competition will be cancelled after the quarter-finals.
+
+9.4    If a player or team official receives two cautions during two different matches,
+      they will automatically be suspended from their team’s subsequent match.
+
+9.5     If a player or team official is sent off as a result of a direct or an indirect red card, they
+      will automatically be suspended from their team’s subsequent match. In addition,
+      further sanctions (e.g. additional suspensions, a fine, etc.) may beimposed.
+
+9.6     In line with article 74 of the FIFA Disciplinary Code, and without prejudice to any
+      other sanction that might result therefrom, any match suspension resulting from
+      a player or official being sent off (as a result of a direct or an indirect red card),
+      and any match suspension resulting from several cautions issued to a player
+      or official
+[C0031, PDF p.15]
+15
+
+
+
+
+ARTICLE 9: YELLOW AND RED CARDS
+
+9.1     The referee has the authority to take disciplinary action from entering the field
+      of play for the pre-match inspection until leaving the field of play after the match
+      ends (including penalties (penalty shoot-out)). If, before entering the field of play
+      at the start of the match, a player or team official commits a sending-off offence,
+      the referee has the authority to prevent the player or team official from taking
+      part in the match (see Laws of the Game, Law 12.3); the referee will report any
+      other misconduct.
+
+9.2    Single yellow cards and pending suspensions that could not be served during
+      the confederation’s club competition are not carried over to the Competition.
+
+9.3     Single yellow cards in the Competition will be cancelled after the quarter-finals.
+
+9.4    If a player or team official receives two cautions
+
+RERANKED TOP 3
+[C0096, PDF p.43]
+43
+
+
+
+
+ARTICLE 32: TECHNICAL AND WARM-UP AREAS
+
+32.1    The technical area is the area which the coach, other team officials and substitutes
+      are allowed to occupy during the match. It includes the dugout (ifapplicable),
+      theteam bench and a marked zone adjacent to the pitch.
+
+32.2  No more than 26 people (15 substitute players and 11 officials – one of these
+      teamofficials shall be the team medical doctor) shall be allowed to sit on the
+      team bench. A suspended player or team official will not be allowed to sit on
+      the team     bench. Only the officials indicated on the start list may sit on the team
+      bench or be in the technical area during the match.
+
+32.3  No more than 20 additional technical overflow seats in the stand shall be allocated
+      for accredited officials providing technical support to the team during the match
+      (kit manager, assistant physiot
+[C0032, PDF p.15]
+.3     Single yellow cards in the Competition will be cancelled after the quarter-finals.
+
+9.4    If a player or team official receives two cautions during two different matches,
+      they will automatically be suspended from their team’s subsequent match.
+
+9.5     If a player or team official is sent off as a result of a direct or an indirect red card, they
+      will automatically be suspended from their team’s subsequent match. In addition,
+      further sanctions (e.g. additional suspensions, a fine, etc.) may beimposed.
+
+9.6     In line with article 74 of the FIFA Disciplinary Code, and without prejudice to any
+      other sanction that might result therefrom, any match suspension resulting from
+      a player or official being sent off (as a result of a direct or an indirect red card),
+      and any match suspension resulting from several cautions issued to a player
+      or official
+[C0031, PDF p.15]
+15
+
+
+
+
+ARTICLE 9: YELLOW AND RED CARDS
+
+9.1     The referee has the authority to take disciplinary action from entering the field
+      of play for the pre-match inspection until leaving the field of play after the match
+      ends (including penalties (penalty shoot-out)). If, before entering the field of play
+      at the start of the match, a player or team official commits a sending-off offence,
+      the referee has the authority to prevent the player or team official from taking
+      part in the match (see Laws of the Game, Law 12.3); the referee will report any
+      other misconduct.
+
+9.2    Single yellow cards and pending suspensions that could not be served during
+      the confederation’s club competition are not carried over to the Competition.
+
+9.3     Single yellow cards in the Competition will be cancelled after the quarter-finals.
+
+9.4    If a player or team official receives two cautions
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0096, PDF p.43]
+43
+
+
+
+
+ARTICLE 32: TECHNICAL AND WARM-UP AREAS
+
+32.1    The technical area is the area which the coach, other team officials and substitutes
+      are allowed to occupy during the match. It includes the dugout (ifapplicable),
+      theteam bench and a marked zone adjacent to the pitch.
+
+32.2  No more than 26 people (15 substitute players and 11 officials – one of these
+      teamofficials shall be the team medical doctor) shall be allowed to sit on the
+      team bench. A suspended player or team official will not be allowed to sit on
+      the team     bench. Only the officials indicated on the start list may sit on the team
+      bench or be in the technical area during the match.
+
+32.3  No more than 20 additional technical overflow seats in the stand shall be allocated
+      for accredited officials providing technical support to the team during the match
+      (kit manager, assistant physiot
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q22: A player has already received a yellow card and then receives a direct red in the same match. For the group-ranking conduct score, do we deduct one point plus another five?
+Article 13(f) | both_have_labelled_evidence
+Expected answer: No. Apply the combined yellow-plus-direct-red deduction of five points once; only one listed deduction applies per person in a match.
+Why test: Suspension rules versus the distinct numerical conduct-score rule.
+
+BASELINE TOP 3
+[C0052, PDF p.23]
+made through this procedure,
+criteria d) to f) below shall apply as follows to the two or more teams still equal onpoints:
+
+       d)         superior goal difference in all group matches;
+
+       e)       greatest number of goals scored in all group matches;
+
+       f)        highest team conduct score (players and team officials) relating to the number
+             of yellow and red cards obtained:
+
+             -       yellow card:                                                                                 minus 1 point
+
+             -       indirect red card (as a result of two yellow cards):      minus 3 points
+
+             -       direct red card:                                                                          minus 4 points
+
+             -       yellow card and direct red card:                                         minus 5 points
+
+Only one of the above deductions shall be applied to a player or team official in a single
+match. The team with the highest number of points shall be ranked highest.
+
+       g)       drawing of lots by FIFA.
+
+
+
+
+
+
+                                                                                                                            III.
+[C0031, PDF p.15]
+15
+
+
+
+
+ARTICLE 9: YELLOW AND RED CARDS
+
+9.1     The referee has the authority to take disciplinary action from entering the field
+      of play for the pre-match inspection until leaving the field of play after the match
+      ends (including penalties (penalty shoot-out)). If, before entering the field of play
+      at the start of the match, a player or team official commits a sending-off offence,
+      the referee has the authority to prevent the player or team official from taking
+      part in the match (see Laws of the Game, Law 12.3); the referee will report any
+      other misconduct.
+
+9.2    Single yellow cards and pending suspensions that could not be served during
+      the confederation’s club competition are not carried over to the Competition.
+
+9.3     Single yellow cards in the Competition will be cancelled after the quarter-finals.
+
+9.4    If a player or team official receives two cautions
+[C0051, PDF p.23]
+23
+
+
+
+
+ARTICLE 13: EQUAL POINTS AND QUALIFICATION FOR
+                         KNOCKOUT STAGE
+
+If two or more teams in the same group are equal on points after the completion of the
+group stage, the following criteria, in the order below, shall be applied to determine
+the ranking:
+
+       a)       greatest number of points obtained in the group matches between the teams
+             concerned;
+
+       b)       superior goal difference resulting from the group matches between the         teams
+             concerned;
+
+       c)   greatest number of goals scored in all group matches between the
+             teamsconcerned.
+
+If, after having applied criteria a) to c) above, teams still have an equal ranking, andin
+order to determine their final rankings, criteria a) to c) above are applied to the matches
+between the remaining teams only. If no decision can be made through this procedure,
+criteria d) to f) below shall apply as follows to the two or more teams still equal onpoints:
+
+       d)         superior
+
+RERANKED TOP 3
+[C0052, PDF p.23]
+made through this procedure,
+criteria d) to f) below shall apply as follows to the two or more teams still equal onpoints:
+
+       d)         superior goal difference in all group matches;
+
+       e)       greatest number of goals scored in all group matches;
+
+       f)        highest team conduct score (players and team officials) relating to the number
+             of yellow and red cards obtained:
+
+             -       yellow card:                                                                                 minus 1 point
+
+             -       indirect red card (as a result of two yellow cards):      minus 3 points
+
+             -       direct red card:                                                                          minus 4 points
+
+             -       yellow card and direct red card:                                         minus 5 points
+
+Only one of the above deductions shall be applied to a player or team official in a single
+match. The team with the highest number of points shall be ranked highest.
+
+       g)       drawing of lots by FIFA.
+
+
+
+
+
+
+                                                                                                                            III.
+[C0032, PDF p.15]
+.3     Single yellow cards in the Competition will be cancelled after the quarter-finals.
+
+9.4    If a player or team official receives two cautions during two different matches,
+      they will automatically be suspended from their team’s subsequent match.
+
+9.5     If a player or team official is sent off as a result of a direct or an indirect red card, they
+      will automatically be suspended from their team’s subsequent match. In addition,
+      further sanctions (e.g. additional suspensions, a fine, etc.) may beimposed.
+
+9.6     In line with article 74 of the FIFA Disciplinary Code, and without prejudice to any
+      other sanction that might result therefrom, any match suspension resulting from
+      a player or official being sent off (as a result of a direct or an indirect red card),
+      and any match suspension resulting from several cautions issued to a player
+      or official
+[C0031, PDF p.15]
+15
+
+
+
+
+ARTICLE 9: YELLOW AND RED CARDS
+
+9.1     The referee has the authority to take disciplinary action from entering the field
+      of play for the pre-match inspection until leaving the field of play after the match
+      ends (including penalties (penalty shoot-out)). If, before entering the field of play
+      at the start of the match, a player or team official commits a sending-off offence,
+      the referee has the authority to prevent the player or team official from taking
+      part in the match (see Laws of the Game, Law 12.3); the referee will report any
+      other misconduct.
+
+9.2    Single yellow cards and pending suspensions that could not be served during
+      the confederation’s club competition are not carried over to the Competition.
+
+9.3     Single yellow cards in the Competition will be cancelled after the quarter-finals.
+
+9.4    If a player or team official receives two cautions
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0052, PDF p.23]
+made through this procedure,
+criteria d) to f) below shall apply as follows to the two or more teams still equal onpoints:
+
+       d)         superior goal difference in all group matches;
+
+       e)       greatest number of goals scored in all group matches;
+
+       f)        highest team conduct score (players and team officials) relating to the number
+             of yellow and red cards obtained:
+
+             -       yellow card:                                                                                 minus 1 point
+
+             -       indirect red card (as a result of two yellow cards):      minus 3 points
+
+             -       direct red card:                                                                          minus 4 points
+
+             -       yellow card and direct red card:                                         minus 5 points
+
+Only one of the above deductions shall be applied to a player or team official in a single
+match. The team with the highest number of points shall be ranked highest.
+
+       g)       drawing of lots by FIFA.
+
+
+
+
+
+
+                                                                                                                            III.
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q23: Three clubs from one country each won their confederation championship during 2021-2024. Does the two-clubs-per-country cap necessarily exclude one of those winners?
+Article 11.5 | both_have_labelled_evidence
+Expected answer: No. The country cap has an exception where more than two clubs from the same country won the confederation premier competition during that period.
+Why test: Country cap versus title-winner exception.
+
+BASELINE TOP 3
+[C0042, PDF p.20]
+20
+
+
+
+
+
+
+          11.5     In the event of a club winning two or more editions of the confederation’s premier
+                   club competition during the 2021-2024 period, the FIFA club ranking calculated
+                   according to sporting criteria will be used to grant access. A cap of two clubs
+                   per country will be applied to the access list, with an exception in cases where
+                   more than two clubs from the same country win the confederation’s premier club
+                   competition over the four-year period.
+
+          11.6    In the event of a confederation holding fewer than four editions of a premier
+                   club competition during the 2021-2024 period, the FIFA club ranking calculated
+                   according to sporting criteria will be used to grant access to the confederation’s
+                   remaining slot(s).
+
+          11.7    Clubs that are not admitted shall be replaced in accordance with article 5 of
+                   these Regulations.
+
+          ARTICLE 12: GROUP AND KNOCKOUT STAGES
+
+          12.1    The Competition will be played in
+[C0040, PDF p.19]
+FIFA Council or the relevant committee may change the groups
+       at its sole discretion.
+
+11.4    On 14 March 2023, the FIFA Council decided to allocate the following number of
+       slots to the confederations for the Competition:
+
+
+
+         Confederation          Number of slots               Key principles of access
+
+         AFC                                                    4                         Four clubs (AFC Champions League winners
+                                                                 between 2021 and 2024)
+
+         CAF                                                    4                         Four clubs (CAF Champions League winners
+                                                                 between 2021 and 2024)
+
+         Concacaf                                         4                         Four clubs (Concacaf Champions Cup
+                                                                 winners between 2021 and 2024)
+
+         CONMEBOL                                   6                         Six clubs (CONMEBOL Libertadores winners
+                                                                 between 2021 and 2024 and two other
+                                                                 teams to be determined by the FIFA club
+                                                                 ranking based on the same four-year period)
+
+         OFC                                                     1                          One club (the highest-ranked club from
+                                                                 among the OFC Champions League winners
+                                                                 between 2021 and 2024)
+
+         UEFA                                                 12                        Twelve clubs (UEFA Champions League
+                                                                 winners between 2021 and 2024 and eight
+                                                                 other teams to
+[C0037, PDF p.17]
+17
+
+
+
+
+
+
+10.3   If two or more clubs fail to meet the criteria defined in paragraph 1 above, only one
+      of them may be admitted to the Competition. The FIFA Disciplinary Committee
+      shall have jurisdiction to decide whether the criteria defined in paragraph1 above
+      are met.
+
+10.4  If the FIFA Disciplinary Committee decides that two or more clubs fail to meet
+      the criteria defined in paragraph 1 above, the FIFA general secretariat shall decide
+      which club may be admitted to the Competition and how a club that is not admitted
+      shall be replaced in accordance with the following principles, taking into account,
+      in particular, the respective ranking(s) of the club(s) concerned and the applicable
+      quota per confederation and/or member association to which the club(s) concerned
+      is/are affiliated.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                        II.
+
+RERANKED TOP 3
+[C0042, PDF p.20]
+20
+
+
+
+
+
+
+          11.5     In the event of a club winning two or more editions of the confederation’s premier
+                   club competition during the 2021-2024 period, the FIFA club ranking calculated
+                   according to sporting criteria will be used to grant access. A cap of two clubs
+                   per country will be applied to the access list, with an exception in cases where
+                   more than two clubs from the same country win the confederation’s premier club
+                   competition over the four-year period.
+
+          11.6    In the event of a confederation holding fewer than four editions of a premier
+                   club competition during the 2021-2024 period, the FIFA club ranking calculated
+                   according to sporting criteria will be used to grant access to the confederation’s
+                   remaining slot(s).
+
+          11.7    Clubs that are not admitted shall be replaced in accordance with article 5 of
+                   these Regulations.
+
+          ARTICLE 12: GROUP AND KNOCKOUT STAGES
+
+          12.1    The Competition will be played in
+[C0040, PDF p.19]
+FIFA Council or the relevant committee may change the groups
+       at its sole discretion.
+
+11.4    On 14 March 2023, the FIFA Council decided to allocate the following number of
+       slots to the confederations for the Competition:
+
+
+
+         Confederation          Number of slots               Key principles of access
+
+         AFC                                                    4                         Four clubs (AFC Champions League winners
+                                                                 between 2021 and 2024)
+
+         CAF                                                    4                         Four clubs (CAF Champions League winners
+                                                                 between 2021 and 2024)
+
+         Concacaf                                         4                         Four clubs (Concacaf Champions Cup
+                                                                 winners between 2021 and 2024)
+
+         CONMEBOL                                   6                         Six clubs (CONMEBOL Libertadores winners
+                                                                 between 2021 and 2024 and two other
+                                                                 teams to be determined by the FIFA club
+                                                                 ranking based on the same four-year period)
+
+         OFC                                                     1                          One club (the highest-ranked club from
+                                                                 among the OFC Champions League winners
+                                                                 between 2021 and 2024)
+
+         UEFA                                                 12                        Twelve clubs (UEFA Champions League
+                                                                 winners between 2021 and 2024 and eight
+                                                                 other teams to
+[C0041, PDF p.19]
+OFC Champions League winners
+                                                                 between 2021 and 2024)
+
+         UEFA                                                 12                        Twelve clubs (UEFA Champions League
+                                                                 winners between 2021 and 2024 and eight
+                                                                 other teams to be determined by the FIFA
+                                                                 club ranking based on the same four-year
+                                                                 period)
+
+         Host (club TBC)                              1                          One club (access for the club occupying
+                                                                 this slot will be determined by FIFA at a later
+                                                                 stage)
+                                                                                                                                       III.
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0042, PDF p.20]
+20
+
+
+
+
+
+
+          11.5     In the event of a club winning two or more editions of the confederation’s premier
+                   club competition during the 2021-2024 period, the FIFA club ranking calculated
+                   according to sporting criteria will be used to grant access. A cap of two clubs
+                   per country will be applied to the access list, with an exception in cases where
+                   more than two clubs from the same country win the confederation’s premier club
+                   competition over the four-year period.
+
+          11.6    In the event of a confederation holding fewer than four editions of a premier
+                   club competition during the 2021-2024 period, the FIFA club ranking calculated
+                   according to sporting criteria will be used to grant access to the confederation’s
+                   remaining slot(s).
+
+          11.7    Clubs that are not admitted shall be replaced in accordance with article 5 of
+                   these Regulations.
+
+          ARTICLE 12: GROUP AND KNOCKOUT STAGES
+
+          12.1    The Competition will be played in
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q24: The roof was closed during the match because the weather became severe. When the weather improves, may the referee reopen it before the final whistle?
+Article 19.2 | both_have_labelled_evidence
+Expected answer: No. A roof closed in those circumstances must remain closed until the end of the match.
+Why test: Initial roof discretion versus the restriction after weather-related closure.
+
+BASELINE TOP 3
+[C0058, PDF p.28]
+ency purposes.
+
+       18.5  All Competition stadiums shall be tobacco-free and free of vapours from
+              e-cigarettes in accordance with the FIFA Event Policy on Tobacco. FIFA reserves
+              the right to determine whether outdoor designated smoking areas shall be
+              established for each stadium.
+
+       ARTICLE 19: STADIUM ROOF
+
+       19.1     If a stadium has a retractable roof, FIFA shall decide before the match whether the
+              roof shall be open or closed during the match. This decision must be announced
+              by the FIFA Match Director at the Match Coordination Meeting.
+
+       19.2   If the match starts with the roof open and there is a serious deterioration in
+              theweather conditions impacting the match, the referee, in consultation with
+              the FIFA Match Director, has the authority to order its closure during the match.
+              In such an event, the roof is to remain closed until the end of the match. The roof
+              may only be opened or closed if there
+[C0059, PDF p.28]
+match.
+              In such an event, the roof is to remain closed until the end of the match. The roof
+              may only be opened or closed if there is no one on the pitch.
+
+       ARTICLE 20: STADIUM CLOCKS AND GIANT SCREEN
+
+       20.1   Clocks in the stadium showing the length of time played may run during the
+              match, provided that they are stopped at the end of normal playing time in each
+              half, i.e. after 45 and 90 minutes respectively. This stipulation shall also apply if
+              extra time is played (i.e. after 15 minutes of each half).
+[C0112, PDF p.49]
+After each match, the referee shall complete the official match report online form
+      whilst still at the stadium, immediately after the match. On the form, the referee
+      shall note all occurrences of significance, such as misconduct of players leading
+      to caution or expulsion, unsporting behaviour by supporters and/or by officials
+      or any other person acting on behalf of a participating club at the match and any
+      other incident happening before, during and after the match in as much detail
+      as possible.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                      IX.
+
+RERANKED TOP 3
+[C0059, PDF p.28]
+match.
+              In such an event, the roof is to remain closed until the end of the match. The roof
+              may only be opened or closed if there is no one on the pitch.
+
+       ARTICLE 20: STADIUM CLOCKS AND GIANT SCREEN
+
+       20.1   Clocks in the stadium showing the length of time played may run during the
+              match, provided that they are stopped at the end of normal playing time in each
+              half, i.e. after 45 and 90 minutes respectively. This stipulation shall also apply if
+              extra time is played (i.e. after 15 minutes of each half).
+[C0058, PDF p.28]
+ency purposes.
+
+       18.5  All Competition stadiums shall be tobacco-free and free of vapours from
+              e-cigarettes in accordance with the FIFA Event Policy on Tobacco. FIFA reserves
+              the right to determine whether outdoor designated smoking areas shall be
+              established for each stadium.
+
+       ARTICLE 19: STADIUM ROOF
+
+       19.1     If a stadium has a retractable roof, FIFA shall decide before the match whether the
+              roof shall be open or closed during the match. This decision must be announced
+              by the FIFA Match Director at the Match Coordination Meeting.
+
+       19.2   If the match starts with the roof open and there is a serious deterioration in
+              theweather conditions impacting the match, the referee, in consultation with
+              the FIFA Match Director, has the authority to order its closure during the match.
+              In such an event, the roof is to remain closed until the end of the match. The roof
+              may only be opened or closed if there
+[C0112, PDF p.49]
+After each match, the referee shall complete the official match report online form
+      whilst still at the stadium, immediately after the match. On the form, the referee
+      shall note all occurrences of significance, such as misconduct of players leading
+      to caution or expulsion, unsporting behaviour by supporters and/or by officials
+      or any other person acting on behalf of a participating club at the match and any
+      other incident happening before, during and after the match in as much detail
+      as possible.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                      IX.
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0058, PDF p.28]
+ency purposes.
+
+       18.5  All Competition stadiums shall be tobacco-free and free of vapours from
+              e-cigarettes in accordance with the FIFA Event Policy on Tobacco. FIFA reserves
+              the right to determine whether outdoor designated smoking areas shall be
+              established for each stadium.
+
+       ARTICLE 19: STADIUM ROOF
+
+       19.1     If a stadium has a retractable roof, FIFA shall decide before the match whether the
+              roof shall be open or closed during the match. This decision must be announced
+              by the FIFA Match Director at the Match Coordination Meeting.
+
+       19.2   If the match starts with the roof open and there is a serious deterioration in
+              theweather conditions impacting the match, the referee, in consultation with
+              the FIFA Match Director, has the authority to order its closure during the match.
+              In such an event, the roof is to remain closed until the end of the match. The roof
+              may only be opened or closed if there
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q25: A protest is filed immediately after the tournament final, within the normal two-hour reporting period. Can it still be accepted under the protest procedure?
+Article 8.8 | both_miss_labelled_evidence
+Expected answer: No. Once the final match has ended, protests described in article 8 are disregarded, although the committee retains its power to act on disciplinary infringements on its own initiative.
+Why test: General reporting deadline versus the end-of-tournament cutoff; other grounds for inadmissibility may also apply.
+
+BASELINE TOP 3
+[C0027, PDF p.13]
+effect on matches, including but not limited
+      to the state of and markings on the pitch, accessory match equipment, eligibility
+      of players, stadium installations and footballs.
+
+8.2     Unless otherwise stipulated in this article, protests shall be submitted in writing
+      to the FIFA Match Director within two hours of the match in question, as well
+      as via the FIFA Legal Portal at legalportal.fifa.com    (cf. art. 18 par. 1 of the FIFA
+      Disciplinary Code) within 24 hours of the end of the match, otherwise they shall
+      be disregarded.
+                                                                                                                    II.
+[C0028, PDF p.14]
+14
+
+
+
+
+
+
+       8.3    Protests regarding the eligibility of players nominated for matches shall be
+              submitted via the FIFA Legal Portal at legalportal.fifa.com    (cf. art. 18 par. 1 ofthe
+              FIFA Disciplinary Code) no later than three days before the first match   of the
+              Competition. Such protests shall be dealt with by the FIFA DisciplinaryCommittee.
+
+       8.4     Protests regarding the state of the pitch, its surroundings, markings or accessory
+              items (e.g. goals, flagposts or footballs) shall be made in writing to the referee
+              before the start of the match by the head of delegation of the team lodging
+              the protest. If the pitch’s playing surface becomes unplayable during a match,
+              the captain of the protesting team shall immediately lodge a protest with the
+              referee in the presence of the captain of the opposing team. The protests shall
+              be confirmed in writing to the FIFA Match
+[C0029, PDF p.14]
+shall immediately lodge a protest with the
+              referee in the presence of the captain of the opposing team. The protests shall
+              be confirmed in writing to the FIFA Match Director by the head of delegation of
+              the team no later than two hours after the match.
+
+       8.5    Protests against any incidents that occur during the course of a match shall be
+              made to the referee by the team captain immediately after the disputed incident
+              and before play has resumed, in the presence of the captain of the opposing team.
+              The protest shall be confirmed in writing to the FIFA Match Director by the head
+              of delegation of the team no later than two hours after the match.
+
+       8.6     No protests may be made about the referee’s decisions regarding facts connected
+              with play. Such decisions are final and not subject to appeal, unless otherwise
+              stipulated in the FIFA Disciplinary Code.
+
+       8.7     If an unfounded or irresponsible protest is lodged, the
+
+RERANKED TOP 3
+[C0029, PDF p.14]
+shall immediately lodge a protest with the
+              referee in the presence of the captain of the opposing team. The protests shall
+              be confirmed in writing to the FIFA Match Director by the head of delegation of
+              the team no later than two hours after the match.
+
+       8.5    Protests against any incidents that occur during the course of a match shall be
+              made to the referee by the team captain immediately after the disputed incident
+              and before play has resumed, in the presence of the captain of the opposing team.
+              The protest shall be confirmed in writing to the FIFA Match Director by the head
+              of delegation of the team no later than two hours after the match.
+
+       8.6     No protests may be made about the referee’s decisions regarding facts connected
+              with play. Such decisions are final and not subject to appeal, unless otherwise
+              stipulated in the FIFA Disciplinary Code.
+
+       8.7     If an unfounded or irresponsible protest is lodged, the
+[C0028, PDF p.14]
+14
+
+
+
+
+
+
+       8.3    Protests regarding the eligibility of players nominated for matches shall be
+              submitted via the FIFA Legal Portal at legalportal.fifa.com    (cf. art. 18 par. 1 ofthe
+              FIFA Disciplinary Code) no later than three days before the first match   of the
+              Competition. Such protests shall be dealt with by the FIFA DisciplinaryCommittee.
+
+       8.4     Protests regarding the state of the pitch, its surroundings, markings or accessory
+              items (e.g. goals, flagposts or footballs) shall be made in writing to the referee
+              before the start of the match by the head of delegation of the team lodging
+              the protest. If the pitch’s playing surface becomes unplayable during a match,
+              the captain of the protesting team shall immediately lodge a protest with the
+              referee in the presence of the captain of the opposing team. The protests shall
+              be confirmed in writing to the FIFA Match
+[C0027, PDF p.13]
+effect on matches, including but not limited
+      to the state of and markings on the pitch, accessory match equipment, eligibility
+      of players, stadium installations and footballs.
+
+8.2     Unless otherwise stipulated in this article, protests shall be submitted in writing
+      to the FIFA Match Director within two hours of the match in question, as well
+      as via the FIFA Legal Portal at legalportal.fifa.com    (cf. art. 18 par. 1 of the FIFA
+      Disciplinary Code) within 24 hours of the end of the match, otherwise they shall
+      be disregarded.
+                                                                                                                    II.
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0030, PDF p.14]
+subject to appeal, unless otherwise
+              stipulated in the FIFA Disciplinary Code.
+
+       8.7     If an unfounded or irresponsible protest is lodged, the FIFA Disciplinary Committee
+              may impose disciplinary measures against the participating club concerned.
+
+       8.8    If any of the formal conditions of a protest as set out in these Regulations are not
+              met, such protest shall be disregarded by the competent body. Once the final
+              match of the Competition has ended, any protests described in this article shall
+              be disregarded. Notwithstanding the above, the FIFA Disciplinary Committee
+              remains competent to prosecute any disciplinary infringement ex officio  , as
+              established in the FIFA Disciplinary Code.
+
+       8.9    FIFA shall pass decisions on any protests lodged, subject to the exceptions
+              stipulated in these Regulations, the FIFA Statutes or any other FIFA regulations.
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q26: A team medical doctor is also trained in safeguarding. Must the club hire a separate person to be its designated safeguarding and welfare officer?
+Article 26 | both_have_labelled_evidence
+Expected answer: No. The role need not be exclusive and may be assigned to the doctor or another trained accredited delegation member; the designated officer must complete the specified safeguarding course.
+Why test: Two mandatory roles do not necessarily require two different people.
+
+BASELINE TOP 3
+[C0076, PDF p.35]
+35
+
+
+
+
+ARTICLE 26: TEAM SAFEGUARDING/WELFARE OFFICER
+
+Each participating club shall appoint a designated Team Safeguarding/Welfare Officer
+to act as a focal point for all matters related to the safeguarding and well-being of their
+players and team delegation. This role does not have to be exclusive and can be assigned
+to the team medical doctor or other trained member of the accredited team delegation.
+It is a mandatory requirement that the designated Team Safeguarding/Welfare Officer
+complete the FIFA Guardians™ Safeguarding Essentials: Open Learners     online course.
+The role of the Team Safeguarding/Welfare Officer is to:
+
+      •         act as the first point of contact and lead for all safeguarding matters within the
+           team delegation during the Competition;
+
+      •         take all reasonable steps to ensure that the players’ and Delegation Members’
+           mental and physical well-being is prioritised;
+
+      •      liaise with the Competition Safeguarding Manager and the FIFA Event
+           Safeguard
+[C0077, PDF p.35]
+’ and Delegation Members’
+           mental and physical well-being is prioritised;
+
+      •      liaise with the Competition Safeguarding Manager and the FIFA Event
+           Safeguarding Manager should a concern or an allegation of harassment or
+           abuse (be it psychological, physical or sexual, or neglect) arise; and
+
+      •         know the specific safeguarding measures for the Competition and the avenues
+           available for reporting concerns.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                  VI.
+[C0072, PDF p.33]
+club, who shall inform FIFA accordingly.
+      Upon receipt and acceptance of a written detailed medical assessment in one of
+      the official FIFA languages, the FIFA Medical Committee, represented by the FIFA
+      Tournament Medical Lead, will issue a certificate stating that the injury or illness is
+      sufficiently serious to prevent the goalkeeper from taking part in the Competition.                              VI.
+
+RERANKED TOP 3
+[C0076, PDF p.35]
+35
+
+
+
+
+ARTICLE 26: TEAM SAFEGUARDING/WELFARE OFFICER
+
+Each participating club shall appoint a designated Team Safeguarding/Welfare Officer
+to act as a focal point for all matters related to the safeguarding and well-being of their
+players and team delegation. This role does not have to be exclusive and can be assigned
+to the team medical doctor or other trained member of the accredited team delegation.
+It is a mandatory requirement that the designated Team Safeguarding/Welfare Officer
+complete the FIFA Guardians™ Safeguarding Essentials: Open Learners     online course.
+The role of the Team Safeguarding/Welfare Officer is to:
+
+      •         act as the first point of contact and lead for all safeguarding matters within the
+           team delegation during the Competition;
+
+      •         take all reasonable steps to ensure that the players’ and Delegation Members’
+           mental and physical well-being is prioritised;
+
+      •      liaise with the Competition Safeguarding Manager and the FIFA Event
+           Safeguard
+[C0116, PDF p.53]
+53
+
+
+
+
+ARTICLE 38: TEAM MEDICAL DOCTOR
+
+Each participating club shall include at least one team medical doctor (two are
+recommended) in its delegation, to be present in the technical area during all matches.
+It is a mandatory requirement that the team medical doctor(s) of each participating
+club complete and successfully pass the “Concussion” and “Sudden Cardiac Arrest”
+modules of the FIFA Diploma in Football Medicine (www.fifamedicalnetwork.com)
+before the Competition.
+
+ARTICLE 39: SUDDEN CARDIAC ARREST AND
+                       CONCUSSION
+
+39.1   Each participating club shall ensure and confirm to FIFA that its players have
+      undergone a pre-competition medical assessment (PCMA), including history,
+      clinical examination and ECG, in the 12 months prior to the start of the Competition,
+      and echocardiography within the 24 months prior to the start of the Competition.
+      If specifically performed for the Competition, FIFA    recommends that participating
+      clubs use the PC
+[C0119, PDF p.53]
+their symptoms and
+      medical history, and that doctors must use their clinical judgement in making
+      decisions with respect to return to play. The player’s welfare shall be their sole
+      concern. FIFA requires that before any player who suffers a concussive episode                           XI.
+      can return to play, the team doctor certify that a) such player has passed each
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0076, PDF p.35]
+35
+
+
+
+
+ARTICLE 26: TEAM SAFEGUARDING/WELFARE OFFICER
+
+Each participating club shall appoint a designated Team Safeguarding/Welfare Officer
+to act as a focal point for all matters related to the safeguarding and well-being of their
+players and team delegation. This role does not have to be exclusive and can be assigned
+to the team medical doctor or other trained member of the accredited team delegation.
+It is a mandatory requirement that the designated Team Safeguarding/Welfare Officer
+complete the FIFA Guardians™ Safeguarding Essentials: Open Learners     online course.
+The role of the Team Safeguarding/Welfare Officer is to:
+
+      •         act as the first point of contact and lead for all safeguarding matters within the
+           team delegation during the Competition;
+
+      •         take all reasonable steps to ensure that the players’ and Delegation Members’
+           mental and physical well-being is prioritised;
+
+      •      liaise with the Competition Safeguarding Manager and the FIFA Event
+           Safeguard
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q27: Both teams make a substitution at the same stoppage in normal time. Does that interruption use a substitution opportunity for just one team or for each team?
+Article 35.2(b) | both_have_labelled_evidence
+Expected answer: It counts as a used substitution opportunity for each team.
+Why test: Shared clock stoppage versus separate team opportunity accounting.
+
+BASELINE TOP 3
+[C0106, PDF p.47]
+a substitution
+            opportunity.
+
+35.3  In accordance with Law 3 of the Laws of the Game, teams may make one additional
+      permanent concussion substitution per match. The additional permanent
+      concussion substitution may be made regardless of the number of substitutions
+      already made. The opposing team will then receive an additionalregular
+      substitution.
+
+35.4  Where extra time is played, each team:
+
+      a)        may use an additional substitute (whether or not the team has used its maximum
+            number of substitutes);
+
+      b)    has one additional substitution opportunity (whether or not the team has
+            used its maximum number of substitution opportunities). Where both teams
+            make a substitution at the same time, this will count as a used substitution
+            opportunity for each team; and
+
+      c)       may make substitutions:
+
+            i)     in the period before the start of extra time, which will not count as a
+                  substitution opportunity; and
+
+            ii)        at half-time in extra time
+[C0105, PDF p.47]
+47
+
+
+
+
+ARTICLE 35: LAWS OF THE GAME
+
+35.1    All matches shall be played in accordance with the Laws of the Game in force at the
+      time of the Competition and as laid down by The International Football Association
+      Board (“The IFAB”). In the case of any discrepancy in the interpretation of the
+      translations of the Laws of the Game, the English version shall be authoritative.
+
+35.2  During the match, each team:
+
+      a)       may use a maximum of five substitutes;
+
+      b)       has a maximum of three substitution opportunities. Where both teams make a
+            substitution at the same time, this will count as a used substitution opportunity
+            for each team; and:
+
+      c)     may make substitutions at half-time, which will not count as a substitution
+            opportunity.
+
+35.3  In accordance with Law 3 of the Laws of the Game, teams may make one additional
+      permanent concussion substitution per match.
+[C0107, PDF p.47]
+)     in the period before the start of extra time, which will not count as a
+                  substitution opportunity; and
+
+            ii)        at half-time in extra time, which will not count as a substitution opportunity.
+
+      If a team has not used the maximum number of substitutes and/or substitution
+      opportunities, any unused substitutes and substitution opportunities may be
+      used in extra time.
+
+                                                                                                                   IX.
+
+RERANKED TOP 3
+[C0106, PDF p.47]
+a substitution
+            opportunity.
+
+35.3  In accordance with Law 3 of the Laws of the Game, teams may make one additional
+      permanent concussion substitution per match. The additional permanent
+      concussion substitution may be made regardless of the number of substitutions
+      already made. The opposing team will then receive an additionalregular
+      substitution.
+
+35.4  Where extra time is played, each team:
+
+      a)        may use an additional substitute (whether or not the team has used its maximum
+            number of substitutes);
+
+      b)    has one additional substitution opportunity (whether or not the team has
+            used its maximum number of substitution opportunities). Where both teams
+            make a substitution at the same time, this will count as a used substitution
+            opportunity for each team; and
+
+      c)       may make substitutions:
+
+            i)     in the period before the start of extra time, which will not count as a
+                  substitution opportunity; and
+
+            ii)        at half-time in extra time
+[C0105, PDF p.47]
+47
+
+
+
+
+ARTICLE 35: LAWS OF THE GAME
+
+35.1    All matches shall be played in accordance with the Laws of the Game in force at the
+      time of the Competition and as laid down by The International Football Association
+      Board (“The IFAB”). In the case of any discrepancy in the interpretation of the
+      translations of the Laws of the Game, the English version shall be authoritative.
+
+35.2  During the match, each team:
+
+      a)       may use a maximum of five substitutes;
+
+      b)       has a maximum of three substitution opportunities. Where both teams make a
+            substitution at the same time, this will count as a used substitution opportunity
+            for each team; and:
+
+      c)     may make substitutions at half-time, which will not count as a substitution
+            opportunity.
+
+35.3  In accordance with Law 3 of the Laws of the Game, teams may make one additional
+      permanent concussion substitution per match.
+[C0107, PDF p.47]
+)     in the period before the start of extra time, which will not count as a
+                  substitution opportunity; and
+
+            ii)        at half-time in extra time, which will not count as a substitution opportunity.
+
+      If a team has not used the maximum number of substitutes and/or substitution
+      opportunities, any unused substitutes and substitution opportunities may be
+      used in extra time.
+
+                                                                                                                   IX.
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0105, PDF p.47]
+47
+
+
+
+
+ARTICLE 35: LAWS OF THE GAME
+
+35.1    All matches shall be played in accordance with the Laws of the Game in force at the
+      time of the Competition and as laid down by The International Football Association
+      Board (“The IFAB”). In the case of any discrepancy in the interpretation of the
+      translations of the Laws of the Game, the English version shall be authoritative.
+
+35.2  During the match, each team:
+
+      a)       may use a maximum of five substitutes;
+
+      b)       has a maximum of three substitution opportunities. Where both teams make a
+            substitution at the same time, this will count as a used substitution opportunity
+            for each team; and:
+
+      c)     may make substitutions at half-time, which will not count as a substitution
+            opportunity.
+
+35.3  In accordance with Law 3 of the Laws of the Game, teams may make one additional
+      permanent concussion substitution per match.
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q28: Our opponent uses an additional permanent concussion replacement. Does our team get any extra regular substitution even though our own players are uninjured?
+Article 35.3 | both_have_labelled_evidence
+Expected answer: Yes. The opposing team receives an additional regular substitution.
+Why test: The queried entitlement belongs to the opposing team, not the injured player’s team.
+
+BASELINE TOP 3
+[C0106, PDF p.47]
+a substitution
+            opportunity.
+
+35.3  In accordance with Law 3 of the Laws of the Game, teams may make one additional
+      permanent concussion substitution per match. The additional permanent
+      concussion substitution may be made regardless of the number of substitutions
+      already made. The opposing team will then receive an additionalregular
+      substitution.
+
+35.4  Where extra time is played, each team:
+
+      a)        may use an additional substitute (whether or not the team has used its maximum
+            number of substitutes);
+
+      b)    has one additional substitution opportunity (whether or not the team has
+            used its maximum number of substitution opportunities). Where both teams
+            make a substitution at the same time, this will count as a used substitution
+            opportunity for each team; and
+
+      c)       may make substitutions:
+
+            i)     in the period before the start of extra time, which will not count as a
+                  substitution opportunity; and
+
+            ii)        at half-time in extra time
+[C0105, PDF p.47]
+47
+
+
+
+
+ARTICLE 35: LAWS OF THE GAME
+
+35.1    All matches shall be played in accordance with the Laws of the Game in force at the
+      time of the Competition and as laid down by The International Football Association
+      Board (“The IFAB”). In the case of any discrepancy in the interpretation of the
+      translations of the Laws of the Game, the English version shall be authoritative.
+
+35.2  During the match, each team:
+
+      a)       may use a maximum of five substitutes;
+
+      b)       has a maximum of three substitution opportunities. Where both teams make a
+            substitution at the same time, this will count as a used substitution opportunity
+            for each team; and:
+
+      c)     may make substitutions at half-time, which will not count as a substitution
+            opportunity.
+
+35.3  In accordance with Law 3 of the Laws of the Game, teams may make one additional
+      permanent concussion substitution per match.
+[C0118, PDF p.53]
+accordance with the FIFA Medical
+      Concussion Protocol. The referee may temporarily suspend play for three minutes
+      whenever an incident of suspected concussion occurs. The referee may only
+      allow the player to continue playing with the authorisation of the team medical
+      doctor, who shall have evaluated the player and excluded any suspicion of a
+      concussive injury. The team doctor will have the final decision based on a clinical
+      examination. Under no circumstances should a player with suspected concussion
+      return toplay.
+
+39.4  FIFA recommends that medical teams follow the graduated return-to-play protocol
+      set forth in the FIFA Medical Concussion Protocol for any player who has suffered
+      concussion. The protocol recognises that the time frame for return to play may
+      vary, dependent on factors such as the player’s age, gender, their symptoms and
+      medical history, and that doctors must use their clinical judgement in making
+      decisions with respect to return to play. The player’s welfare shall
+
+RERANKED TOP 3
+[C0106, PDF p.47]
+a substitution
+            opportunity.
+
+35.3  In accordance with Law 3 of the Laws of the Game, teams may make one additional
+      permanent concussion substitution per match. The additional permanent
+      concussion substitution may be made regardless of the number of substitutions
+      already made. The opposing team will then receive an additionalregular
+      substitution.
+
+35.4  Where extra time is played, each team:
+
+      a)        may use an additional substitute (whether or not the team has used its maximum
+            number of substitutes);
+
+      b)    has one additional substitution opportunity (whether or not the team has
+            used its maximum number of substitution opportunities). Where both teams
+            make a substitution at the same time, this will count as a used substitution
+            opportunity for each team; and
+
+      c)       may make substitutions:
+
+            i)     in the period before the start of extra time, which will not count as a
+                  substitution opportunity; and
+
+            ii)        at half-time in extra time
+[C0105, PDF p.47]
+47
+
+
+
+
+ARTICLE 35: LAWS OF THE GAME
+
+35.1    All matches shall be played in accordance with the Laws of the Game in force at the
+      time of the Competition and as laid down by The International Football Association
+      Board (“The IFAB”). In the case of any discrepancy in the interpretation of the
+      translations of the Laws of the Game, the English version shall be authoritative.
+
+35.2  During the match, each team:
+
+      a)       may use a maximum of five substitutes;
+
+      b)       has a maximum of three substitution opportunities. Where both teams make a
+            substitution at the same time, this will count as a used substitution opportunity
+            for each team; and:
+
+      c)     may make substitutions at half-time, which will not count as a substitution
+            opportunity.
+
+35.3  In accordance with Law 3 of the Laws of the Game, teams may make one additional
+      permanent concussion substitution per match.
+[C0094, PDF p.42]
+list are not able to begin the match
+              due to injury or illness, they may be replaced by any of the eligible substitutes as
+              long as the FIFA Match Director and the referee are officially informed thereof prior
+              to kick-off. Within 24 hours, the team concerned shall also provideFIFA with a
+              medical report issued by the medical doctor (in one of the official FIFA languages).
+
+        31.5   Further to the above, any injured or ill player who is removed from the start list
+              will no longer be eligible to take part in the match, and thus cannot be selected
+              as a substitute player at any time during the match. Such a change to the start list
+              will not reduce the number of official substitutions that may be made by a team
+              during the match. Although no longer eligible to play as a substitute, the    injured
+              or ill player who was removed from the start list before kick-off may be seated
+              on
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0106, PDF p.47]
+a substitution
+            opportunity.
+
+35.3  In accordance with Law 3 of the Laws of the Game, teams may make one additional
+      permanent concussion substitution per match. The additional permanent
+      concussion substitution may be made regardless of the number of substitutions
+      already made. The opposing team will then receive an additionalregular
+      substitution.
+
+35.4  Where extra time is played, each team:
+
+      a)        may use an additional substitute (whether or not the team has used its maximum
+            number of substitutes);
+
+      b)    has one additional substitution opportunity (whether or not the team has
+            used its maximum number of substitution opportunities). Where both teams
+            make a substitution at the same time, this will count as a used substitution
+            opportunity for each team; and
+
+      c)       may make substitutions:
+
+            i)     in the period before the start of extra time, which will not count as a
+                  substitution opportunity; and
+
+            ii)        at half-time in extra time
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q29: Our club has already filled all 35 places on its final player list. During 27 June to 3 July, can it add two otherwise eligible players without using those 35 places?
+Article 24.3(b-c) | both_have_labelled_evidence
+Expected answer: Yes. Up to two new players may be added without counting towards the 35-player maximum; replacements and additions under 24.3(a-b) together may not exceed six, and the other registration and notification conditions still apply.
+Why test: General final-list size versus a dated exception.
+
+BASELINE TOP 3
+[C0070, PDF p.33]
+in the
+      Competition. In accordance with article 31 of these regulations, a maximum of
+      26 players (11 starting players and a maximum of 15 substitutes) may be selected
+      to participate in each match.
+
+24.3  Without prejudice to paragraphs 4 and 8 below, from 27 June 2025 to 3 July 2025,
+      clubs may make the following changes to their final list:
+
+      a)    Clubs may replace players whose contracts have naturally expired during
+            theCompetition.
+
+      b)     Clubs may add up to two new players to their final list, who shall not count
+            towards the maximum of 35 players.
+
+      c)       The total number of players changed on, or added to, the final list under a)and
+            b) above together may not exceed six.
+
+      d)     Any player changed on, or added to, the final list shall be duly registered for
+            their club in accordance with the RSTP as well as with the regulations of
+[C0069, PDF p.33]
+33
+
+
+
+
+ARTICLE 24: FINAL LIST
+
+24.1   Each participating club shall submit online a final list of a minimum of 26 players
+      and a maximum of 35 players (a minimum of three of whom shall be goalkeepers)
+      selected to participate in the Competition. A copy of the final list, signed by the
+      club, shall be submitted to FIFA by the deadline stipulated in the relevant circular
+      letter. All information requested online about the players shall be duly completed.
+      The final list shall contain the players’ shirt names and numbers in accordance
+      with article 28 paragraphs 1 and 2 of these Regulations.
+
+24.2  The players on the final list shall only be selected from the players on the provisional
+      list. Only up to 35 players on the final list will be permitted to take part in the
+      Competition. In accordance with article 31 of these regulations, a maximum of
+      26 players (11 starting players and a maximum of 15 substitutes) may
+[C0068, PDF p.32]
+up until the submission of the final
+              list. Any change requests must be submitted in writing.
+
+       23.6  Should two clubs wish to include the same player on their respective provisional
+              list, the FIFA general secretariat shall decide for which club the player may be
+              listed, after hearing all concerned parties.
+
+RERANKED TOP 3
+[C0070, PDF p.33]
+in the
+      Competition. In accordance with article 31 of these regulations, a maximum of
+      26 players (11 starting players and a maximum of 15 substitutes) may be selected
+      to participate in each match.
+
+24.3  Without prejudice to paragraphs 4 and 8 below, from 27 June 2025 to 3 July 2025,
+      clubs may make the following changes to their final list:
+
+      a)    Clubs may replace players whose contracts have naturally expired during
+            theCompetition.
+
+      b)     Clubs may add up to two new players to their final list, who shall not count
+            towards the maximum of 35 players.
+
+      c)       The total number of players changed on, or added to, the final list under a)and
+            b) above together may not exceed six.
+
+      d)     Any player changed on, or added to, the final list shall be duly registered for
+            their club in accordance with the RSTP as well as with the regulations of
+[C0069, PDF p.33]
+33
+
+
+
+
+ARTICLE 24: FINAL LIST
+
+24.1   Each participating club shall submit online a final list of a minimum of 26 players
+      and a maximum of 35 players (a minimum of three of whom shall be goalkeepers)
+      selected to participate in the Competition. A copy of the final list, signed by the
+      club, shall be submitted to FIFA by the deadline stipulated in the relevant circular
+      letter. All information requested online about the players shall be duly completed.
+      The final list shall contain the players’ shirt names and numbers in accordance
+      with article 28 paragraphs 1 and 2 of these Regulations.
+
+24.2  The players on the final list shall only be selected from the players on the provisional
+      list. Only up to 35 players on the final list will be permitted to take part in the
+      Competition. In accordance with article 31 of these regulations, a maximum of
+      26 players (11 starting players and a maximum of 15 substitutes) may
+[C0068, PDF p.32]
+up until the submission of the final
+              list. Any change requests must be submitted in writing.
+
+       23.6  Should two clubs wish to include the same player on their respective provisional
+              list, the FIFA general secretariat shall decide for which club the player may be
+              listed, after hearing all concerned parties.
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0070, PDF p.33]
+in the
+      Competition. In accordance with article 31 of these regulations, a maximum of
+      26 players (11 starting players and a maximum of 15 substitutes) may be selected
+      to participate in each match.
+
+24.3  Without prejudice to paragraphs 4 and 8 below, from 27 June 2025 to 3 July 2025,
+      clubs may make the following changes to their final list:
+
+      a)    Clubs may replace players whose contracts have naturally expired during
+            theCompetition.
+
+      b)     Clubs may add up to two new players to their final list, who shall not count
+            towards the maximum of 35 players.
+
+      c)       The total number of players changed on, or added to, the final list under a)and
+            b) above together may not exceed six.
+
+      d)     Any player changed on, or added to, the final list shall be duly registered for
+            their club in accordance with the RSTP as well as with the regulations of
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q30: We use only three goalkeepers in our final tournament squad. Is listing those same three enough for the earlier provisional player submission?
+Article 23.1 | candidate_recovery
+Expected answer: No. The provisional list requires at least four goalkeepers.
+Why test: Minimum of three for the final list versus four for the provisional list.
+
+BASELINE TOP 3
+[C0073, PDF p.34]
+34
+
+
+
+
+
+
+              Injured or ill goalkeepers who are replaced must return their accreditation to FIFA.
+              Accordingly, goalkeepers who have returned their accreditation shall no longer
+              be considered members of the participating club’s final list.
+
+        24.5  The final list of a maximum of 35 players will be published by FIFA after the
+              submission deadline.
+
+        24.6     Along with the above final list of players, a final list of up to 29 officials shall be
+              submitted online by the deadline stipulated in the relevant circular letter. Onlythe
+              29 officials confirmed on the final list will be eligible to sit on the team bench
+              during matches (cf. article 32 of these Regulations).
+
+        24.7  Before the start of the Competition, every player and official on the final list must
+              prove their identity by producing their legally valid individual passport with a
+              photograph. Any player or official who fails to submit this document will not be
+              allowed to take part in the Competition.
+[C0069, PDF p.33]
+33
+
+
+
+
+ARTICLE 24: FINAL LIST
+
+24.1   Each participating club shall submit online a final list of a minimum of 26 players
+      and a maximum of 35 players (a minimum of three of whom shall be goalkeepers)
+      selected to participate in the Competition. A copy of the final list, signed by the
+      club, shall be submitted to FIFA by the deadline stipulated in the relevant circular
+      letter. All information requested online about the players shall be duly completed.
+      The final list shall contain the players’ shirt names and numbers in accordance
+      with article 28 paragraphs 1 and 2 of these Regulations.
+
+24.2  The players on the final list shall only be selected from the players on the provisional
+      list. Only up to 35 players on the final list will be permitted to take part in the
+      Competition. In accordance with article 31 of these regulations, a maximum of
+      26 players (11 starting players and a maximum of 15 substitutes) may
+[C0068, PDF p.32]
+up until the submission of the final
+              list. Any change requests must be submitted in writing.
+
+       23.6  Should two clubs wish to include the same player on their respective provisional
+              list, the FIFA general secretariat shall decide for which club the player may be
+              listed, after hearing all concerned parties.
+
+RERANKED TOP 3
+[C0069, PDF p.33]
+33
+
+
+
+
+ARTICLE 24: FINAL LIST
+
+24.1   Each participating club shall submit online a final list of a minimum of 26 players
+      and a maximum of 35 players (a minimum of three of whom shall be goalkeepers)
+      selected to participate in the Competition. A copy of the final list, signed by the
+      club, shall be submitted to FIFA by the deadline stipulated in the relevant circular
+      letter. All information requested online about the players shall be duly completed.
+      The final list shall contain the players’ shirt names and numbers in accordance
+      with article 28 paragraphs 1 and 2 of these Regulations.
+
+24.2  The players on the final list shall only be selected from the players on the provisional
+      list. Only up to 35 players on the final list will be permitted to take part in the
+      Competition. In accordance with article 31 of these regulations, a maximum of
+      26 players (11 starting players and a maximum of 15 substitutes) may
+[C0068, PDF p.32]
+up until the submission of the final
+              list. Any change requests must be submitted in writing.
+
+       23.6  Should two clubs wish to include the same player on their respective provisional
+              list, the FIFA general secretariat shall decide for which club the player may be
+              listed, after hearing all concerned parties.
+[C0066, PDF p.32]
+32
+
+
+
+
+       ARTICLE 23: PROVISIONAL LIST
+
+       23.1   Each participating club shall submit online a provisional list of a minimum of
+              26 players and a maximum of 50 players (a minimum of four of whom shall be
+              goalkeepers), all of whom shall be duly registered for their club, accompanied
+              by an accreditation photo and a copy of the passport of each player appearing
+              on the list.  A copy of the provisional list, signed by the club and by the member
+              association to which the club is affiliated, shall also be submitted to FIFA by the
+              deadline stipulated in the relevant circular letter. When signing the provisional
+              list, the member association shall confirm that all players on the provisional list
+              are duly registered for the club.
+
+       23.2  The provisional list shall contain information such as the player’s full last name(s),
+              all first names, popular name, name on the shirt, date of birth, passport number
+              and expi
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0066, PDF p.32]
+32
+
+
+
+
+       ARTICLE 23: PROVISIONAL LIST
+
+       23.1   Each participating club shall submit online a provisional list of a minimum of
+              26 players and a maximum of 50 players (a minimum of four of whom shall be
+              goalkeepers), all of whom shall be duly registered for their club, accompanied
+              by an accreditation photo and a copy of the passport of each player appearing
+              on the list.  A copy of the provisional list, signed by the club and by the member
+              association to which the club is affiliated, shall also be submitted to FIFA by the
+              deadline stipulated in the relevant circular letter. When signing the provisional
+              list, the member association shall confirm that all players on the provisional list
+              are duly registered for the club.
+
+       23.2  The provisional list shall contain information such as the player’s full last name(s),
+              all first names, popular name, name on the shirt, date of birth, passport number
+              and expi
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q31: The stadium roof needs to be moved before kick-off, and the players are already warming up on the pitch. Can it be moved while they remain there?
+Article 19.2 | both_have_labelled_evidence
+Expected answer: No. The roof may only be opened or closed when no one is on the pitch.
+Why test: Authority to move the roof versus the pitch-occupancy condition.
+
+BASELINE TOP 3
+[C0059, PDF p.28]
+match.
+              In such an event, the roof is to remain closed until the end of the match. The roof
+              may only be opened or closed if there is no one on the pitch.
+
+       ARTICLE 20: STADIUM CLOCKS AND GIANT SCREEN
+
+       20.1   Clocks in the stadium showing the length of time played may run during the
+              match, provided that they are stopped at the end of normal playing time in each
+              half, i.e. after 45 and 90 minutes respectively. This stipulation shall also apply if
+              extra time is played (i.e. after 15 minutes of each half).
+[C0058, PDF p.28]
+ency purposes.
+
+       18.5  All Competition stadiums shall be tobacco-free and free of vapours from
+              e-cigarettes in accordance with the FIFA Event Policy on Tobacco. FIFA reserves
+              the right to determine whether outdoor designated smoking areas shall be
+              established for each stadium.
+
+       ARTICLE 19: STADIUM ROOF
+
+       19.1     If a stadium has a retractable roof, FIFA shall decide before the match whether the
+              roof shall be open or closed during the match. This decision must be announced
+              by the FIFA Match Director at the Match Coordination Meeting.
+
+       19.2   If the match starts with the roof open and there is a serious deterioration in
+              theweather conditions impacting the match, the referee, in consultation with
+              the FIFA Match Director, has the authority to order its closure during the match.
+              In such an event, the roof is to remain closed until the end of the match. The roof
+              may only be opened or closed if there
+[C0097, PDF p.43]
+technical overflow seats in the stand shall be allocated
+      for accredited officials providing technical support to the team during the match
+      (kit manager, assistant physiotherapist, etc.). Staff occupying such seats shall
+      have access to the dressing rooms.
+
+32.4  During the match, substitutes are allowed to leave the technical area to warm
+      up. At the Match Coordination Meeting, the FIFA Match Director shall explain
+      exactly where they may warm up.
+
+32.5  A maximum of five players per team shall warm up at the same time behind
+      the advertising boards to the rear of the goal (with a maximum of one official).
+      Ifthere is not sufficient space behind the goals, both teams shall warm up in the
+      designated area behind the first assistant referee or next to their own team bench.
+      In this case, five players and one official per team may warm up at the same time.
+      Thewarm-
+
+RERANKED TOP 3
+[C0059, PDF p.28]
+match.
+              In such an event, the roof is to remain closed until the end of the match. The roof
+              may only be opened or closed if there is no one on the pitch.
+
+       ARTICLE 20: STADIUM CLOCKS AND GIANT SCREEN
+
+       20.1   Clocks in the stadium showing the length of time played may run during the
+              match, provided that they are stopped at the end of normal playing time in each
+              half, i.e. after 45 and 90 minutes respectively. This stipulation shall also apply if
+              extra time is played (i.e. after 15 minutes of each half).
+[C0095, PDF p.42]
+Although no longer eligible to play as a substitute, the    injured
+              or ill player who was removed from the start list before kick-off may be seated
+              on the team bench.
+
+        31.6   Only the players who were identified on the official start list submitted to the FIFA
+              Match Director, or were confirmed as a warm-up injury/illness replacement player,
+              may start the match. In the case of any discrepancies of players on the pitch at
+              the beginning of the match, the matter will be submitted to the FIFA Disciplinary
+              Committee for a decision.
+[C0058, PDF p.28]
+ency purposes.
+
+       18.5  All Competition stadiums shall be tobacco-free and free of vapours from
+              e-cigarettes in accordance with the FIFA Event Policy on Tobacco. FIFA reserves
+              the right to determine whether outdoor designated smoking areas shall be
+              established for each stadium.
+
+       ARTICLE 19: STADIUM ROOF
+
+       19.1     If a stadium has a retractable roof, FIFA shall decide before the match whether the
+              roof shall be open or closed during the match. This decision must be announced
+              by the FIFA Match Director at the Match Coordination Meeting.
+
+       19.2   If the match starts with the roof open and there is a serious deterioration in
+              theweather conditions impacting the match, the referee, in consultation with
+              the FIFA Match Director, has the authority to order its closure during the match.
+              In such an event, the roof is to remain closed until the end of the match. The roof
+              may only be opened or closed if there
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0059, PDF p.28]
+match.
+              In such an event, the roof is to remain closed until the end of the match. The roof
+              may only be opened or closed if there is no one on the pitch.
+
+       ARTICLE 20: STADIUM CLOCKS AND GIANT SCREEN
+
+       20.1   Clocks in the stadium showing the length of time played may run during the
+              match, provided that they are stopped at the end of normal playing time in each
+              half, i.e. after 45 and 90 minutes respectively. This stipulation shall also apply if
+              extra time is played (i.e. after 15 minutes of each half).
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q32: A coach wants to use a tablet in the technical area for activities unrelated to tactics, coaching or player welfare. Does permission for handheld electronic devices cover this use?
+Article 32.7 | both_have_labelled_evidence
+Expected answer: No. Permission is limited to coaching, tactics or player welfare and is subject to the applicable rules.
+Why test: List of permitted devices versus purpose limitation.
+
+BASELINE TOP 3
+[C0098, PDF p.43]
+next to their own team bench.
+      In this case, five players and one official per team may warm up at the same time.
+      Thewarm-up may not involve the use of any balls.
+
+32.6  Smoking, vaping and the use of any tobacco-related products are only allowed
+      in the designated areas (if made available) and are not allowed in the technical
+      area, in the vicinity of the field of play or within the competition areas, such as
+      the dressing rooms.
+
+32.7  Small, hand-held electronic equipment (e.g. microphones, headphones, earpieces,
+      mobile phones/smartphones, smartwatches, tablets, laptops, etc.) are permitted in
+      the technical area only if used for coaching/tactics or player welfare in accordance
+      with the Laws of the Game and the FIFA Media and MarketingRegulations.
+
+32.8 Additional special equipment
+[C0090, PDF p.40]
+Media and Marketing Regulations.
+
+       30.3  The footballs used in the Competition shall be selected and exclusively supplied
+              by FIFA. Time permitting, each team will receive training balls from FIFA prior
+              to the Competition after the successful submission of the required team entry
+              details. Training balls will also be provided to the teams upon arrival in the host
+              country. Only these balls provided by FIFA may be used for training and warm-up
+              sessions at the official stadiums and training sites.
+
+       30.4  Teams are allowed to use their own wearable tracking system, as long as the system
+              has been tested and certified according to the Laws of the Game, registered with
+              FIFA by the participating club for use in the Competition andotherwise complies
+              with the FIFA Equipment Regulations, the FIFA Mediaand Marketing Regulations
+              and any other applicable FIFA regulations.
+[C0099, PDF p.43]
+coaching/tactics or player welfare in accordance
+      with the Laws of the Game and the FIFA Media and MarketingRegulations.
+
+32.8 Additional special equipment items (e.g. antennae) for the use of wearable
+      technology at Competition matches may only be positioned in a dedicated area
+      of a stadium defined by FIFA, but not in the technical area of such stadium.
+                                                                                                                 VIII.
+
+RERANKED TOP 3
+[C0098, PDF p.43]
+next to their own team bench.
+      In this case, five players and one official per team may warm up at the same time.
+      Thewarm-up may not involve the use of any balls.
+
+32.6  Smoking, vaping and the use of any tobacco-related products are only allowed
+      in the designated areas (if made available) and are not allowed in the technical
+      area, in the vicinity of the field of play or within the competition areas, such as
+      the dressing rooms.
+
+32.7  Small, hand-held electronic equipment (e.g. microphones, headphones, earpieces,
+      mobile phones/smartphones, smartwatches, tablets, laptops, etc.) are permitted in
+      the technical area only if used for coaching/tactics or player welfare in accordance
+      with the Laws of the Game and the FIFA Media and MarketingRegulations.
+
+32.8 Additional special equipment
+[C0099, PDF p.43]
+coaching/tactics or player welfare in accordance
+      with the Laws of the Game and the FIFA Media and MarketingRegulations.
+
+32.8 Additional special equipment items (e.g. antennae) for the use of wearable
+      technology at Competition matches may only be positioned in a dedicated area
+      of a stadium defined by FIFA, but not in the technical area of such stadium.
+                                                                                                                 VIII.
+[C0096, PDF p.43]
+43
+
+
+
+
+ARTICLE 32: TECHNICAL AND WARM-UP AREAS
+
+32.1    The technical area is the area which the coach, other team officials and substitutes
+      are allowed to occupy during the match. It includes the dugout (ifapplicable),
+      theteam bench and a marked zone adjacent to the pitch.
+
+32.2  No more than 26 people (15 substitute players and 11 officials – one of these
+      teamofficials shall be the team medical doctor) shall be allowed to sit on the
+      team bench. A suspended player or team official will not be allowed to sit on
+      the team     bench. Only the officials indicated on the start list may sit on the team
+      bench or be in the technical area during the match.
+
+32.3  No more than 20 additional technical overflow seats in the stand shall be allocated
+      for accredited officials providing technical support to the team during the match
+      (kit manager, assistant physiot
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0098, PDF p.43]
+next to their own team bench.
+      In this case, five players and one official per team may warm up at the same time.
+      Thewarm-up may not involve the use of any balls.
+
+32.6  Smoking, vaping and the use of any tobacco-related products are only allowed
+      in the designated areas (if made available) and are not allowed in the technical
+      area, in the vicinity of the field of play or within the competition areas, such as
+      the dressing rooms.
+
+32.7  Small, hand-held electronic equipment (e.g. microphones, headphones, earpieces,
+      mobile phones/smartphones, smartwatches, tablets, laptops, etc.) are permitted in
+      the technical area only if used for coaching/tactics or player welfare in accordance
+      with the Laws of the Game and the FIFA Media and MarketingRegulations.
+
+32.8 Additional special equipment
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q33: FIFA approved our kits before we travelled. Does that approval mean the equipment can skip inspection at the Team Arrival Meeting?
+Article 27.4 | labelled_evidence_outside_top10
+Expected answer: No. Equipment that could be displayed in the specified locations must be rechecked and approved at the Team Arrival Meeting.
+Why test: Initial approval versus mandatory arrival recheck.
+
+BASELINE TOP 3
+[C0081, PDF p.37]
+once reviewed and approved by FIFA as
+      stated in article 27 paragraph 3 below, may be worn duringmatches.
+
+27.3  The participating clubs shall send to FIFA for approval a sample of all items
+      of the full first-choice and alternative team kits (shirt, shorts, socks, all three
+      goalkeeper’s kits, gloves, caps, wristbands and headbands, etc.) intended for use
+      during the Competition. In addition, FIFA may organise a kit-day session prior to
+      the Competition; should it do so, the date shall be confirmed by circular letter.
+      Representatives of all participating clubs shall attend. All equipment (kits, gloves,
+      bags, medical equipment, etc.) that could be on display within the stadiums,
+      thetraining sites and the hotels or during transfers to, from or within the host
+      country shall be approved by FIFA. FIFA shall issue a written team equipment
+      inspection report
+[C0082, PDF p.37]
+sites and the hotels or during transfers to, from or within the host
+      country shall be approved by FIFA. FIFA shall issue a written team equipment
+      inspection report approving or rejecting the items. Should any article of the team
+      kit or any part thereof not be in accordance with the FIFA Equipment Regulations
+      and/or the FIFA Media and Marketing Regulations, the participating club(s)
+      concerned will be obliged to change it accordingly and resubmit the corrected
+      item within the timeline set in the written team equipment inspection report.
+      Anysuch decisions are not subject to appeal.
+                                                                                                                  VII.
+[C0088, PDF p.39]
+principle, FIFA shall also consider
+            the option of dark-kit, light-kit colour-contrast and amended team colour
+            selection assignments in the interests of accommodating individuals with a
+            colour vision deficiency whenever reasonably practicable.
+
+29.2     FIFA shall confirm the playing colours to the participating clubs before the start
+      of each match. The colours shall be reviewed during the Match Coordination
+      Meeting by the FIFA Match Director. The colours assignment decided by FIFA
+      is final.
+
+29.3  The first-choice and alternative team playing kits and all goalkeeper kits (including
+      the goalkeeper shirts without names and numbers) shall be taken to every match.
+
+                                                                                                                    VII.
+
+RERANKED TOP 3
+[C0081, PDF p.37]
+once reviewed and approved by FIFA as
+      stated in article 27 paragraph 3 below, may be worn duringmatches.
+
+27.3  The participating clubs shall send to FIFA for approval a sample of all items
+      of the full first-choice and alternative team kits (shirt, shorts, socks, all three
+      goalkeeper’s kits, gloves, caps, wristbands and headbands, etc.) intended for use
+      during the Competition. In addition, FIFA may organise a kit-day session prior to
+      the Competition; should it do so, the date shall be confirmed by circular letter.
+      Representatives of all participating clubs shall attend. All equipment (kits, gloves,
+      bags, medical equipment, etc.) that could be on display within the stadiums,
+      thetraining sites and the hotels or during transfers to, from or within the host
+      country shall be approved by FIFA. FIFA shall issue a written team equipment
+      inspection report
+[C0082, PDF p.37]
+sites and the hotels or during transfers to, from or within the host
+      country shall be approved by FIFA. FIFA shall issue a written team equipment
+      inspection report approving or rejecting the items. Should any article of the team
+      kit or any part thereof not be in accordance with the FIFA Equipment Regulations
+      and/or the FIFA Media and Marketing Regulations, the participating club(s)
+      concerned will be obliged to change it accordingly and resubmit the corrected
+      item within the timeline set in the written team equipment inspection report.
+      Anysuch decisions are not subject to appeal.
+                                                                                                                  VII.
+[C0079, PDF p.37]
+37
+
+
+
+
+ARTICLE 27: KIT AND COLOURS APPROVAL
+
+27.1    The FIFA Equipment Regulations and the FIFA Media and Marketing Regulations
+      in force apply to all matches of the Competition, unless specified otherwise in
+      these Regulations. To the extent that these Regulations are inconsistent with
+      any aspect of the FIFA Equipment Regulations or the FIFA Media and Marketing
+      Regulations, the FIFA Media and Marketing Regulations shall take precedence.
+      The display of political, religious or personal messages or slogans of any nature
+      in any language or form by players and officials on their playing or team kits,
+      equipment (including kit bags, beverage containers, medical bags, etc.) or body
+      is prohibited. The similar display of commercial messages and slogans of any
+      nature in any language or form by players and officials is not allowed for the
+      duration of their time at any official activity organised by FIFA (including official
+      matches and training sessions, as well as during official press conferences and
+      mixed-zone
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0083, PDF p.38]
+38
+
+
+
+
+
+
+       27.4   All equipment (kits, gloves, bags, medical equipment, etc.) that could be on display
+              in the stadiums, the training sites, the hotels or during transfers to, from or within
+              the host country shall be re-checked and approved by FIFA during the Team
+              Arrival Meeting for the Competition.
+
+       ARTICLE 28: NUMBERS AND NAMES
+
+       28.1   Throughout the Competition, players shall wear the number assigned to them
+              on the final list. Players shall wear set numbers between 1 and 99, provided that
+              the players are registered with the same number in the most recent season of
+              their club’s league competition and upon confirmation by the relevant member
+              association. If number 1 is used, it shall be reserved exclusively for one of the
+              goalkeepers. Such number shall be displayed on the back of each of their playing
+              shirts and on the front of the shorts in accordance with the FIFA Equipment
+              Regulations. The same number
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q34: We have identified a player for our club’s final squad, but another participating club also wants him. Can both clubs register him on their final lists if he promises to play for only one?
+Article 24.8 | labelled_evidence_outside_top10
+Expected answer: No. A player may neither appear on more than one participating club’s final list nor play matches for more than one club.
+Why test: Provisional-list dispute process versus an explicit final-list prohibition.
+
+BASELINE TOP 3
+[C0068, PDF p.32]
+up until the submission of the final
+              list. Any change requests must be submitted in writing.
+
+       23.6  Should two clubs wish to include the same player on their respective provisional
+              list, the FIFA general secretariat shall decide for which club the player may be
+              listed, after hearing all concerned parties.
+[C0067, PDF p.32]
+’s full last name(s),
+              all first names, popular name, name on the shirt, date of birth, passport number
+              and expiry date, height and weight. Further details on the submission process
+              for the provisional list, and the deadline by which the list shall be submitted to
+              FIFA, will be stipulated in the relevant circular letter.
+
+       23.3  Each participating club shall include up to 75 team officials on the provisional
+              list so that the relevant authorities can proceed with the background checks for
+              visa and accreditation purposes. Each participating club shall adhere to the visa
+              and accreditation requirements and process.
+
+       23.4  The provisional list will only be used for internal purposes and will not be published
+              by FIFA.
+
+       23.5  Changes may be made to the provisional list up until the submission of the final
+              list. Any change requests must be submitted in writing.
+
+       23.6  Should two clubs wish to include the same player
+[C0070, PDF p.33]
+in the
+      Competition. In accordance with article 31 of these regulations, a maximum of
+      26 players (11 starting players and a maximum of 15 substitutes) may be selected
+      to participate in each match.
+
+24.3  Without prejudice to paragraphs 4 and 8 below, from 27 June 2025 to 3 July 2025,
+      clubs may make the following changes to their final list:
+
+      a)    Clubs may replace players whose contracts have naturally expired during
+            theCompetition.
+
+      b)     Clubs may add up to two new players to their final list, who shall not count
+            towards the maximum of 35 players.
+
+      c)       The total number of players changed on, or added to, the final list under a)and
+            b) above together may not exceed six.
+
+      d)     Any player changed on, or added to, the final list shall be duly registered for
+            their club in accordance with the RSTP as well as with the regulations of
+
+RERANKED TOP 3
+[C0071, PDF p.33]
+changed on, or added to, the final list shall be duly registered for
+            their club in accordance with the RSTP as well as with the regulations of the
+            member association to which their club is affiliated.
+
+      e)     Any player changed on, or added to, the final list will only be eligible to play
+            in the next match in the Competition if the modification to the final list was
+            formally notified to FIFA no later than 48 hours prior to kick-off of the match
+            in question.
+
+24.4  Any goalkeeper listed on the final list may be replaced (either by a player from
+      the provisional list or by a different player registered by the club) in the event
+      of serious injury or illness at any point of the Competition. The replacement
+      shall be nominated by the participating club, who shall inform FIFA accordingly.
+      Upon receipt and acceptance of a written detailed medical assessment in one of
+      the official FIFA languages, the FIFA Medical Committee
+[C0068, PDF p.32]
+up until the submission of the final
+              list. Any change requests must be submitted in writing.
+
+       23.6  Should two clubs wish to include the same player on their respective provisional
+              list, the FIFA general secretariat shall decide for which club the player may be
+              listed, after hearing all concerned parties.
+[C0066, PDF p.32]
+32
+
+
+
+
+       ARTICLE 23: PROVISIONAL LIST
+
+       23.1   Each participating club shall submit online a provisional list of a minimum of
+              26 players and a maximum of 50 players (a minimum of four of whom shall be
+              goalkeepers), all of whom shall be duly registered for their club, accompanied
+              by an accreditation photo and a copy of the passport of each player appearing
+              on the list.  A copy of the provisional list, signed by the club and by the member
+              association to which the club is affiliated, shall also be submitted to FIFA by the
+              deadline stipulated in the relevant circular letter. When signing the provisional
+              list, the member association shall confirm that all players on the provisional list
+              are duly registered for the club.
+
+       23.2  The provisional list shall contain information such as the player’s full last name(s),
+              all first names, popular name, name on the shirt, date of birth, passport number
+              and expi
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0074, PDF p.34]
+their legally valid individual passport with a
+              photograph. Any player or official who fails to submit this document will not be
+              allowed to take part in the Competition.
+
+        24.8  For the avoidance of doubt, no player may be on the final list of more than one
+              club participating in the Competition, and no player may play matches for more
+              than one club participating in the Competition.
+
+        ARTICLE 25: ACCREDITATION
+
+        25.1   FIFA shall issue each player and official included on the final list with an
+              accreditation bearing a photograph. Additional accreditations may be granted
+              to clubs if it can be demonstrated that the role of a member of staff requires
+              them to access team areas. FIFA shaII take the final decision on the granting of
+              additional accreditations.
+
+        25.2  FIFA reserves the right to revoke the accreditation of any official or player due
+              to the misconduct of the individual concerned.
+
+        25.3  The participating clubs shall ensure that all accreditation data
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q35: The rules allow the club to inspect an unfamiliar stadium the day before playing. Can that visit include an official football training session on its pitch?
+Article 34.1 | both_have_labelled_evidence
+Expected answer: No. Official training sessions at stadiums before matches are prohibited; the permitted familiarisation visit is for inspection.
+Why test: Permission for access versus permission to train.
+
+BASELINE TOP 3
+[C0102, PDF p.44]
+that are due to play a match in a stadium in which they have not previously
+              played will be entitled to a familiarisation session in that stadium on the day before
+              the match. The players and team officials will be permitted to walk around the
+              field of play (to inspect the pitch only and wearing training shoes) and stadium
+              to familiarise themselves with the set-up. Such familiarisation sessions shall be
+              open to the media for the first 15 minutes.
+
+       34.3  Official training session and stadium familiarisation times will be communicated
+              by FIFA.
+[C0101, PDF p.44]
+by players and officials is prohibited. The similar display
+              of commercial messages and slogans of any nature in any language or form by
+              players and officials is not allowed for the duration of their time at any official
+              activity organised by FIFA (including official matches and training sessions,
+              aswell as during official press conferences and mixed-zone activities).
+
+       ARTICLE 34: OFFICIAL TRAINING SESSIONS,
+                               STADIUM FAMILIARISATION VISITS
+                               ANDPRE-MATCH WARM-UPS
+
+       34.1   In order to preserve the quality of the pitch for the matches, no official training
+              sessions will be allowed at the stadiums before any match. In principle,
+              allparticipating clubs’ official training sessions will be conducted at the Team
+              Base Camp training sites or at the venue-specific training sites.
+
+       34.2  Teams that are due to play a match in a stadium in which they have not previously
+              played will be entitled to a familiarisation session in that stadium on the
+[C0061, PDF p.29]
+including but not limited to security, pitch maintenance and cleaning. A separate
+      agreement will be provided for the purpose of thisconfirmation.
+
+21.3   Official training sites for the match officials and teams (Team Base Camp training
+      sites and, potentially, venue-specific training sites) shall be in excellent condition
+      and shall be made available to FIFA for its exclusive use and shall be free of any
+      and all commercial activities and identifications, e.g. boards and signage other
+      than those of FIFA’s Commercial Partners, from at least ten days prior to the
+      opening match of the Competition until three days after it was last required by
+      a team (venue-specific training site), or until the team completes its use of the
+      training site (Team Base Camp training site) or the completion of the final match
+      of the Competition (match officials’ training site).
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                      V.
+
+RERANKED TOP 3
+[C0102, PDF p.44]
+that are due to play a match in a stadium in which they have not previously
+              played will be entitled to a familiarisation session in that stadium on the day before
+              the match. The players and team officials will be permitted to walk around the
+              field of play (to inspect the pitch only and wearing training shoes) and stadium
+              to familiarise themselves with the set-up. Such familiarisation sessions shall be
+              open to the media for the first 15 minutes.
+
+       34.3  Official training session and stadium familiarisation times will be communicated
+              by FIFA.
+[C0101, PDF p.44]
+by players and officials is prohibited. The similar display
+              of commercial messages and slogans of any nature in any language or form by
+              players and officials is not allowed for the duration of their time at any official
+              activity organised by FIFA (including official matches and training sessions,
+              aswell as during official press conferences and mixed-zone activities).
+
+       ARTICLE 34: OFFICIAL TRAINING SESSIONS,
+                               STADIUM FAMILIARISATION VISITS
+                               ANDPRE-MATCH WARM-UPS
+
+       34.1   In order to preserve the quality of the pitch for the matches, no official training
+              sessions will be allowed at the stadiums before any match. In principle,
+              allparticipating clubs’ official training sessions will be conducted at the Team
+              Base Camp training sites or at the venue-specific training sites.
+
+       34.2  Teams that are due to play a match in a stadium in which they have not previously
+              played will be entitled to a familiarisation session in that stadium on the
+[C0060, PDF p.29]
+29
+
+
+
+
+
+
+20.2  Panels or electronic display boards, numbered on both sides for clarity, shall be
+      used by the fourth official to indicate the substitution of players and the number
+      of minutes to be allowed for time lost.
+
+20.3 FIFA shall determine the conditions governing all scoreboard and giant
+      screen transmissions.
+
+ARTICLE 21: TRAINING SITES
+
+21.1     The training sites provided by FIFA shall be made available at least five days before
+      the team’s first match until one day after its last match in the Competition.
+
+21.2   Clubs may contract their own training sites for usage during the Competition.
+      Ifaclub chooses to contract their own training site, they will be required to confirm
+      to FIFA, in writing, that they will provide all necessary services at the training site,
+      including but not limited to security, pitch maintenance and cleaning. A separate
+      agreement will be provided for the purpose of thisconfirmation.
+
+21.3
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0101, PDF p.44]
+by players and officials is prohibited. The similar display
+              of commercial messages and slogans of any nature in any language or form by
+              players and officials is not allowed for the duration of their time at any official
+              activity organised by FIFA (including official matches and training sessions,
+              aswell as during official press conferences and mixed-zone activities).
+
+       ARTICLE 34: OFFICIAL TRAINING SESSIONS,
+                               STADIUM FAMILIARISATION VISITS
+                               ANDPRE-MATCH WARM-UPS
+
+       34.1   In order to preserve the quality of the pitch for the matches, no official training
+              sessions will be allowed at the stadiums before any match. In principle,
+              allparticipating clubs’ official training sessions will be conducted at the Team
+              Base Camp training sites or at the venue-specific training sites.
+
+       34.2  Teams that are due to play a match in a stadium in which they have not previously
+              played will be entitled to a familiarisation session in that stadium on the
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q36: Will FIFA publish every player we submit on the provisional squad list, just as it publishes the final squad?
+Article 23.4 | candidate_regression
+Expected answer: No. The provisional list is for internal use and is not published by FIFA.
+Why test: Publication of the final list versus confidentiality of the provisional list.
+
+BASELINE TOP 3
+[C0068, PDF p.32]
+up until the submission of the final
+              list. Any change requests must be submitted in writing.
+
+       23.6  Should two clubs wish to include the same player on their respective provisional
+              list, the FIFA general secretariat shall decide for which club the player may be
+              listed, after hearing all concerned parties.
+[C0067, PDF p.32]
+’s full last name(s),
+              all first names, popular name, name on the shirt, date of birth, passport number
+              and expiry date, height and weight. Further details on the submission process
+              for the provisional list, and the deadline by which the list shall be submitted to
+              FIFA, will be stipulated in the relevant circular letter.
+
+       23.3  Each participating club shall include up to 75 team officials on the provisional
+              list so that the relevant authorities can proceed with the background checks for
+              visa and accreditation purposes. Each participating club shall adhere to the visa
+              and accreditation requirements and process.
+
+       23.4  The provisional list will only be used for internal purposes and will not be published
+              by FIFA.
+
+       23.5  Changes may be made to the provisional list up until the submission of the final
+              list. Any change requests must be submitted in writing.
+
+       23.6  Should two clubs wish to include the same player
+[C0066, PDF p.32]
+32
+
+
+
+
+       ARTICLE 23: PROVISIONAL LIST
+
+       23.1   Each participating club shall submit online a provisional list of a minimum of
+              26 players and a maximum of 50 players (a minimum of four of whom shall be
+              goalkeepers), all of whom shall be duly registered for their club, accompanied
+              by an accreditation photo and a copy of the passport of each player appearing
+              on the list.  A copy of the provisional list, signed by the club and by the member
+              association to which the club is affiliated, shall also be submitted to FIFA by the
+              deadline stipulated in the relevant circular letter. When signing the provisional
+              list, the member association shall confirm that all players on the provisional list
+              are duly registered for the club.
+
+       23.2  The provisional list shall contain information such as the player’s full last name(s),
+              all first names, popular name, name on the shirt, date of birth, passport number
+              and expi
+
+RERANKED TOP 3
+[C0073, PDF p.34]
+34
+
+
+
+
+
+
+              Injured or ill goalkeepers who are replaced must return their accreditation to FIFA.
+              Accordingly, goalkeepers who have returned their accreditation shall no longer
+              be considered members of the participating club’s final list.
+
+        24.5  The final list of a maximum of 35 players will be published by FIFA after the
+              submission deadline.
+
+        24.6     Along with the above final list of players, a final list of up to 29 officials shall be
+              submitted online by the deadline stipulated in the relevant circular letter. Onlythe
+              29 officials confirmed on the final list will be eligible to sit on the team bench
+              during matches (cf. article 32 of these Regulations).
+
+        24.7  Before the start of the Competition, every player and official on the final list must
+              prove their identity by producing their legally valid individual passport with a
+              photograph. Any player or official who fails to submit this document will not be
+              allowed to take part in the Competition.
+[C0068, PDF p.32]
+up until the submission of the final
+              list. Any change requests must be submitted in writing.
+
+       23.6  Should two clubs wish to include the same player on their respective provisional
+              list, the FIFA general secretariat shall decide for which club the player may be
+              listed, after hearing all concerned parties.
+[C0069, PDF p.33]
+33
+
+
+
+
+ARTICLE 24: FINAL LIST
+
+24.1   Each participating club shall submit online a final list of a minimum of 26 players
+      and a maximum of 35 players (a minimum of three of whom shall be goalkeepers)
+      selected to participate in the Competition. A copy of the final list, signed by the
+      club, shall be submitted to FIFA by the deadline stipulated in the relevant circular
+      letter. All information requested online about the players shall be duly completed.
+      The final list shall contain the players’ shirt names and numbers in accordance
+      with article 28 paragraphs 1 and 2 of these Regulations.
+
+24.2  The players on the final list shall only be selected from the players on the provisional
+      list. Only up to 35 players on the final list will be permitted to take part in the
+      Competition. In accordance with article 31 of these regulations, a maximum of
+      26 players (11 starting players and a maximum of 15 substitutes) may
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0067, PDF p.32]
+’s full last name(s),
+              all first names, popular name, name on the shirt, date of birth, passport number
+              and expiry date, height and weight. Further details on the submission process
+              for the provisional list, and the deadline by which the list shall be submitted to
+              FIFA, will be stipulated in the relevant circular letter.
+
+       23.3  Each participating club shall include up to 75 team officials on the provisional
+              list so that the relevant authorities can proceed with the background checks for
+              visa and accreditation purposes. Each participating club shall adhere to the visa
+              and accreditation requirements and process.
+
+       23.4  The provisional list will only be used for internal purposes and will not be published
+              by FIFA.
+
+       23.5  Changes may be made to the provisional list up until the submission of the final
+              list. Any change requests must be submitted in writing.
+
+       23.6  Should two clubs wish to include the same player
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q37: A referee is unable to continue in a match using VAR. The fourth official is not certified to referee with VAR. Does the fourth official still take over as referee?
+Article 36.2 | both_have_labelled_evidence
+Expected answer: No. In that situation the referee is replaced by a video match official.
+Why test: Normal fourth-official replacement rule versus a VAR certification exception.
+
+BASELINE TOP 3
+[C0111, PDF p.49]
+49
+
+
+
+
+
+
+36.2  If the referee is prevented from carrying out their duties, such referee orassistant
+      referee shall be replaced by the fourth official. The same applies for either of the
+      assistant referees if a reserve assistant referee is not appointed. IfaVARsystem
+      is used, and if the fourth official is not certified to referee with the VAR system,
+      thereferee shall be replaced by a video match official (VMO). TheFIFA Referees
+      Committee will determine who replaces a fourth official or reserve assistant
+      referee who is prevented from carrying out their duties, or who replaces another
+      match official. In exceptional circumstances, FIFA may decide to proceed with
+      either a fourth official from the host association or to play the match without a
+      fourth official.
+
+36.3  After each match, the referee shall complete the official match report online form
+      whilst still at the stadium, immediately after the match. On the form, the
+[C0109, PDF p.48]
+for the purpose
+              of verifying whether a goal has been scored to support the referee’s decision.
+              Theparticipating clubs shall consent, without reservation, to the use of the said
+              technology in the Competition, and unconditionally and irrevocably waive any
+              and all rights and interests they may have in connection with or as a result of the
+              use of the said technology in matches of the Competition.
+
+       35.8  Video assistant referee (VAR) systems and other forms of technology for reviewing
+              match-changing decisions/incidents (e.g. semi-automated offside technology)
+              may be used for reviewing match-changing decisions/incidents as per the protocol
+              established by The IFAB.
+
+       35.9  Each match shall last 90 minutes, comprising two periods of 45 minutes.
+
+       ARTICLE 36: REFEREES
+
+       36.1   The referees, assistant referees, fourth officials and video assistant referees
+              (if appointed
+[C0110, PDF p.48]
+, comprising two periods of 45 minutes.
+
+       ARTICLE 36: REFEREES
+
+       36.1   The referees, assistant referees, fourth officials and video assistant referees
+              (if appointed) (hereinafter referred to collectively as “match officials”) for the
+              Competition shall be appointed for each match by the FIFA Referees Committee.
+              They shall be selected from the FIFA International Refereeing List in force and
+              come from a member association that is not represented by a team playing in
+              the match in question. The decisions of the FIFA Referees Committee are final
+              and binding and not subject to appeal.
+
+RERANKED TOP 3
+[C0111, PDF p.49]
+49
+
+
+
+
+
+
+36.2  If the referee is prevented from carrying out their duties, such referee orassistant
+      referee shall be replaced by the fourth official. The same applies for either of the
+      assistant referees if a reserve assistant referee is not appointed. IfaVARsystem
+      is used, and if the fourth official is not certified to referee with the VAR system,
+      thereferee shall be replaced by a video match official (VMO). TheFIFA Referees
+      Committee will determine who replaces a fourth official or reserve assistant
+      referee who is prevented from carrying out their duties, or who replaces another
+      match official. In exceptional circumstances, FIFA may decide to proceed with
+      either a fourth official from the host association or to play the match without a
+      fourth official.
+
+36.3  After each match, the referee shall complete the official match report online form
+      whilst still at the stadium, immediately after the match. On the form, the
+[C0109, PDF p.48]
+for the purpose
+              of verifying whether a goal has been scored to support the referee’s decision.
+              Theparticipating clubs shall consent, without reservation, to the use of the said
+              technology in the Competition, and unconditionally and irrevocably waive any
+              and all rights and interests they may have in connection with or as a result of the
+              use of the said technology in matches of the Competition.
+
+       35.8  Video assistant referee (VAR) systems and other forms of technology for reviewing
+              match-changing decisions/incidents (e.g. semi-automated offside technology)
+              may be used for reviewing match-changing decisions/incidents as per the protocol
+              established by The IFAB.
+
+       35.9  Each match shall last 90 minutes, comprising two periods of 45 minutes.
+
+       ARTICLE 36: REFEREES
+
+       36.1   The referees, assistant referees, fourth officials and video assistant referees
+              (if appointed
+[C0110, PDF p.48]
+, comprising two periods of 45 minutes.
+
+       ARTICLE 36: REFEREES
+
+       36.1   The referees, assistant referees, fourth officials and video assistant referees
+              (if appointed) (hereinafter referred to collectively as “match officials”) for the
+              Competition shall be appointed for each match by the FIFA Referees Committee.
+              They shall be selected from the FIFA International Refereeing List in force and
+              come from a member association that is not represented by a team playing in
+              the match in question. The decisions of the FIFA Referees Committee are final
+              and binding and not subject to appeal.
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0111, PDF p.49]
+49
+
+
+
+
+
+
+36.2  If the referee is prevented from carrying out their duties, such referee orassistant
+      referee shall be replaced by the fourth official. The same applies for either of the
+      assistant referees if a reserve assistant referee is not appointed. IfaVARsystem
+      is used, and if the fourth official is not certified to referee with the VAR system,
+      thereferee shall be replaced by a video match official (VMO). TheFIFA Referees
+      Committee will determine who replaces a fourth official or reserve assistant
+      referee who is prevented from carrying out their duties, or who replaces another
+      match official. In exceptional circumstances, FIFA may decide to proceed with
+      either a fourth official from the host association or to play the match without a
+      fourth official.
+
+36.3  After each match, the referee shall complete the official match report online form
+      whilst still at the stadium, immediately after the match. On the form, the
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________
+
+==========================================================================================
+Q38: Our team submitted its complete match start list on time. Can it be published immediately while the opposing team has not yet completed its own list?
+Article 31.2 | both_have_labelled_evidence
+Expected answer: No. Both start lists are published only after both teams have submitted fully completed lists.
+Why test: Individual submission deadline versus joint publication condition.
+
+BASELINE TOP 3
+[C0068, PDF p.32]
+up until the submission of the final
+              list. Any change requests must be submitted in writing.
+
+       23.6  Should two clubs wish to include the same player on their respective provisional
+              list, the FIFA general secretariat shall decide for which club the player may be
+              listed, after hearing all concerned parties.
+[C0055, PDF p.26]
+26
+
+
+
+
+       ARTICLE 15: DRAW AND TEAM WORKSHOP
+
+       Detailed information concerning the draw and Team Workshop for the Competition
+       shall be communicated by circular letter.
+
+       ARTICLE 16: VENUES, DATES AND KICK-OFF TIMES
+
+       16.1     The venues, dates and kick-off times of the matches shall be determined by FIFA.
+
+       16.2   The dates and venues of the matches shall be set, allowing each team a minimum
+             rest period of 72 hours between matches. In principle, the last matchday matches
+             of the group stage of the same group shall kick off simultaneously, unless there
+             is a case of force majeure.
+
+       16.3   FIFA shall confirm the match kick-off times and stadiums after the draw.
+
+       ARTICLE 17: TEAM ARRIVALS
+
+       Each team participating in the Competition shall arrive at their Team Base Camp at
+       least five and no fewer than three days before their first match.
+[C0093, PDF p.42]
+the captain, selecting
+              the officials to be seated on the team bench (maximum of 11) and submitted by
+              the authorised team official and/or signed if applicable. Both teams must submit
+              their completed start list at least 90 minutes before kick-off. If the start list is
+              not submitted on time for any reason, the matter will be reported to the FIFA
+              Disciplinary Committee. Both teams’ start lists will only be published once both
+              teams have submitted them, fully completed.
+
+        31.3   The numbers on the players’ shirts must correspond to the numbers indicated on
+              the start list. Each team is responsible for ensuring that the start list is completed
+              properly and that only the 11 selected players start the match.
+
+        31.4   If any of the 11 players submitted on the start list are not able to begin the match
+              due to injury or illness, they may be replaced by any of the eligible substitutes as
+              long as the FIFA Match
+
+RERANKED TOP 3
+[C0093, PDF p.42]
+the captain, selecting
+              the officials to be seated on the team bench (maximum of 11) and submitted by
+              the authorised team official and/or signed if applicable. Both teams must submit
+              their completed start list at least 90 minutes before kick-off. If the start list is
+              not submitted on time for any reason, the matter will be reported to the FIFA
+              Disciplinary Committee. Both teams’ start lists will only be published once both
+              teams have submitted them, fully completed.
+
+        31.3   The numbers on the players’ shirts must correspond to the numbers indicated on
+              the start list. Each team is responsible for ensuring that the start list is completed
+              properly and that only the 11 selected players start the match.
+
+        31.4   If any of the 11 players submitted on the start list are not able to begin the match
+              due to injury or illness, they may be replaced by any of the eligible substitutes as
+              long as the FIFA Match
+[C0092, PDF p.42]
+42
+
+
+
+
+        ARTICLE 31: START LIST
+
+        31.1     The electronic start list system will be available and accessible eight hours prior to
+              the kick-off of the respective match with the full names and shirt numbers ofthe
+              maximum of 35 players listed on the final list, together with the full names of
+              the officials eligible to be seated on the team bench. A maximum of 26 players
+              (including a minimum of two goalkeepers) may be chosen for the start list.
+              Changes can be made at the team’s discretion up to 90 minutes before kick-off.
+              The traditional paper start list will also be available prior to each match.
+
+        31.2   The start list should be duly completed by selecting the 11 players who will start
+              the match and the maximum of 15 substitutes, indicating the captain, selecting
+              the officials to be seated on the team bench (maximum of 11) and submitted by
+              the authorised team official and/or signed if
+[C0112, PDF p.49]
+After each match, the referee shall complete the official match report online form
+      whilst still at the stadium, immediately after the match. On the form, the referee
+      shall note all occurrences of significance, such as misconduct of players leading
+      to caution or expulsion, unsporting behaviour by supporters and/or by officials
+      or any other person acting on behalf of a participating club at the match and any
+      other incident happening before, during and after the match in as much detail
+      as possible.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                      IX.
+
+LABELLED EVIDENCE (for audit; not inserted into retrieved context)
+[C0093, PDF p.42]
+the captain, selecting
+              the officials to be seated on the team bench (maximum of 11) and submitted by
+              the authorised team official and/or signed if applicable. Both teams must submit
+              their completed start list at least 90 minutes before kick-off. If the start list is
+              not submitted on time for any reason, the matter will be reported to the FIFA
+              Disciplinary Committee. Both teams’ start lists will only be published once both
+              teams have submitted them, fully completed.
+
+        31.3   The numbers on the players’ shirts must correspond to the numbers indicated on
+              the start list. Each team is responsible for ensuring that the start list is completed
+              properly and that only the 11 selected players start the match.
+
+        31.4   If any of the 11 players submitted on the start list are not able to begin the match
+              due to injury or illness, they may be replaced by any of the eligible substitutes as
+              long as the FIFA Match
+
+HUMAN CHECK: Does any unlabelled baseline chunk already answer the question?
+Does the reranked context contain all necessary qualifications?
+Verdict and rationale: ____________________

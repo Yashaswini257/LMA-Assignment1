@@ -1,0 +1,350 @@
+"""FIFA corpus stress tests, Q15-Q38. No model training, new retrieval settings or LLM calls.
+
+In the EXISTING notebook, after running the index and retrieval-function cells:
+    %run -i fifa_stress_tests.py
+
+Labels refer to the uploaded 132-chunk corpus. Expected answers are evaluation
+references only and are NEVER passed to retrieve/rerank. These are exploratory
+stress tests selected after inspecting Q02-Q14, not a held-out benchmark.
+A flag is a candidate for human review, not a confirmed answer improvement.
+"""
+import hashlib
+import json
+from pathlib import Path
+import pandas as pd
+
+EXPECTED_CORPUS_SHA256 = '3c677bc1679ab57c60f46214556cc849595eca08cc3fdc03499f07387b1a2eb8'
+
+FIFA_STRESS_CASES = [{'id': 'Q15',
+  'query': 'Our final delegation includes 29 approved team officials. Can all 29 sit with the '
+           'substitutes during a match?',
+  'evidence_groups': [['C0096']],
+  'article': '32.2',
+  'expected_answer': 'No. The match bench allows at most 11 team officials, one of whom must be '
+                     'the team medical doctor; officials must be on the start list and not '
+                     'suspended.',
+  'reason_for_test': 'Registration eligibility in 24.6 versus the separate match-bench capacity '
+                     'limit.',
+  'evidence_pages': [43]},
+ {'id': 'Q16',
+  'query': 'The substitutes are warming up behind their own bench while the match is being played. '
+           'May they use the official footballs supplied by FIFA?',
+  'evidence_groups': [['C0098']],
+  'article': '32.5',
+  'expected_answer': 'No. The warm-up described in article 32.5 may not involve any balls.',
+  'reason_for_test': 'Official-ball permission in 30.3 versus prohibition in match-time substitute '
+                     'warm-ups.',
+  'evidence_pages': [43]},
+ {'id': 'Q17',
+  'query': 'Our wearable player-tracking system is certified and registered with FIFA. May we put '
+           'its antenna next to the coach inside the technical area?',
+  'evidence_groups': [['C0099']],
+  'article': '32.8',
+  'expected_answer': 'No. Such additional equipment must be placed in the stadium area designated '
+                     'by FIFA, not in the technical area.',
+  'reason_for_test': 'General tracker permission in 30.4 versus antenna-placement restriction.',
+  'evidence_pages': [43]},
+ {'id': 'Q18',
+  'query': 'We are visiting a stadium for the first time on the day before our match. Are we '
+           'allowed to walk on the playing surface to inspect it despite the ban on stadium '
+           'training?',
+  'evidence_groups': [['C0102']],
+  'article': '34.2',
+  'expected_answer': 'Yes. The familiarisation visit allows players and officials to inspect the '
+                     'pitch on foot wearing training shoes; it does not authorise a training '
+                     'session.',
+  'reason_for_test': 'Training prohibition in 34.1 versus permission for a familiarisation visit.',
+  'evidence_pages': [44]},
+ {'id': 'Q19',
+  'query': 'The referee has awarded six minutes of added time at the end of the second half. '
+           'Should the stadium clock keep counting from 90 to 96?',
+  'evidence_groups': [['C0059']],
+  'article': '20.1',
+  'expected_answer': 'No. The stadium clock showing elapsed play must stop at the end of normal '
+                     'time, at 90 minutes for the second half.',
+  'reason_for_test': 'Added-time display boards and match duration versus the stadium-clock '
+                     'stopping rule.',
+  'evidence_pages': [28]},
+ {'id': 'Q20',
+  'query': 'A defender has to take over in goal during a match. Does the emergency goalkeeper '
+           'shirt need to display his usual shirt number and name?',
+  'evidence_groups': [['C0085']],
+  'article': '28.3',
+  'expected_answer': 'No. The special goalkeeper shirts supplied for an outfield player taking '
+                     'over in goal have no names or numbers.',
+  'reason_for_test': 'Normal name/number requirements in 28.1-28.2 versus emergency shirt '
+                     'exception.',
+  'evidence_pages': [38]},
+ {'id': 'Q21',
+  'query': 'A club has 29 accredited officials. May an official who is suspended watch the match '
+           'from the team bench?',
+  'evidence_groups': [['C0096']],
+  'article': '32.2',
+  'expected_answer': 'No. A suspended player or team official may not sit on the team bench.',
+  'reason_for_test': 'Accreditation and list membership versus a suspension-based restriction.',
+  'evidence_pages': [43]},
+ {'id': 'Q22',
+  'query': 'A player has already received a yellow card and then receives a direct red in the same '
+           'match. For the group-ranking conduct score, do we deduct one point plus another five?',
+  'evidence_groups': [['C0052']],
+  'article': '13(f)',
+  'expected_answer': 'No. Apply the combined yellow-plus-direct-red deduction of five points once; '
+                     'only one listed deduction applies per person in a match.',
+  'reason_for_test': 'Suspension rules versus the distinct numerical conduct-score rule.',
+  'evidence_pages': [23]},
+ {'id': 'Q23',
+  'query': 'Three clubs from one country each won their confederation championship during '
+           '2021-2024. Does the two-clubs-per-country cap necessarily exclude one of those '
+           'winners?',
+  'evidence_groups': [['C0042']],
+  'article': '11.5',
+  'expected_answer': 'No. The country cap has an exception where more than two clubs from the same '
+                     'country won the confederation premier competition during that period.',
+  'reason_for_test': 'Country cap versus title-winner exception.',
+  'evidence_pages': [20]},
+ {'id': 'Q24',
+  'query': 'The roof was closed during the match because the weather became severe. When the '
+           'weather improves, may the referee reopen it before the final whistle?',
+  'evidence_groups': [['C0058']],
+  'article': '19.2',
+  'expected_answer': 'No. A roof closed in those circumstances must remain closed until the end of '
+                     'the match.',
+  'reason_for_test': 'Initial roof discretion versus the restriction after weather-related '
+                     'closure.',
+  'evidence_pages': [28]},
+ {'id': 'Q25',
+  'query': 'A protest is filed immediately after the tournament final, within the '
+           'normal two-hour reporting period. Can it still be accepted under the protest '
+           'procedure?',
+  'evidence_groups': [['C0030']],
+  'article': '8.8',
+  'expected_answer': 'No. Once the final match has ended, protests described in article 8 are '
+                     'disregarded, although the committee retains its power to act on disciplinary '
+                     'infringements on its own initiative.',
+  'reason_for_test': 'General reporting deadline versus the end-of-tournament cutoff; other '
+                     'grounds for inadmissibility may also apply.',
+  'evidence_pages': [14]},
+ {'id': 'Q26',
+  'query': 'A team medical doctor is also trained in safeguarding. Must the club hire a separate '
+           'person to be its designated safeguarding and welfare officer?',
+  'evidence_groups': [['C0076']],
+  'article': '26',
+  'expected_answer': 'No. The role need not be exclusive and may be assigned to the doctor or '
+                     'another trained accredited delegation member; the designated officer must '
+                     'complete the specified safeguarding course.',
+  'reason_for_test': 'Two mandatory roles do not necessarily require two different people.',
+  'evidence_pages': [35]},
+ {'id': 'Q27',
+  'query': 'Both teams make a substitution at the same stoppage in normal time. Does that '
+           'interruption use a substitution opportunity for just one team or for each team?',
+  'evidence_groups': [['C0105']],
+  'article': '35.2(b)',
+  'expected_answer': 'It counts as a used substitution opportunity for each team.',
+  'reason_for_test': 'Shared clock stoppage versus separate team opportunity accounting.',
+  'evidence_pages': [47]},
+ {'id': 'Q28',
+  'query': 'Our opponent uses an additional permanent concussion replacement. Does our team get '
+           'any extra regular substitution even though our own players are uninjured?',
+  'evidence_groups': [['C0106']],
+  'article': '35.3',
+  'expected_answer': 'Yes. The opposing team receives an additional regular substitution.',
+  'reason_for_test': 'The queried entitlement belongs to the opposing team, not the injured '
+                     'player’s team.',
+  'evidence_pages': [47]},
+ {'id': 'Q29',
+  'query': 'Our club has already filled all 35 places on its final player list. During 27 June to '
+           '3 July, can it add two otherwise eligible players without using those 35 places?',
+  'evidence_groups': [['C0070']],
+  'article': '24.3(b-c)',
+  'expected_answer': 'Yes. Up to two new players may be added without counting towards the '
+                     '35-player maximum; replacements and additions under 24.3(a-b) together may '
+                     'not exceed six, and the other registration and notification conditions still '
+                     'apply.',
+  'reason_for_test': 'General final-list size versus a dated exception.',
+  'evidence_pages': [33]},
+ {'id': 'Q30',
+  'query': 'We use only three goalkeepers in our final tournament squad. Is listing those same '
+           'three enough for the earlier provisional player submission?',
+  'evidence_groups': [['C0066']],
+  'article': '23.1',
+  'expected_answer': 'No. The provisional list requires at least four goalkeepers.',
+  'reason_for_test': 'Minimum of three for the final list versus four for the provisional list.',
+  'evidence_pages': [32]},
+ {'id': 'Q31',
+  'query': 'The stadium roof needs to be moved before kick-off, and the players are already '
+           'warming up on the pitch. Can it be moved while they remain there?',
+  'evidence_groups': [['C0059']],
+  'article': '19.2',
+  'expected_answer': 'No. The roof may only be opened or closed when no one is on the pitch.',
+  'reason_for_test': 'Authority to move the roof versus the pitch-occupancy condition.',
+  'evidence_pages': [28]},
+ {'id': 'Q32',
+  'query': 'A coach wants to use a tablet in the technical area for activities unrelated to '
+           'tactics, coaching or player welfare. Does permission for handheld electronic devices '
+           'cover this use?',
+  'evidence_groups': [['C0098']],
+  'article': '32.7',
+  'expected_answer': 'No. Permission is limited to coaching, tactics or player welfare and is '
+                     'subject to the applicable rules.',
+  'reason_for_test': 'List of permitted devices versus purpose limitation.',
+  'evidence_pages': [43]},
+ {'id': 'Q33',
+  'query': 'FIFA approved our kits before we travelled. Does that approval mean the equipment can '
+           'skip inspection at the Team Arrival Meeting?',
+  'evidence_groups': [['C0083']],
+  'article': '27.4',
+  'expected_answer': 'No. Equipment that could be displayed in the specified locations must be '
+                     'rechecked and approved at the Team Arrival Meeting.',
+  'reason_for_test': 'Initial approval versus mandatory arrival recheck.',
+  'evidence_pages': [38]},
+ {'id': 'Q34',
+  'query': 'We have identified a player for our club’s final squad, but another participating club '
+           'also wants him. Can both clubs register him on their final lists if he promises to '
+           'play for only one?',
+  'evidence_groups': [['C0074']],
+  'article': '24.8',
+  'expected_answer': 'No. A player may neither appear on more than one participating club’s final '
+                     'list nor play matches for more than one club.',
+  'reason_for_test': 'Provisional-list dispute process versus an explicit final-list prohibition.',
+  'evidence_pages': [34]},
+ {'id': 'Q35',
+  'query': 'The rules allow the club to inspect an unfamiliar stadium the day before playing. Can '
+           'that visit include an official football training session on its pitch?',
+  'evidence_groups': [['C0101']],
+  'article': '34.1',
+  'expected_answer': 'No. Official training sessions at stadiums before matches are prohibited; '
+                     'the permitted familiarisation visit is for inspection.',
+  'reason_for_test': 'Permission for access versus permission to train.',
+  'evidence_pages': [44]},
+ {'id': 'Q36',
+  'query': 'Will FIFA publish every player we submit on the provisional squad list, just as it '
+           'publishes the final squad?',
+  'evidence_groups': [['C0067']],
+  'article': '23.4',
+  'expected_answer': 'No. The provisional list is for internal use and is not published by FIFA.',
+  'reason_for_test': 'Publication of the final list versus confidentiality of the provisional '
+                     'list.',
+  'evidence_pages': [32]},
+ {'id': 'Q37',
+  'query': 'A referee is unable to continue in a match using VAR. The fourth official is not '
+           'certified to referee with VAR. Does the fourth official still take over as referee?',
+  'evidence_groups': [['C0111']],
+  'article': '36.2',
+  'expected_answer': 'No. In that situation the referee is replaced by a video match official.',
+  'reason_for_test': 'Normal fourth-official replacement rule versus a VAR certification '
+                     'exception.',
+  'evidence_pages': [49]},
+ {'id': 'Q38',
+  'query': 'Our team submitted its complete match start list on time. Can it be published '
+           'immediately while the opposing team has not yet completed its own list?',
+  'evidence_groups': [['C0093']],
+  'article': '31.2',
+  'expected_answer': 'No. Both start lists are published only after both teams have submitted '
+                     'fully completed lists.',
+  'reason_for_test': 'Individual submission deadline versus joint publication condition.',
+  'evidence_pages': [42]}]
+
+def _fifa_corpus_fingerprint(mapping):
+    payload = [{"chunk_id": key, "page": int(mapping[key]["page"]),
+                "text": mapping[key]["text"]} for key in sorted(mapping)]
+    return hashlib.sha256(json.dumps(payload, ensure_ascii=False, sort_keys=True).encode()).hexdigest()
+
+
+def run_fifa_stress_tests(namespace):
+    required = ["by_id", "index", "retrieve", "rerank", "TOP_K", "CONTEXT_K"]
+    missing = [name for name in required if name not in namespace]
+    if missing:
+        raise RuntimeError("Rerun the notebook setup, index and retrieval definitions. Missing: "
+                           + ", ".join(missing))
+    if namespace["TOP_K"] != 10 or namespace["CONTEXT_K"] != 3:
+        raise ValueError("Keep the assignment comparison fixed at Top 10 -> Top 3.")
+    if namespace["index"].ntotal != 132:
+        raise ValueError("The index must contain all 132 original chunks.")
+    corpus = namespace["by_id"]
+    if _fifa_corpus_fingerprint(corpus) != EXPECTED_CORPUS_SHA256:
+        raise ValueError("Corpus differs from the uploaded chunks.csv. Recheck labels before running.")
+    for field, expected in [("BI_MODEL", "sentence-transformers/all-MiniLM-L6-v2"),
+                            ("CE_MODEL", "cross-encoder/ms-marco-MiniLM-L6-v2")]:
+        if namespace.get(field) != expected:
+            raise ValueError(f"Keep {field} fixed at {expected} for this batch.")
+
+    # Label data is never added to the corpus or to the retrieval query.
+    retrieve_fn, rerank_fn = namespace["retrieve"], namespace["rerank"]
+    output = Path(namespace.get("OUT", "rag_results")) / "stress_batch"
+    output.mkdir(parents=True, exist_ok=True)
+    results, summary_rows, review = {}, [], []
+
+    def coverage(selected, groups):
+        ids = {chunk["chunk_id"] for chunk in selected}
+        return all(bool(ids.intersection(group)) for group in groups)
+
+    for case in FIFA_STRESS_CASES:
+        initial, baseline_ms = retrieve_fn(case["query"])
+        ranked, rerank_ms = rerank_fn(case["query"], initial)
+        assert len(initial) == len(ranked) == 10
+        assert {c["chunk_id"] for c in initial} == {c["chunk_id"] for c in ranked}
+        groups = case["evidence_groups"]
+        base_hit = coverage(initial[:3], groups)
+        rerank_hit = coverage(ranked[:3], groups)
+        candidate_hit = coverage(initial, groups)
+        outcome = ("labelled_evidence_outside_top10" if not candidate_hit else
+                   "candidate_recovery" if not base_hit and rerank_hit else
+                   "candidate_regression" if base_hit and not rerank_hit else
+                   "both_have_labelled_evidence" if base_hit and rerank_hit else
+                   "both_miss_labelled_evidence")
+        labelled_ids = sorted({k for g in groups for k in g})
+        b_ranks = {c["chunk_id"]: c["baseline_rank"] for c in initial}
+        r_ranks = {c["chunk_id"]: c["reranked_rank"] for c in ranked}
+        row = {"query_id": case["id"], "article": case["article"],
+               "labelled_chunks": ", ".join(labelled_ids),
+               "rank_changes": "; ".join(f"{k}: {b_ranks.get(k, '>10')} -> {r_ranks.get(k, 'absent')}"
+                                          for k in labelled_ids),
+               "baseline_coverage_at_3": base_hit,
+               "reranked_coverage_at_3": rerank_hit,
+               "status": outcome}
+        summary_rows.append(row)
+        results[case["id"]] = {**case, "baseline": initial, "reranked": ranked,
+                               "baseline_ms": baseline_ms, "rerank_ms": rerank_ms,
+                               "status": outcome}
+        review.extend(["=" * 90, f"{case['id']}: {case['query']}",
+                       f"Article {case['article']} | {outcome}",
+                       "Expected answer: " + case["expected_answer"],
+                       "Why test: " + case["reason_for_test"]])
+        for label, selected in [("BASELINE TOP 3", initial[:3]), ("RERANKED TOP 3", ranked[:3])]:
+            review.append("\n" + label)
+            for c in selected:
+                review.extend([f"[{c['chunk_id']}, PDF p.{c['page']}]", c["text"]])
+        review.extend(["\nLABELLED EVIDENCE (for audit; not inserted into retrieved context)"])
+        for key in labelled_ids:
+            review.extend([f"[{key}, PDF p.{corpus[key]['page']}]", corpus[key]["text"]])
+        review.extend(["\nHUMAN CHECK: Does any unlabelled baseline chunk already answer the question?",
+                       "Does the reranked context contain all necessary qualifications?",
+                       "Verdict and rationale: ____________________", ""])
+        # Checkpoint completed cases, so an interrupted run retains partial results.
+        (output / "stress_results.json").write_text(
+            json.dumps(results, indent=2, ensure_ascii=False), encoding="utf-8")
+
+    summary = pd.DataFrame(summary_rows)
+    summary.to_csv(output / "stress_summary.csv", index=False)
+    (output / "stress_context_review.txt").write_text("\n".join(review), encoding="utf-8")
+    (output / "stress_cases.json").write_text(
+        json.dumps(FIFA_STRESS_CASES, indent=2, ensure_ascii=False), encoding="utf-8")
+    manifest = {"corpus_sha256": EXPECTED_CORPUS_SHA256, "count": len(FIFA_STRESS_CASES),
+                "bi_model": namespace["BI_MODEL"], "ce_model": namespace["CE_MODEL"],
+                "top_k": 10, "context_k": 3,
+                "case_sha256": hashlib.sha256(json.dumps(FIFA_STRESS_CASES, sort_keys=True,
+                                                        ensure_ascii=False).encode()).hexdigest(),
+                "protocol": "Exploratory, constructed after Q02-Q14 inspection. No LLM answers generated."}
+    (output / "stress_manifest.json").write_text(json.dumps(manifest, indent=2), encoding="utf-8")
+    print(summary.to_string(index=False))
+    print("\nStatus counts:\n" + summary["status"].value_counts().to_string())
+    print("\nSaved:", output.resolve())
+    print("Flags are labelled-evidence checks, not verified answer-quality gains.")
+    print("Upload stress_summary.csv and stress_results.json for review.")
+    namespace["fifa_stress_results"] = results
+    namespace["fifa_stress_summary"] = summary
+    return summary, results
+
+
+if __name__ == "__main__":
+    run_fifa_stress_tests(globals())
