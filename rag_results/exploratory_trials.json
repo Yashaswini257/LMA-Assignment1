@@ -1241,8 +1241,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 23.618167000677204,
-    "rerank_ms": 16.372607000448625
+    "baseline_ms": 10.702331000004506,
+    "rerank_ms": 20.975220000025274
   },
   "Q08": {
     "query": "A footballer is on the approved final squad list but cannot produce a valid individual passport with a photograph. Is being on the list enough to let him participate?",
@@ -1451,8 +1451,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.663138999399962,
-    "rerank_ms": 17.022952999468544
+    "baseline_ms": 9.612107999998898,
+    "rerank_ms": 20.070833000033872
   },
   "Q09": {
     "query": "An otherwise valid change to the final squad list was notified to FIFA 36 hours before the next kick-off. Can the newly added player participate in that match?",
@@ -1661,8 +1661,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.5133969995513326,
-    "rerank_ms": 14.905695999914315
+    "baseline_ms": 14.161883999975089,
+    "rerank_ms": 24.97787600003676
   },
   "Q10": {
     "query": "A goalkeeper has been replaced because of illness. Can he keep his accreditation and remain a member of the final squad?",
@@ -1871,8 +1871,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.1618659995729104,
-    "rerank_ms": 13.386148000790854
+    "baseline_ms": 8.69049499999619,
+    "rerank_ms": 17.954456999973445
   },
   "Q11": {
     "query": "The pitch becomes unplayable during a match. Can the captain wait until after the final whistle to raise the objection?",
@@ -2081,8 +2081,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.4277689992450178,
-    "rerank_ms": 13.373731999308802
+    "baseline_ms": 11.145366999983253,
+    "rerank_ms": 20.41711000003943
   },
   "Q12": {
     "query": "A fixture is abandoned and continued later. Does each team receive a fresh substitution allowance when it resumes?",
@@ -2291,8 +2291,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.0853040007059462,
-    "rerank_ms": 13.94645400068839
+    "baseline_ms": 8.439022999993995,
+    "rerank_ms": 22.079916000052435
   },
   "Q13": {
     "query": "Does replacing an ill member of the starting eleven before kick-off use up one of the team's substitutions during the match?",
@@ -2501,8 +2501,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.2906850010476774,
-    "rerank_ms": 14.38589000099455
+    "baseline_ms": 7.9652910000049815,
+    "rerank_ms": 21.01082899997664
   },
   "Q14": {
     "query": "Must a club wait for the scheduled squad-amendment window to replace a goalkeeper with a serious illness?",
@@ -2711,7 +2711,7 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.3905960008269176,
-    "rerank_ms": 13.488377000612672
+    "baseline_ms": 11.955088999968666,
+    "rerank_ms": 23.022437000008722
   }
 }

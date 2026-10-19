@@ -1,0 +1,842 @@
+{
+  "Q39": {
+    "query": "Does the usual two-hour deadline still allow a protest once the final match of the competition has ended?",
+    "target_chunk": "C0030",
+    "baseline": [
+      {
+        "chunk_id": "C0027",
+        "page": 13,
+        "text": "effect on matches, including but not limited\n      to the state of and markings on the pitch, accessory match equipment, eligibility\n      of players, stadium installations and footballs.\n\n8.2     Unless otherwise stipulated in this article, protests shall be submitted in writing\n      to the FIFA Match Director within two hours of the match in question, as well\n      as via the FIFA Legal Portal at legalportal.fifa.com    (cf. art. 18 par. 1 of the FIFA\n      Disciplinary Code) within 24 hours of the end of the match, otherwise they shall\n      be disregarded.\n                                                                                                                    II.",
+        "char_start": 1746,
+        "char_end": 2433,
+        "baseline_rank": 1,
+        "cosine_score": 0.6503688097000122
+      },
+      {
+        "chunk_id": "C0028",
+        "page": 14,
+        "text": "14\n\n\n\n\n\n\n       8.3    Protests regarding the eligibility of players nominated for matches shall be\n              submitted via the FIFA Legal Portal at legalportal.fifa.com    (cf. art. 18 par. 1 ofthe\n              FIFA Disciplinary Code) no later than three days before the first match   of the\n              Competition. Such protests shall be dealt with by the FIFA DisciplinaryCommittee.\n\n       8.4     Protests regarding the state of the pitch, its surroundings, markings or accessory\n              items (e.g. goals, flagposts or footballs) shall be made in writing to the referee\n              before the start of the match by the head of delegation of the team lodging\n              the protest. If the pitch’s playing surface becomes unplayable during a match,\n              the captain of the protesting team shall immediately lodge a protest with the\n              referee in the presence of the captain of the opposing team. The protests shall\n              be confirmed in writing to the FIFA Match",
+        "char_start": 0,
+        "char_end": 1014,
+        "baseline_rank": 2,
+        "cosine_score": 0.591320276260376
+      },
+      {
+        "chunk_id": "C0029",
+        "page": 14,
+        "text": "shall immediately lodge a protest with the\n              referee in the presence of the captain of the opposing team. The protests shall\n              be confirmed in writing to the FIFA Match Director by the head of delegation of\n              the team no later than two hours after the match.\n\n       8.5    Protests against any incidents that occur during the course of a match shall be\n              made to the referee by the team captain immediately after the disputed incident\n              and before play has resumed, in the presence of the captain of the opposing team.\n              The protest shall be confirmed in writing to the FIFA Match Director by the head\n              of delegation of the team no later than two hours after the match.\n\n       8.6     No protests may be made about the referee’s decisions regarding facts connected\n              with play. Such decisions are final and not subject to appeal, unless otherwise\n              stipulated in the FIFA Disciplinary Code.\n\n       8.7     If an unfounded or irresponsible protest is lodged, the",
+        "char_start": 822,
+        "char_end": 1895,
+        "baseline_rank": 3,
+        "cosine_score": 0.5637202262878418
+      },
+      {
+        "chunk_id": "C0055",
+        "page": 26,
+        "text": "26\n\n\n\n\n       ARTICLE 15: DRAW AND TEAM WORKSHOP\n\n       Detailed information concerning the draw and Team Workshop for the Competition\n       shall be communicated by circular letter.\n\n       ARTICLE 16: VENUES, DATES AND KICK-OFF TIMES\n\n       16.1     The venues, dates and kick-off times of the matches shall be determined by FIFA.\n\n       16.2   The dates and venues of the matches shall be set, allowing each team a minimum\n             rest period of 72 hours between matches. In principle, the last matchday matches\n             of the group stage of the same group shall kick off simultaneously, unless there\n             is a case of force majeure.\n\n       16.3   FIFA shall confirm the match kick-off times and stadiums after the draw.\n\n       ARTICLE 17: TEAM ARRIVALS\n\n       Each team participating in the Competition shall arrive at their Team Base Camp at\n       least five and no fewer than three days before their first match.",
+        "char_start": 0,
+        "char_end": 944,
+        "baseline_rank": 4,
+        "cosine_score": 0.5371105074882507
+      },
+      {
+        "chunk_id": "C0030",
+        "page": 14,
+        "text": "subject to appeal, unless otherwise\n              stipulated in the FIFA Disciplinary Code.\n\n       8.7     If an unfounded or irresponsible protest is lodged, the FIFA Disciplinary Committee\n              may impose disciplinary measures against the participating club concerned.\n\n       8.8    If any of the formal conditions of a protest as set out in these Regulations are not\n              met, such protest shall be disregarded by the competent body. Once the final\n              match of the Competition has ended, any protests described in this article shall\n              be disregarded. Notwithstanding the above, the FIFA Disciplinary Committee\n              remains competent to prosecute any disciplinary infringement ex officio  , as\n              established in the FIFA Disciplinary Code.\n\n       8.9    FIFA shall pass decisions on any protests lodged, subject to the exceptions\n              stipulated in these Regulations, the FIFA Statutes or any other FIFA regulations.",
+        "char_start": 1732,
+        "char_end": 2723,
+        "baseline_rank": 5,
+        "cosine_score": 0.5126917362213135
+      },
+      {
+        "chunk_id": "C0023",
+        "page": 11,
+        "text": "9     FIFA has the right to cancel, reschedule or relocate one or more matches (or the\n      entire Competition) for any reason at its sole discretion, including as a result of\n      force majeure or due to health, safety or security concerns.\n\n\n\n\n\n\n\n\n\n\n\n                                                                                                                          I.",
+        "char_start": 1581,
+        "char_end": 1960,
+        "baseline_rank": 6,
+        "cosine_score": 0.5099694728851318
+      },
+      {
+        "chunk_id": "C0053",
+        "page": 24,
+        "text": "24\n\n\n\n\n       ARTICLE 14: EXTRA TIME AND PENALTIES (PENALTY\n                              SHOOTOUT)\n\n       14.1    In the knockout stage, if a match is level at the end of normal playing time, extra\n             time shall be played. Extra time shall consist of two 15-minute periods, with an\n             interval of five minutes at the end of normal playing time, but not between the\n             two periods of extra time. The players shall remain on the pitch during both of\n             these intervals.\n\n       14.2   If the score is still level at the end of extra time, penalties (penalty shootout) shall\n             be taken to determine the winner, in accordance with the procedure specified in\n             the Laws of the Game.",
+        "char_start": 0,
+        "char_end": 741,
+        "baseline_rank": 7,
+        "cosine_score": 0.4969673454761505
+      },
+      {
+        "chunk_id": "C0022",
+        "page": 11,
+        "text": "the same players on the pitch and substitutes\n            available as when the match was abandoned.\n\n      c)       No additional substitutes may be added to the list of players on the start list.\n\n      d)            The teams can make only the number of substitutions to which they were still\n            entitled when the match was abandoned.\n\n      e)       Players sent off during the abandoned match cannot be replaced.\n\n      f)         Any disciplinary measures imposed before the match was abandoned will be\n            dealt with in accordance with the FIFA Disciplinary Code.\n\n      g)       The kick-off time, date and location shall be decided by FIFA.\n\n5.8    If a participating club withdraws and/or is disqualified prior to the end of the\n      group stage, the results of all of its matches will be declared null and void.\n\n5.9     FIFA has the right to cancel, reschedule or relocate one or more matches (or the\n      entire Competition) for any reason at its sole discretion",
+        "char_start": 737,
+        "char_end": 1731,
+        "baseline_rank": 8,
+        "cosine_score": 0.492007315158844
+      },
+      {
+        "chunk_id": "C0026",
+        "page": 13,
+        "text": "and all Delegation Members acknowledge and accept\n      that their sole legal recourse against final decisions of FIFA shall be to the Court\n      of Arbitration for Sport (CAS) in Lausanne, Switzerland, as provided for in the FIFA\n      Statutes, and unless excluded by the FIFA Statutes or applicable FIFA regulations.\n      Any such arbitration proceedings shall be governed by the CAS Code of Sports-\n      related Arbitration.\n\n7.2      As provided for in the FIFA Statutes, recourse to ordinary courts of law is prohibited\n      unless specifically provided for in the FIFA regulations. Recourse to ordinary\n      courts of law for all types of provisional measures is also prohibited.\n\nARTICLE 8: PROTESTS\n\n8.1      For the purpose of these Regulations, protests are objections of any kind related\n      to events or matters that have a direct effect on matches, including but not limited\n      to the state of and markings on the pitch, accessory match equipment, eligibility\n      of players, stadium installations and football",
+        "char_start": 895,
+        "char_end": 1931,
+        "baseline_rank": 9,
+        "cosine_score": 0.48442357778549194
+      },
+      {
+        "chunk_id": "C0059",
+        "page": 28,
+        "text": "match.\n              In such an event, the roof is to remain closed until the end of the match. The roof\n              may only be opened or closed if there is no one on the pitch.\n\n       ARTICLE 20: STADIUM CLOCKS AND GIANT SCREEN\n\n       20.1   Clocks in the stadium showing the length of time played may run during the\n              match, provided that they are stopped at the end of normal playing time in each\n              half, i.e. after 45 and 90 minutes respectively. This stipulation shall also apply if\n              extra time is played (i.e. after 15 minutes of each half).",
+        "char_start": 1787,
+        "char_end": 2376,
+        "baseline_rank": 10,
+        "cosine_score": 0.46855640411376953
+      }
+    ],
+    "reranked": [
+      {
+        "chunk_id": "C0029",
+        "page": 14,
+        "text": "shall immediately lodge a protest with the\n              referee in the presence of the captain of the opposing team. The protests shall\n              be confirmed in writing to the FIFA Match Director by the head of delegation of\n              the team no later than two hours after the match.\n\n       8.5    Protests against any incidents that occur during the course of a match shall be\n              made to the referee by the team captain immediately after the disputed incident\n              and before play has resumed, in the presence of the captain of the opposing team.\n              The protest shall be confirmed in writing to the FIFA Match Director by the head\n              of delegation of the team no later than two hours after the match.\n\n       8.6     No protests may be made about the referee’s decisions regarding facts connected\n              with play. Such decisions are final and not subject to appeal, unless otherwise\n              stipulated in the FIFA Disciplinary Code.\n\n       8.7     If an unfounded or irresponsible protest is lodged, the",
+        "char_start": 822,
+        "char_end": 1895,
+        "baseline_rank": 3,
+        "cosine_score": 0.5637202262878418,
+        "cross_score": 2.5871167182922363,
+        "reranked_rank": 1
+      },
+      {
+        "chunk_id": "C0027",
+        "page": 13,
+        "text": "effect on matches, including but not limited\n      to the state of and markings on the pitch, accessory match equipment, eligibility\n      of players, stadium installations and footballs.\n\n8.2     Unless otherwise stipulated in this article, protests shall be submitted in writing\n      to the FIFA Match Director within two hours of the match in question, as well\n      as via the FIFA Legal Portal at legalportal.fifa.com    (cf. art. 18 par. 1 of the FIFA\n      Disciplinary Code) within 24 hours of the end of the match, otherwise they shall\n      be disregarded.\n                                                                                                                    II.",
+        "char_start": 1746,
+        "char_end": 2433,
+        "baseline_rank": 1,
+        "cosine_score": 0.6503688097000122,
+        "cross_score": 2.0218722820281982,
+        "reranked_rank": 2
+      },
+      {
+        "chunk_id": "C0030",
+        "page": 14,
+        "text": "subject to appeal, unless otherwise\n              stipulated in the FIFA Disciplinary Code.\n\n       8.7     If an unfounded or irresponsible protest is lodged, the FIFA Disciplinary Committee\n              may impose disciplinary measures against the participating club concerned.\n\n       8.8    If any of the formal conditions of a protest as set out in these Regulations are not\n              met, such protest shall be disregarded by the competent body. Once the final\n              match of the Competition has ended, any protests described in this article shall\n              be disregarded. Notwithstanding the above, the FIFA Disciplinary Committee\n              remains competent to prosecute any disciplinary infringement ex officio  , as\n              established in the FIFA Disciplinary Code.\n\n       8.9    FIFA shall pass decisions on any protests lodged, subject to the exceptions\n              stipulated in these Regulations, the FIFA Statutes or any other FIFA regulations.",
+        "char_start": 1732,
+        "char_end": 2723,
+        "baseline_rank": 5,
+        "cosine_score": 0.5126917362213135,
+        "cross_score": 1.3145520687103271,
+        "reranked_rank": 3
+      },
+      {
+        "chunk_id": "C0028",
+        "page": 14,
+        "text": "14\n\n\n\n\n\n\n       8.3    Protests regarding the eligibility of players nominated for matches shall be\n              submitted via the FIFA Legal Portal at legalportal.fifa.com    (cf. art. 18 par. 1 ofthe\n              FIFA Disciplinary Code) no later than three days before the first match   of the\n              Competition. Such protests shall be dealt with by the FIFA DisciplinaryCommittee.\n\n       8.4     Protests regarding the state of the pitch, its surroundings, markings or accessory\n              items (e.g. goals, flagposts or footballs) shall be made in writing to the referee\n              before the start of the match by the head of delegation of the team lodging\n              the protest. If the pitch’s playing surface becomes unplayable during a match,\n              the captain of the protesting team shall immediately lodge a protest with the\n              referee in the presence of the captain of the opposing team. The protests shall\n              be confirmed in writing to the FIFA Match",
+        "char_start": 0,
+        "char_end": 1014,
+        "baseline_rank": 2,
+        "cosine_score": 0.591320276260376,
+        "cross_score": -0.11870040744543076,
+        "reranked_rank": 4
+      },
+      {
+        "chunk_id": "C0055",
+        "page": 26,
+        "text": "26\n\n\n\n\n       ARTICLE 15: DRAW AND TEAM WORKSHOP\n\n       Detailed information concerning the draw and Team Workshop for the Competition\n       shall be communicated by circular letter.\n\n       ARTICLE 16: VENUES, DATES AND KICK-OFF TIMES\n\n       16.1     The venues, dates and kick-off times of the matches shall be determined by FIFA.\n\n       16.2   The dates and venues of the matches shall be set, allowing each team a minimum\n             rest period of 72 hours between matches. In principle, the last matchday matches\n             of the group stage of the same group shall kick off simultaneously, unless there\n             is a case of force majeure.\n\n       16.3   FIFA shall confirm the match kick-off times and stadiums after the draw.\n\n       ARTICLE 17: TEAM ARRIVALS\n\n       Each team participating in the Competition shall arrive at their Team Base Camp at\n       least five and no fewer than three days before their first match.",
+        "char_start": 0,
+        "char_end": 944,
+        "baseline_rank": 4,
+        "cosine_score": 0.5371105074882507,
+        "cross_score": -2.945615530014038,
+        "reranked_rank": 5
+      },
+      {
+        "chunk_id": "C0053",
+        "page": 24,
+        "text": "24\n\n\n\n\n       ARTICLE 14: EXTRA TIME AND PENALTIES (PENALTY\n                              SHOOTOUT)\n\n       14.1    In the knockout stage, if a match is level at the end of normal playing time, extra\n             time shall be played. Extra time shall consist of two 15-minute periods, with an\n             interval of five minutes at the end of normal playing time, but not between the\n             two periods of extra time. The players shall remain on the pitch during both of\n             these intervals.\n\n       14.2   If the score is still level at the end of extra time, penalties (penalty shootout) shall\n             be taken to determine the winner, in accordance with the procedure specified in\n             the Laws of the Game.",
+        "char_start": 0,
+        "char_end": 741,
+        "baseline_rank": 7,
+        "cosine_score": 0.4969673454761505,
+        "cross_score": -3.3571088314056396,
+        "reranked_rank": 6
+      },
+      {
+        "chunk_id": "C0022",
+        "page": 11,
+        "text": "the same players on the pitch and substitutes\n            available as when the match was abandoned.\n\n      c)       No additional substitutes may be added to the list of players on the start list.\n\n      d)            The teams can make only the number of substitutions to which they were still\n            entitled when the match was abandoned.\n\n      e)       Players sent off during the abandoned match cannot be replaced.\n\n      f)         Any disciplinary measures imposed before the match was abandoned will be\n            dealt with in accordance with the FIFA Disciplinary Code.\n\n      g)       The kick-off time, date and location shall be decided by FIFA.\n\n5.8    If a participating club withdraws and/or is disqualified prior to the end of the\n      group stage, the results of all of its matches will be declared null and void.\n\n5.9     FIFA has the right to cancel, reschedule or relocate one or more matches (or the\n      entire Competition) for any reason at its sole discretion",
+        "char_start": 737,
+        "char_end": 1731,
+        "baseline_rank": 8,
+        "cosine_score": 0.492007315158844,
+        "cross_score": -4.36395263671875,
+        "reranked_rank": 7
+      },
+      {
+        "chunk_id": "C0023",
+        "page": 11,
+        "text": "9     FIFA has the right to cancel, reschedule or relocate one or more matches (or the\n      entire Competition) for any reason at its sole discretion, including as a result of\n      force majeure or due to health, safety or security concerns.\n\n\n\n\n\n\n\n\n\n\n\n                                                                                                                          I.",
+        "char_start": 1581,
+        "char_end": 1960,
+        "baseline_rank": 6,
+        "cosine_score": 0.5099694728851318,
+        "cross_score": -5.481239318847656,
+        "reranked_rank": 8
+      },
+      {
+        "chunk_id": "C0059",
+        "page": 28,
+        "text": "match.\n              In such an event, the roof is to remain closed until the end of the match. The roof\n              may only be opened or closed if there is no one on the pitch.\n\n       ARTICLE 20: STADIUM CLOCKS AND GIANT SCREEN\n\n       20.1   Clocks in the stadium showing the length of time played may run during the\n              match, provided that they are stopped at the end of normal playing time in each\n              half, i.e. after 45 and 90 minutes respectively. This stipulation shall also apply if\n              extra time is played (i.e. after 15 minutes of each half).",
+        "char_start": 1787,
+        "char_end": 2376,
+        "baseline_rank": 10,
+        "cosine_score": 0.46855640411376953,
+        "cross_score": -5.5494184494018555,
+        "reranked_rank": 9
+      },
+      {
+        "chunk_id": "C0026",
+        "page": 13,
+        "text": "and all Delegation Members acknowledge and accept\n      that their sole legal recourse against final decisions of FIFA shall be to the Court\n      of Arbitration for Sport (CAS) in Lausanne, Switzerland, as provided for in the FIFA\n      Statutes, and unless excluded by the FIFA Statutes or applicable FIFA regulations.\n      Any such arbitration proceedings shall be governed by the CAS Code of Sports-\n      related Arbitration.\n\n7.2      As provided for in the FIFA Statutes, recourse to ordinary courts of law is prohibited\n      unless specifically provided for in the FIFA regulations. Recourse to ordinary\n      courts of law for all types of provisional measures is also prohibited.\n\nARTICLE 8: PROTESTS\n\n8.1      For the purpose of these Regulations, protests are objections of any kind related\n      to events or matters that have a direct effect on matches, including but not limited\n      to the state of and markings on the pitch, accessory match equipment, eligibility\n      of players, stadium installations and football",
+        "char_start": 895,
+        "char_end": 1931,
+        "baseline_rank": 9,
+        "cosine_score": 0.48442357778549194,
+        "cross_score": -6.33062219619751,
+        "reranked_rank": 10
+      }
+    ],
+    "baseline_ms": 6.510251999998218,
+    "rerank_ms": 20.241849000001366
+  },
+  "Q40": {
+    "query": "During the match, can substitutes practise passing with a ball in the designated warm-up area?",
+    "target_chunk": "C0098",
+    "baseline": [
+      {
+        "chunk_id": "C0097",
+        "page": 43,
+        "text": "technical overflow seats in the stand shall be allocated\n      for accredited officials providing technical support to the team during the match\n      (kit manager, assistant physiotherapist, etc.). Staff occupying such seats shall\n      have access to the dressing rooms.\n\n32.4  During the match, substitutes are allowed to leave the technical area to warm\n      up. At the Match Coordination Meeting, the FIFA Match Director shall explain\n      exactly where they may warm up.\n\n32.5  A maximum of five players per team shall warm up at the same time behind\n      the advertising boards to the rear of the goal (with a maximum of one official).\n      Ifthere is not sufficient space behind the goals, both teams shall warm up in the\n      designated area behind the first assistant referee or next to their own team bench.\n      In this case, five players and one official per team may warm up at the same time.\n      Thewarm-",
+        "char_start": 726,
+        "char_end": 1653,
+        "baseline_rank": 1,
+        "cosine_score": 0.5781126618385315
+      },
+      {
+        "chunk_id": "C0101",
+        "page": 44,
+        "text": "by players and officials is prohibited. The similar display\n              of commercial messages and slogans of any nature in any language or form by\n              players and officials is not allowed for the duration of their time at any official\n              activity organised by FIFA (including official matches and training sessions,\n              aswell as during official press conferences and mixed-zone activities).\n\n       ARTICLE 34: OFFICIAL TRAINING SESSIONS,\n                               STADIUM FAMILIARISATION VISITS\n                               ANDPRE-MATCH WARM-UPS\n\n       34.1   In order to preserve the quality of the pitch for the matches, no official training\n              sessions will be allowed at the stadiums before any match. In principle,\n              allparticipating clubs’ official training sessions will be conducted at the Team\n              Base Camp training sites or at the venue-specific training sites.\n\n       34.2  Teams that are due to play a match in a stadium in which they have not previously\n              played will be entitled to a familiarisation session in that stadium on the",
+        "char_start": 823,
+        "char_end": 1958,
+        "baseline_rank": 2,
+        "cosine_score": 0.49096250534057617
+      },
+      {
+        "chunk_id": "C0098",
+        "page": 43,
+        "text": "next to their own team bench.\n      In this case, five players and one official per team may warm up at the same time.\n      Thewarm-up may not involve the use of any balls.\n\n32.6  Smoking, vaping and the use of any tobacco-related products are only allowed\n      in the designated areas (if made available) and are not allowed in the technical\n      area, in the vicinity of the field of play or within the competition areas, such as\n      the dressing rooms.\n\n32.7  Small, hand-held electronic equipment (e.g. microphones, headphones, earpieces,\n      mobile phones/smartphones, smartwatches, tablets, laptops, etc.) are permitted in\n      the technical area only if used for coaching/tactics or player welfare in accordance\n      with the Laws of the Game and the FIFA Media and MarketingRegulations.\n\n32.8 Additional special equipment",
+        "char_start": 1520,
+        "char_end": 2358,
+        "baseline_rank": 3,
+        "cosine_score": 0.48583370447158813
+      },
+      {
+        "chunk_id": "C0096",
+        "page": 43,
+        "text": "43\n\n\n\n\nARTICLE 32: TECHNICAL AND WARM-UP AREAS\n\n32.1    The technical area is the area which the coach, other team officials and substitutes\n      are allowed to occupy during the match. It includes the dugout (ifapplicable),\n      theteam bench and a marked zone adjacent to the pitch.\n\n32.2  No more than 26 people (15 substitute players and 11 officials – one of these\n      teamofficials shall be the team medical doctor) shall be allowed to sit on the\n      team bench. A suspended player or team official will not be allowed to sit on\n      the team     bench. Only the officials indicated on the start list may sit on the team\n      bench or be in the technical area during the match.\n\n32.3  No more than 20 additional technical overflow seats in the stand shall be allocated\n      for accredited officials providing technical support to the team during the match\n      (kit manager, assistant physiot",
+        "char_start": 0,
+        "char_end": 908,
+        "baseline_rank": 4,
+        "cosine_score": 0.47179701924324036
+      },
+      {
+        "chunk_id": "C0099",
+        "page": 43,
+        "text": "coaching/tactics or player welfare in accordance\n      with the Laws of the Game and the FIFA Media and MarketingRegulations.\n\n32.8 Additional special equipment items (e.g. antennae) for the use of wearable\n      technology at Competition matches may only be positioned in a dedicated area\n      of a stadium defined by FIFA, but not in the technical area of such stadium.\n                                                                                                                 VIII.",
+        "char_start": 2198,
+        "char_end": 2689,
+        "baseline_rank": 5,
+        "cosine_score": 0.47123396396636963
+      },
+      {
+        "chunk_id": "C0105",
+        "page": 47,
+        "text": "47\n\n\n\n\nARTICLE 35: LAWS OF THE GAME\n\n35.1    All matches shall be played in accordance with the Laws of the Game in force at the\n      time of the Competition and as laid down by The International Football Association\n      Board (“The IFAB”). In the case of any discrepancy in the interpretation of the\n      translations of the Laws of the Game, the English version shall be authoritative.\n\n35.2  During the match, each team:\n\n      a)       may use a maximum of five substitutes;\n\n      b)       has a maximum of three substitution opportunities. Where both teams make a\n            substitution at the same time, this will count as a used substitution opportunity\n            for each team; and:\n\n      c)     may make substitutions at half-time, which will not count as a substitution\n            opportunity.\n\n35.3  In accordance with Law 3 of the Laws of the Game, teams may make one additional\n      permanent concussion substitution per match.",
+        "char_start": 0,
+        "char_end": 952,
+        "baseline_rank": 6,
+        "cosine_score": 0.46799200773239136
+      },
+      {
+        "chunk_id": "C0103",
+        "page": 45,
+        "text": "45\n\n\n\n\n\n\n34.4  The teams will be entitled to warm up on the pitch before each match on matchday,\n      weather and pitch conditions permitting. In principle, such warm-up will be up\n      to 30 minutes long and will take place from 50 minutes prior to kick-offuntil\n      20 minutes prior to kick-off. If the pitch is not in good condition or if warm-up\n      sessions would negatively affect the state of the pitch for the match, or if the\n      pitch is to be used for ceremonies related to the Competition, FIFA may shorten\n      or cancel the warm-up session and/or specify restricted areas of use.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                                                                   VIII.",
+        "char_start": 0,
+        "char_end": 750,
+        "baseline_rank": 7,
+        "cosine_score": 0.4633716940879822
+      },
+      {
+        "chunk_id": "C0021",
+        "page": 11,
+        "text": "11\n\n\n\n\n\n\n5.7     Further to the above, in the case of a match being abandoned after it has already\n      kicked off, the following principles shall apply:\n\n      a)    The match shall recommence at the minute at which play was interrupted\n            rather than being replayed in full, and with the same scoreline. The match\n            shall recommence where play was stopped when the match was interrupted\n            (e.g. with a free kick, throw-in, goal kick, corner kick, kick from the penalty mark,\n            etc.). If the match was abandoned while the ball was still in play, it shall restart\n            with a dropped ball from the position of the ball when play wasstopped.\n\n      b)        The match shall recommence with the same players on the pitch and substitutes\n            available as when the match was abandoned.\n\n      c)       No additional substitutes may be added to the list of players on",
+        "char_start": 0,
+        "char_end": 918,
+        "baseline_rank": 8,
+        "cosine_score": 0.4490622282028198
+      },
+      {
+        "chunk_id": "C0057",
+        "page": 28,
+        "text": "28\n\n\n\n\n       ARTICLE 18: STADIUMS\n\n       18.1    Matches shall be played on natural grass only.\n\n       18.2   Unless otherwise approved by FIFA, the pitch shall have the following dimensions:\n              length 105m, width 68m.\n\n       18.3   The pitch watering schedule and the height of the grass will be communicated\n              by the FIFA Match Director at the Match Coordination Meeting.\n\n       18.4  The field of play, accessory equipment and all facilities for each match shall\n              be in optimum condition and comply with the Laws of the Game and all other\n              relevant regulations. All goals shall be equipped with white goalposts and white\n              goal nets with dark support posts and padding. Each stadium shall have spare\n              goals, netsand corner flags located in close proximity to the field of play for\n              contingency purposes.\n\n       18.5  All Competition stadiums shall be tobacco-free and free of vapours from\n              e-cigarettes in accordance with the FIFA Event",
+        "char_start": 0,
+        "char_end": 1045,
+        "baseline_rank": 9,
+        "cosine_score": 0.43839991092681885
+      },
+      {
+        "chunk_id": "C0095",
+        "page": 42,
+        "text": "Although no longer eligible to play as a substitute, the    injured\n              or ill player who was removed from the start list before kick-off may be seated\n              on the team bench.\n\n        31.6   Only the players who were identified on the official start list submitted to the FIFA\n              Match Director, or were confirmed as a warm-up injury/illness replacement player,\n              may start the match. In the case of any discrepancies of players on the pitch at\n              the beginning of the match, the matter will be submitted to the FIFA Disciplinary\n              Committee for a decision.",
+        "char_start": 2607,
+        "char_end": 3230,
+        "baseline_rank": 10,
+        "cosine_score": 0.4289410710334778
+      }
+    ],
+    "reranked": [
+      {
+        "chunk_id": "C0097",
+        "page": 43,
+        "text": "technical overflow seats in the stand shall be allocated\n      for accredited officials providing technical support to the team during the match\n      (kit manager, assistant physiotherapist, etc.). Staff occupying such seats shall\n      have access to the dressing rooms.\n\n32.4  During the match, substitutes are allowed to leave the technical area to warm\n      up. At the Match Coordination Meeting, the FIFA Match Director shall explain\n      exactly where they may warm up.\n\n32.5  A maximum of five players per team shall warm up at the same time behind\n      the advertising boards to the rear of the goal (with a maximum of one official).\n      Ifthere is not sufficient space behind the goals, both teams shall warm up in the\n      designated area behind the first assistant referee or next to their own team bench.\n      In this case, five players and one official per team may warm up at the same time.\n      Thewarm-",
+        "char_start": 726,
+        "char_end": 1653,
+        "baseline_rank": 1,
+        "cosine_score": 0.5781126618385315,
+        "cross_score": 4.026881694793701,
+        "reranked_rank": 1
+      },
+      {
+        "chunk_id": "C0096",
+        "page": 43,
+        "text": "43\n\n\n\n\nARTICLE 32: TECHNICAL AND WARM-UP AREAS\n\n32.1    The technical area is the area which the coach, other team officials and substitutes\n      are allowed to occupy during the match. It includes the dugout (ifapplicable),\n      theteam bench and a marked zone adjacent to the pitch.\n\n32.2  No more than 26 people (15 substitute players and 11 officials – one of these\n      teamofficials shall be the team medical doctor) shall be allowed to sit on the\n      team bench. A suspended player or team official will not be allowed to sit on\n      the team     bench. Only the officials indicated on the start list may sit on the team\n      bench or be in the technical area during the match.\n\n32.3  No more than 20 additional technical overflow seats in the stand shall be allocated\n      for accredited officials providing technical support to the team during the match\n      (kit manager, assistant physiot",
+        "char_start": 0,
+        "char_end": 908,
+        "baseline_rank": 4,
+        "cosine_score": 0.47179701924324036,
+        "cross_score": 2.8491368293762207,
+        "reranked_rank": 2
+      },
+      {
+        "chunk_id": "C0098",
+        "page": 43,
+        "text": "next to their own team bench.\n      In this case, five players and one official per team may warm up at the same time.\n      Thewarm-up may not involve the use of any balls.\n\n32.6  Smoking, vaping and the use of any tobacco-related products are only allowed\n      in the designated areas (if made available) and are not allowed in the technical\n      area, in the vicinity of the field of play or within the competition areas, such as\n      the dressing rooms.\n\n32.7  Small, hand-held electronic equipment (e.g. microphones, headphones, earpieces,\n      mobile phones/smartphones, smartwatches, tablets, laptops, etc.) are permitted in\n      the technical area only if used for coaching/tactics or player welfare in accordance\n      with the Laws of the Game and the FIFA Media and MarketingRegulations.\n\n32.8 Additional special equipment",
+        "char_start": 1520,
+        "char_end": 2358,
+        "baseline_rank": 3,
+        "cosine_score": 0.48583370447158813,
+        "cross_score": 0.8992668986320496,
+        "reranked_rank": 3
+      },
+      {
+        "chunk_id": "C0095",
+        "page": 42,
+        "text": "Although no longer eligible to play as a substitute, the    injured\n              or ill player who was removed from the start list before kick-off may be seated\n              on the team bench.\n\n        31.6   Only the players who were identified on the official start list submitted to the FIFA\n              Match Director, or were confirmed as a warm-up injury/illness replacement player,\n              may start the match. In the case of any discrepancies of players on the pitch at\n              the beginning of the match, the matter will be submitted to the FIFA Disciplinary\n              Committee for a decision.",
+        "char_start": 2607,
+        "char_end": 3230,
+        "baseline_rank": 10,
+        "cosine_score": 0.4289410710334778,
+        "cross_score": -0.9441235065460205,
+        "reranked_rank": 4
+      },
+      {
+        "chunk_id": "C0103",
+        "page": 45,
+        "text": "45\n\n\n\n\n\n\n34.4  The teams will be entitled to warm up on the pitch before each match on matchday,\n      weather and pitch conditions permitting. In principle, such warm-up will be up\n      to 30 minutes long and will take place from 50 minutes prior to kick-offuntil\n      20 minutes prior to kick-off. If the pitch is not in good condition or if warm-up\n      sessions would negatively affect the state of the pitch for the match, or if the\n      pitch is to be used for ceremonies related to the Competition, FIFA may shorten\n      or cancel the warm-up session and/or specify restricted areas of use.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                                                                   VIII.",
+        "char_start": 0,
+        "char_end": 750,
+        "baseline_rank": 7,
+        "cosine_score": 0.4633716940879822,
+        "cross_score": -2.6045215129852295,
+        "reranked_rank": 5
+      },
+      {
+        "chunk_id": "C0021",
+        "page": 11,
+        "text": "11\n\n\n\n\n\n\n5.7     Further to the above, in the case of a match being abandoned after it has already\n      kicked off, the following principles shall apply:\n\n      a)    The match shall recommence at the minute at which play was interrupted\n            rather than being replayed in full, and with the same scoreline. The match\n            shall recommence where play was stopped when the match was interrupted\n            (e.g. with a free kick, throw-in, goal kick, corner kick, kick from the penalty mark,\n            etc.). If the match was abandoned while the ball was still in play, it shall restart\n            with a dropped ball from the position of the ball when play wasstopped.\n\n      b)        The match shall recommence with the same players on the pitch and substitutes\n            available as when the match was abandoned.\n\n      c)       No additional substitutes may be added to the list of players on",
+        "char_start": 0,
+        "char_end": 918,
+        "baseline_rank": 8,
+        "cosine_score": 0.4490622282028198,
+        "cross_score": -4.755826950073242,
+        "reranked_rank": 6
+      },
+      {
+        "chunk_id": "C0105",
+        "page": 47,
+        "text": "47\n\n\n\n\nARTICLE 35: LAWS OF THE GAME\n\n35.1    All matches shall be played in accordance with the Laws of the Game in force at the\n      time of the Competition and as laid down by The International Football Association\n      Board (“The IFAB”). In the case of any discrepancy in the interpretation of the\n      translations of the Laws of the Game, the English version shall be authoritative.\n\n35.2  During the match, each team:\n\n      a)       may use a maximum of five substitutes;\n\n      b)       has a maximum of three substitution opportunities. Where both teams make a\n            substitution at the same time, this will count as a used substitution opportunity\n            for each team; and:\n\n      c)     may make substitutions at half-time, which will not count as a substitution\n            opportunity.\n\n35.3  In accordance with Law 3 of the Laws of the Game, teams may make one additional\n      permanent concussion substitution per match.",
+        "char_start": 0,
+        "char_end": 952,
+        "baseline_rank": 6,
+        "cosine_score": 0.46799200773239136,
+        "cross_score": -4.769320964813232,
+        "reranked_rank": 7
+      },
+      {
+        "chunk_id": "C0101",
+        "page": 44,
+        "text": "by players and officials is prohibited. The similar display\n              of commercial messages and slogans of any nature in any language or form by\n              players and officials is not allowed for the duration of their time at any official\n              activity organised by FIFA (including official matches and training sessions,\n              aswell as during official press conferences and mixed-zone activities).\n\n       ARTICLE 34: OFFICIAL TRAINING SESSIONS,\n                               STADIUM FAMILIARISATION VISITS\n                               ANDPRE-MATCH WARM-UPS\n\n       34.1   In order to preserve the quality of the pitch for the matches, no official training\n              sessions will be allowed at the stadiums before any match. In principle,\n              allparticipating clubs’ official training sessions will be conducted at the Team\n              Base Camp training sites or at the venue-specific training sites.\n\n       34.2  Teams that are due to play a match in a stadium in which they have not previously\n              played will be entitled to a familiarisation session in that stadium on the",
+        "char_start": 823,
+        "char_end": 1958,
+        "baseline_rank": 2,
+        "cosine_score": 0.49096250534057617,
+        "cross_score": -5.143592834472656,
+        "reranked_rank": 8
+      },
+      {
+        "chunk_id": "C0099",
+        "page": 43,
+        "text": "coaching/tactics or player welfare in accordance\n      with the Laws of the Game and the FIFA Media and MarketingRegulations.\n\n32.8 Additional special equipment items (e.g. antennae) for the use of wearable\n      technology at Competition matches may only be positioned in a dedicated area\n      of a stadium defined by FIFA, but not in the technical area of such stadium.\n                                                                                                                 VIII.",
+        "char_start": 2198,
+        "char_end": 2689,
+        "baseline_rank": 5,
+        "cosine_score": 0.47123396396636963,
+        "cross_score": -9.418558120727539,
+        "reranked_rank": 9
+      },
+      {
+        "chunk_id": "C0057",
+        "page": 28,
+        "text": "28\n\n\n\n\n       ARTICLE 18: STADIUMS\n\n       18.1    Matches shall be played on natural grass only.\n\n       18.2   Unless otherwise approved by FIFA, the pitch shall have the following dimensions:\n              length 105m, width 68m.\n\n       18.3   The pitch watering schedule and the height of the grass will be communicated\n              by the FIFA Match Director at the Match Coordination Meeting.\n\n       18.4  The field of play, accessory equipment and all facilities for each match shall\n              be in optimum condition and comply with the Laws of the Game and all other\n              relevant regulations. All goals shall be equipped with white goalposts and white\n              goal nets with dark support posts and padding. Each stadium shall have spare\n              goals, netsand corner flags located in close proximity to the field of play for\n              contingency purposes.\n\n       18.5  All Competition stadiums shall be tobacco-free and free of vapours from\n              e-cigarettes in accordance with the FIFA Event",
+        "char_start": 0,
+        "char_end": 1045,
+        "baseline_rank": 9,
+        "cosine_score": 0.43839991092681885,
+        "cross_score": -10.264357566833496,
+        "reranked_rank": 10
+      }
+    ],
+    "baseline_ms": 5.742870000005951,
+    "rerank_ms": 20.192003999966346
+  },
+  "Q41": {
+    "query": "Our equipment was approved before departure. Must our bags and medical equipment be checked again when the team arrives?",
+    "target_chunk": "C0083",
+    "baseline": [
+      {
+        "chunk_id": "C0081",
+        "page": 37,
+        "text": "once reviewed and approved by FIFA as\n      stated in article 27 paragraph 3 below, may be worn duringmatches.\n\n27.3  The participating clubs shall send to FIFA for approval a sample of all items\n      of the full first-choice and alternative team kits (shirt, shorts, socks, all three\n      goalkeeper’s kits, gloves, caps, wristbands and headbands, etc.) intended for use\n      during the Competition. In addition, FIFA may organise a kit-day session prior to\n      the Competition; should it do so, the date shall be confirmed by circular letter.\n      Representatives of all participating clubs shall attend. All equipment (kits, gloves,\n      bags, medical equipment, etc.) that could be on display within the stadiums,\n      thetraining sites and the hotels or during transfers to, from or within the host\n      country shall be approved by FIFA. FIFA shall issue a written team equipment\n      inspection report",
+        "char_start": 1770,
+        "char_end": 2688,
+        "baseline_rank": 1,
+        "cosine_score": 0.4952164888381958
+      },
+      {
+        "chunk_id": "C0082",
+        "page": 37,
+        "text": "sites and the hotels or during transfers to, from or within the host\n      country shall be approved by FIFA. FIFA shall issue a written team equipment\n      inspection report approving or rejecting the items. Should any article of the team\n      kit or any part thereof not be in accordance with the FIFA Equipment Regulations\n      and/or the FIFA Media and Marketing Regulations, the participating club(s)\n      concerned will be obliged to change it accordingly and resubmit the corrected\n      item within the timeline set in the written team equipment inspection report.\n      Anysuch decisions are not subject to appeal.\n                                                                                                                  VII.",
+        "char_start": 2513,
+        "char_end": 3259,
+        "baseline_rank": 2,
+        "cosine_score": 0.47624045610427856
+      },
+      {
+        "chunk_id": "C0004",
+        "page": 4,
+        "text": "4\n\n       VII.                                                      XI.\n       KIT AND TEAM EQUIPMENT      36                            MEDICAL 52\n       Article 27: Kit and colours                               Article 38: Team medical doctor         53\n       approval                         37                       Article 39: Sudden cardiac arrest\n       Article 28: Numbers and names          38                 and concussion                                        53\n       Article 29: Match colours                                 Article 40: Doping control                    54\n       designation                                                 39\n       Article 30: Other equipment                40\n                                                                 XII.\n       VIII.                                                     COMMERCIAL RIGHTS                     55\n                                                                 Article 41: Media and Marketing\n       MATCH ORGANISATION            41                          Regulations                      56\n       Article 31: Start list                                    42\n       Article 32: Technical and\n       warm-up areas                                          43\n       Article 33: Match protocol                   44           XIII.\n       Article 34: Official training\n       sessions, stadium familiarisation                         AWARDS 57\n       visits and pre-match warm-ups          44                 Article 42: Trophy, awards and\n                                                                 medals                          58\n       IX.                                                       XIV.\n       REFEREEING 46\n       Article 35: Laws of the Game                 47           CLOSING PROVISIONS               59\n       Article 36: Referees                                  48  Article 43: Special circumstances     60\n                                                                 Article 44: Matters not\n                                                                 provided for                                                60\n                                                                 Article 45: Languages                             60\n       X.                                                        Article 46",
+        "char_start": 0,
+        "char_end": 2341,
+        "baseline_rank": 3,
+        "cosine_score": 0.37778323888778687
+      },
+      {
+        "chunk_id": "C0116",
+        "page": 53,
+        "text": "53\n\n\n\n\nARTICLE 38: TEAM MEDICAL DOCTOR\n\nEach participating club shall include at least one team medical doctor (two are\nrecommended) in its delegation, to be present in the technical area during all matches.\nIt is a mandatory requirement that the team medical doctor(s) of each participating\nclub complete and successfully pass the “Concussion” and “Sudden Cardiac Arrest”\nmodules of the FIFA Diploma in Football Medicine (www.fifamedicalnetwork.com)\nbefore the Competition.\n\nARTICLE 39: SUDDEN CARDIAC ARREST AND\n                       CONCUSSION\n\n39.1   Each participating club shall ensure and confirm to FIFA that its players have\n      undergone a pre-competition medical assessment (PCMA), including history,\n      clinical examination and ECG, in the 12 months prior to the start of the Competition,\n      and echocardiography within the 24 months prior to the start of the Competition.\n      If specifically performed for the Competition, FIFA    recommends that participating\n      clubs use the PC",
+        "char_start": 0,
+        "char_end": 1007,
+        "baseline_rank": 4,
+        "cosine_score": 0.37647461891174316
+      },
+      {
+        "chunk_id": "C0094",
+        "page": 42,
+        "text": "list are not able to begin the match\n              due to injury or illness, they may be replaced by any of the eligible substitutes as\n              long as the FIFA Match Director and the referee are officially informed thereof prior\n              to kick-off. Within 24 hours, the team concerned shall also provideFIFA with a\n              medical report issued by the medical doctor (in one of the official FIFA languages).\n\n        31.5   Further to the above, any injured or ill player who is removed from the start list\n              will no longer be eligible to take part in the match, and thus cannot be selected\n              as a substitute player at any time during the match. Such a change to the start list\n              will not reduce the number of official substitutions that may be made by a team\n              during the match. Although no longer eligible to play as a substitute, the    injured\n              or ill player who was removed from the start list before kick-off may be seated\n              on",
+        "char_start": 1759,
+        "char_end": 2785,
+        "baseline_rank": 5,
+        "cosine_score": 0.3593563437461853
+      },
+      {
+        "chunk_id": "C0078",
+        "page": 36,
+        "text": "VII.\n\n\n\n\n\n                       Kit and team\n                           equipment\n\n\n\n\n\n\n\n\n\n\n\n\nVII. KIT    AND              TEAM          EQUIPMENT",
+        "char_start": 0,
+        "char_end": 147,
+        "baseline_rank": 6,
+        "cosine_score": 0.33789488673210144
+      },
+      {
+        "chunk_id": "C0093",
+        "page": 42,
+        "text": "the captain, selecting\n              the officials to be seated on the team bench (maximum of 11) and submitted by\n              the authorised team official and/or signed if applicable. Both teams must submit\n              their completed start list at least 90 minutes before kick-off. If the start list is\n              not submitted on time for any reason, the matter will be reported to the FIFA\n              Disciplinary Committee. Both teams’ start lists will only be published once both\n              teams have submitted them, fully completed.\n\n        31.3   The numbers on the players’ shirts must correspond to the numbers indicated on\n              the start list. Each team is responsible for ensuring that the start list is completed\n              properly and that only the 11 selected players start the match.\n\n        31.4   If any of the 11 players submitted on the start list are not able to begin the match\n              due to injury or illness, they may be replaced by any of the eligible substitutes as\n              long as the FIFA Match",
+        "char_start": 867,
+        "char_end": 1931,
+        "baseline_rank": 7,
+        "cosine_score": 0.33712270855903625
+      },
+      {
+        "chunk_id": "C0073",
+        "page": 34,
+        "text": "34\n\n\n\n\n\n\n              Injured or ill goalkeepers who are replaced must return their accreditation to FIFA.\n              Accordingly, goalkeepers who have returned their accreditation shall no longer\n              be considered members of the participating club’s final list.\n\n        24.5  The final list of a maximum of 35 players will be published by FIFA after the\n              submission deadline.\n\n        24.6     Along with the above final list of players, a final list of up to 29 officials shall be\n              submitted online by the deadline stipulated in the relevant circular letter. Onlythe\n              29 officials confirmed on the final list will be eligible to sit on the team bench\n              during matches (cf. article 32 of these Regulations).\n\n        24.7  Before the start of the Competition, every player and official on the final list must\n              prove their identity by producing their legally valid individual passport with a\n              photograph. Any player or official who fails to submit this document will not be\n              allowed to take part in the Competition.",
+        "char_start": 0,
+        "char_end": 1120,
+        "baseline_rank": 8,
+        "cosine_score": 0.30988818407058716
+      },
+      {
+        "chunk_id": "C0119",
+        "page": 53,
+        "text": "their symptoms and\n      medical history, and that doctors must use their clinical judgement in making\n      decisions with respect to return to play. The player’s welfare shall be their sole\n      concern. FIFA requires that before any player who suffers a concussive episode                           XI.\n      can return to play, the team doctor certify that a) such player has passed each",
+        "char_start": 2493,
+        "char_end": 2885,
+        "baseline_rank": 9,
+        "cosine_score": 0.30784571170806885
+      },
+      {
+        "chunk_id": "C0096",
+        "page": 43,
+        "text": "43\n\n\n\n\nARTICLE 32: TECHNICAL AND WARM-UP AREAS\n\n32.1    The technical area is the area which the coach, other team officials and substitutes\n      are allowed to occupy during the match. It includes the dugout (ifapplicable),\n      theteam bench and a marked zone adjacent to the pitch.\n\n32.2  No more than 26 people (15 substitute players and 11 officials – one of these\n      teamofficials shall be the team medical doctor) shall be allowed to sit on the\n      team bench. A suspended player or team official will not be allowed to sit on\n      the team     bench. Only the officials indicated on the start list may sit on the team\n      bench or be in the technical area during the match.\n\n32.3  No more than 20 additional technical overflow seats in the stand shall be allocated\n      for accredited officials providing technical support to the team during the match\n      (kit manager, assistant physiot",
+        "char_start": 0,
+        "char_end": 908,
+        "baseline_rank": 10,
+        "cosine_score": 0.3060949444770813
+      }
+    ],
+    "reranked": [
+      {
+        "chunk_id": "C0081",
+        "page": 37,
+        "text": "once reviewed and approved by FIFA as\n      stated in article 27 paragraph 3 below, may be worn duringmatches.\n\n27.3  The participating clubs shall send to FIFA for approval a sample of all items\n      of the full first-choice and alternative team kits (shirt, shorts, socks, all three\n      goalkeeper’s kits, gloves, caps, wristbands and headbands, etc.) intended for use\n      during the Competition. In addition, FIFA may organise a kit-day session prior to\n      the Competition; should it do so, the date shall be confirmed by circular letter.\n      Representatives of all participating clubs shall attend. All equipment (kits, gloves,\n      bags, medical equipment, etc.) that could be on display within the stadiums,\n      thetraining sites and the hotels or during transfers to, from or within the host\n      country shall be approved by FIFA. FIFA shall issue a written team equipment\n      inspection report",
+        "char_start": 1770,
+        "char_end": 2688,
+        "baseline_rank": 1,
+        "cosine_score": 0.4952164888381958,
+        "cross_score": 1.0295380353927612,
+        "reranked_rank": 1
+      },
+      {
+        "chunk_id": "C0082",
+        "page": 37,
+        "text": "sites and the hotels or during transfers to, from or within the host\n      country shall be approved by FIFA. FIFA shall issue a written team equipment\n      inspection report approving or rejecting the items. Should any article of the team\n      kit or any part thereof not be in accordance with the FIFA Equipment Regulations\n      and/or the FIFA Media and Marketing Regulations, the participating club(s)\n      concerned will be obliged to change it accordingly and resubmit the corrected\n      item within the timeline set in the written team equipment inspection report.\n      Anysuch decisions are not subject to appeal.\n                                                                                                                  VII.",
+        "char_start": 2513,
+        "char_end": 3259,
+        "baseline_rank": 2,
+        "cosine_score": 0.47624045610427856,
+        "cross_score": -2.040924310684204,
+        "reranked_rank": 2
+      },
+      {
+        "chunk_id": "C0078",
+        "page": 36,
+        "text": "VII.\n\n\n\n\n\n                       Kit and team\n                           equipment\n\n\n\n\n\n\n\n\n\n\n\n\nVII. KIT    AND              TEAM          EQUIPMENT",
+        "char_start": 0,
+        "char_end": 147,
+        "baseline_rank": 6,
+        "cosine_score": 0.33789488673210144,
+        "cross_score": -5.009680271148682,
+        "reranked_rank": 3
+      },
+      {
+        "chunk_id": "C0004",
+        "page": 4,
+        "text": "4\n\n       VII.                                                      XI.\n       KIT AND TEAM EQUIPMENT      36                            MEDICAL 52\n       Article 27: Kit and colours                               Article 38: Team medical doctor         53\n       approval                         37                       Article 39: Sudden cardiac arrest\n       Article 28: Numbers and names          38                 and concussion                                        53\n       Article 29: Match colours                                 Article 40: Doping control                    54\n       designation                                                 39\n       Article 30: Other equipment                40\n                                                                 XII.\n       VIII.                                                     COMMERCIAL RIGHTS                     55\n                                                                 Article 41: Media and Marketing\n       MATCH ORGANISATION            41                          Regulations                      56\n       Article 31: Start list                                    42\n       Article 32: Technical and\n       warm-up areas                                          43\n       Article 33: Match protocol                   44           XIII.\n       Article 34: Official training\n       sessions, stadium familiarisation                         AWARDS 57\n       visits and pre-match warm-ups          44                 Article 42: Trophy, awards and\n                                                                 medals                          58\n       IX.                                                       XIV.\n       REFEREEING 46\n       Article 35: Laws of the Game                 47           CLOSING PROVISIONS               59\n       Article 36: Referees                                  48  Article 43: Special circumstances     60\n                                                                 Article 44: Matters not\n                                                                 provided for                                                60\n                                                                 Article 45: Languages                             60\n       X.                                                        Article 46",
+        "char_start": 0,
+        "char_end": 2341,
+        "baseline_rank": 3,
+        "cosine_score": 0.37778323888778687,
+        "cross_score": -6.092689514160156,
+        "reranked_rank": 4
+      },
+      {
+        "chunk_id": "C0116",
+        "page": 53,
+        "text": "53\n\n\n\n\nARTICLE 38: TEAM MEDICAL DOCTOR\n\nEach participating club shall include at least one team medical doctor (two are\nrecommended) in its delegation, to be present in the technical area during all matches.\nIt is a mandatory requirement that the team medical doctor(s) of each participating\nclub complete and successfully pass the “Concussion” and “Sudden Cardiac Arrest”\nmodules of the FIFA Diploma in Football Medicine (www.fifamedicalnetwork.com)\nbefore the Competition.\n\nARTICLE 39: SUDDEN CARDIAC ARREST AND\n                       CONCUSSION\n\n39.1   Each participating club shall ensure and confirm to FIFA that its players have\n      undergone a pre-competition medical assessment (PCMA), including history,\n      clinical examination and ECG, in the 12 months prior to the start of the Competition,\n      and echocardiography within the 24 months prior to the start of the Competition.\n      If specifically performed for the Competition, FIFA    recommends that participating\n      clubs use the PC",
+        "char_start": 0,
+        "char_end": 1007,
+        "baseline_rank": 4,
+        "cosine_score": 0.37647461891174316,
+        "cross_score": -7.491921901702881,
+        "reranked_rank": 5
+      },
+      {
+        "chunk_id": "C0094",
+        "page": 42,
+        "text": "list are not able to begin the match\n              due to injury or illness, they may be replaced by any of the eligible substitutes as\n              long as the FIFA Match Director and the referee are officially informed thereof prior\n              to kick-off. Within 24 hours, the team concerned shall also provideFIFA with a\n              medical report issued by the medical doctor (in one of the official FIFA languages).\n\n        31.5   Further to the above, any injured or ill player who is removed from the start list\n              will no longer be eligible to take part in the match, and thus cannot be selected\n              as a substitute player at any time during the match. Such a change to the start list\n              will not reduce the number of official substitutions that may be made by a team\n              during the match. Although no longer eligible to play as a substitute, the    injured\n              or ill player who was removed from the start list before kick-off may be seated\n              on",
+        "char_start": 1759,
+        "char_end": 2785,
+        "baseline_rank": 5,
+        "cosine_score": 0.3593563437461853,
+        "cross_score": -8.213892936706543,
+        "reranked_rank": 6
+      },
+      {
+        "chunk_id": "C0093",
+        "page": 42,
+        "text": "the captain, selecting\n              the officials to be seated on the team bench (maximum of 11) and submitted by\n              the authorised team official and/or signed if applicable. Both teams must submit\n              their completed start list at least 90 minutes before kick-off. If the start list is\n              not submitted on time for any reason, the matter will be reported to the FIFA\n              Disciplinary Committee. Both teams’ start lists will only be published once both\n              teams have submitted them, fully completed.\n\n        31.3   The numbers on the players’ shirts must correspond to the numbers indicated on\n              the start list. Each team is responsible for ensuring that the start list is completed\n              properly and that only the 11 selected players start the match.\n\n        31.4   If any of the 11 players submitted on the start list are not able to begin the match\n              due to injury or illness, they may be replaced by any of the eligible substitutes as\n              long as the FIFA Match",
+        "char_start": 867,
+        "char_end": 1931,
+        "baseline_rank": 7,
+        "cosine_score": 0.33712270855903625,
+        "cross_score": -8.752657890319824,
+        "reranked_rank": 7
+      },
+      {
+        "chunk_id": "C0119",
+        "page": 53,
+        "text": "their symptoms and\n      medical history, and that doctors must use their clinical judgement in making\n      decisions with respect to return to play. The player’s welfare shall be their sole\n      concern. FIFA requires that before any player who suffers a concussive episode                           XI.\n      can return to play, the team doctor certify that a) such player has passed each",
+        "char_start": 2493,
+        "char_end": 2885,
+        "baseline_rank": 9,
+        "cosine_score": 0.30784571170806885,
+        "cross_score": -8.957475662231445,
+        "reranked_rank": 8
+      },
+      {
+        "chunk_id": "C0073",
+        "page": 34,
+        "text": "34\n\n\n\n\n\n\n              Injured or ill goalkeepers who are replaced must return their accreditation to FIFA.\n              Accordingly, goalkeepers who have returned their accreditation shall no longer\n              be considered members of the participating club’s final list.\n\n        24.5  The final list of a maximum of 35 players will be published by FIFA after the\n              submission deadline.\n\n        24.6     Along with the above final list of players, a final list of up to 29 officials shall be\n              submitted online by the deadline stipulated in the relevant circular letter. Onlythe\n              29 officials confirmed on the final list will be eligible to sit on the team bench\n              during matches (cf. article 32 of these Regulations).\n\n        24.7  Before the start of the Competition, every player and official on the final list must\n              prove their identity by producing their legally valid individual passport with a\n              photograph. Any player or official who fails to submit this document will not be\n              allowed to take part in the Competition.",
+        "char_start": 0,
+        "char_end": 1120,
+        "baseline_rank": 8,
+        "cosine_score": 0.30988818407058716,
+        "cross_score": -9.064043045043945,
+        "reranked_rank": 9
+      },
+      {
+        "chunk_id": "C0096",
+        "page": 43,
+        "text": "43\n\n\n\n\nARTICLE 32: TECHNICAL AND WARM-UP AREAS\n\n32.1    The technical area is the area which the coach, other team officials and substitutes\n      are allowed to occupy during the match. It includes the dugout (ifapplicable),\n      theteam bench and a marked zone adjacent to the pitch.\n\n32.2  No more than 26 people (15 substitute players and 11 officials – one of these\n      teamofficials shall be the team medical doctor) shall be allowed to sit on the\n      team bench. A suspended player or team official will not be allowed to sit on\n      the team     bench. Only the officials indicated on the start list may sit on the team\n      bench or be in the technical area during the match.\n\n32.3  No more than 20 additional technical overflow seats in the stand shall be allocated\n      for accredited officials providing technical support to the team during the match\n      (kit manager, assistant physiot",
+        "char_start": 0,
+        "char_end": 908,
+        "baseline_rank": 10,
+        "cosine_score": 0.3060949444770813,
+        "cross_score": -9.905203819274902,
+        "reranked_rank": 10
+      }
+    ],
+    "baseline_ms": 8.570359999964694,
+    "rerank_ms": 17.73171799999318
+  },
+  "Q42": {
+    "query": "Can a player appear on two clubs' final lists if he plays matches for only one of those clubs?",
+    "target_chunk": "C0074",
+    "baseline": [
+      {
+        "chunk_id": "C0068",
+        "page": 32,
+        "text": "up until the submission of the final\n              list. Any change requests must be submitted in writing.\n\n       23.6  Should two clubs wish to include the same player on their respective provisional\n              list, the FIFA general secretariat shall decide for which club the player may be\n              listed, after hearing all concerned parties.",
+        "char_start": 1831,
+        "char_end": 2186,
+        "baseline_rank": 1,
+        "cosine_score": 0.637969970703125
+      },
+      {
+        "chunk_id": "C0070",
+        "page": 33,
+        "text": "in the\n      Competition. In accordance with article 31 of these regulations, a maximum of\n      26 players (11 starting players and a maximum of 15 substitutes) may be selected\n      to participate in each match.\n\n24.3  Without prejudice to paragraphs 4 and 8 below, from 27 June 2025 to 3 July 2025,\n      clubs may make the following changes to their final list:\n\n      a)    Clubs may replace players whose contracts have naturally expired during\n            theCompetition.\n\n      b)     Clubs may add up to two new players to their final list, who shall not count\n            towards the maximum of 35 players.\n\n      c)       The total number of players changed on, or added to, the final list under a)and\n            b) above together may not exceed six.\n\n      d)     Any player changed on, or added to, the final list shall be duly registered for\n            their club in accordance with the RSTP as well as with the regulations of",
+        "char_start": 805,
+        "char_end": 1747,
+        "baseline_rank": 2,
+        "cosine_score": 0.5846487283706665
+      },
+      {
+        "chunk_id": "C0069",
+        "page": 33,
+        "text": "33\n\n\n\n\nARTICLE 24: FINAL LIST\n\n24.1   Each participating club shall submit online a final list of a minimum of 26 players\n      and a maximum of 35 players (a minimum of three of whom shall be goalkeepers)\n      selected to participate in the Competition. A copy of the final list, signed by the\n      club, shall be submitted to FIFA by the deadline stipulated in the relevant circular\n      letter. All information requested online about the players shall be duly completed.\n      The final list shall contain the players’ shirt names and numbers in accordance\n      with article 28 paragraphs 1 and 2 of these Regulations.\n\n24.2  The players on the final list shall only be selected from the players on the provisional\n      list. Only up to 35 players on the final list will be permitted to take part in the\n      Competition. In accordance with article 31 of these regulations, a maximum of\n      26 players (11 starting players and a maximum of 15 substitutes) may",
+        "char_start": 0,
+        "char_end": 970,
+        "baseline_rank": 3,
+        "cosine_score": 0.5566619634628296
+      },
+      {
+        "chunk_id": "C0037",
+        "page": 17,
+        "text": "17\n\n\n\n\n\n\n10.3   If two or more clubs fail to meet the criteria defined in paragraph 1 above, only one\n      of them may be admitted to the Competition. The FIFA Disciplinary Committee\n      shall have jurisdiction to decide whether the criteria defined in paragraph1 above\n      are met.\n\n10.4  If the FIFA Disciplinary Committee decides that two or more clubs fail to meet\n      the criteria defined in paragraph 1 above, the FIFA general secretariat shall decide\n      which club may be admitted to the Competition and how a club that is not admitted\n      shall be replaced in accordance with the following principles, taking into account,\n      in particular, the respective ranking(s) of the club(s) concerned and the applicable\n      quota per confederation and/or member association to which the club(s) concerned\n      is/are affiliated.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                                                                        II.",
+        "char_start": 0,
+        "char_end": 992,
+        "baseline_rank": 4,
+        "cosine_score": 0.5336830615997314
+      },
+      {
+        "chunk_id": "C0067",
+        "page": 32,
+        "text": "’s full last name(s),\n              all first names, popular name, name on the shirt, date of birth, passport number\n              and expiry date, height and weight. Further details on the submission process\n              for the provisional list, and the deadline by which the list shall be submitted to\n              FIFA, will be stipulated in the relevant circular letter.\n\n       23.3  Each participating club shall include up to 75 team officials on the provisional\n              list so that the relevant authorities can proceed with the background checks for\n              visa and accreditation purposes. Each participating club shall adhere to the visa\n              and accreditation requirements and process.\n\n       23.4  The provisional list will only be used for internal purposes and will not be published\n              by FIFA.\n\n       23.5  Changes may be made to the provisional list up until the submission of the final\n              list. Any change requests must be submitted in writing.\n\n       23.6  Should two clubs wish to include the same player",
+        "char_start": 927,
+        "char_end": 2000,
+        "baseline_rank": 5,
+        "cosine_score": 0.525288462638855
+      },
+      {
+        "chunk_id": "C0042",
+        "page": 20,
+        "text": "20\n\n\n\n\n\n\n          11.5     In the event of a club winning two or more editions of the confederation’s premier\n                   club competition during the 2021-2024 period, the FIFA club ranking calculated\n                   according to sporting criteria will be used to grant access. A cap of two clubs\n                   per country will be applied to the access list, with an exception in cases where\n                   more than two clubs from the same country win the confederation’s premier club\n                   competition over the four-year period.\n\n          11.6    In the event of a confederation holding fewer than four editions of a premier\n                   club competition during the 2021-2024 period, the FIFA club ranking calculated\n                   according to sporting criteria will be used to grant access to the confederation’s\n                   remaining slot(s).\n\n          11.7    Clubs that are not admitted shall be replaced in accordance with article 5 of\n                   these Regulations.\n\n          ARTICLE 12: GROUP AND KNOCKOUT STAGES\n\n          12.1    The Competition will be played in",
+        "char_start": 0,
+        "char_end": 1135,
+        "baseline_rank": 6,
+        "cosine_score": 0.5025490522384644
+      },
+      {
+        "chunk_id": "C0063",
+        "page": 31,
+        "text": "31\n\n\n\n\nARTICLE 22: ELIGIBILITY, REGISTRATION AND PLAYER\n                       RELEASE\n\n22.1    Players are eligible to play in the Competition provided they are duly registered for\n      their club in accordance with the FIFA Regulations on the Status and Transfer of\n      Players (RSTP) as well as with the regulations of the participating club’s member\n      association. Therefore, the requirements that must be met for players to be\n      eligible to participate in the Competition include, but are not limited to:\n\n      a)        being duly and validly registered for their club;\n\n      b)    not being subject to any disciplinary sanction affecting their eligibility to\n            participate in official matches in the Competition;\n\n      c)        having been included in the final list, as defined in these Regulations; and\n\n      d)       meeting any additional eligibility requirement to participate in official matches\n            at the Competition that may be established in these Regulations or any other\n            applicable FIFA regulations or circular letters.\n\n22.2  The participating clubs are responsible for fielding",
+        "char_start": 0,
+        "char_end": 1144,
+        "baseline_rank": 7,
+        "cosine_score": 0.49562397599220276
+      },
+      {
+        "chunk_id": "C0066",
+        "page": 32,
+        "text": "32\n\n\n\n\n       ARTICLE 23: PROVISIONAL LIST\n\n       23.1   Each participating club shall submit online a provisional list of a minimum of\n              26 players and a maximum of 50 players (a minimum of four of whom shall be\n              goalkeepers), all of whom shall be duly registered for their club, accompanied\n              by an accreditation photo and a copy of the passport of each player appearing\n              on the list.  A copy of the provisional list, signed by the club and by the member\n              association to which the club is affiliated, shall also be submitted to FIFA by the\n              deadline stipulated in the relevant circular letter. When signing the provisional\n              list, the member association shall confirm that all players on the provisional list\n              are duly registered for the club.\n\n       23.2  The provisional list shall contain information such as the player’s full last name(s),\n              all first names, popular name, name on the shirt, date of birth, passport number\n              and expi",
+        "char_start": 0,
+        "char_end": 1066,
+        "baseline_rank": 8,
+        "cosine_score": 0.4879331588745117
+      },
+      {
+        "chunk_id": "C0003",
+        "page": 3,
+        "text": "15\nArticle 10: Multi-club ownership         16\n                                                             VI.\nIII.                                                         PLAYERS’ AND OFFICIALS’\n                                                             LISTS 30\nCOMPETITION FORMAT             18                            Article 22: Eligibility, registration\nArticle 11: Participating clubs                 19           and player release                                       31\nArticle 12: Group and knockout                               Article 23: Provisional list                       32\nstages                                        20             Article 24: Final list                                   33\nArticle 13: Equal points and                                 Article 25: Accreditation                         34\nqualification for knockout stage        23                   Article 26: Team Safeguarding/\nArticle 14: Extra time and                                   Welfare Officer                                           35\npenalties (penalty shootout)                24",
+        "char_start": 1664,
+        "char_end": 2761,
+        "baseline_rank": 9,
+        "cosine_score": 0.4818456172943115
+      },
+      {
+        "chunk_id": "C0034",
+        "page": 16,
+        "text": "16\n\n\n\n\n        ARTICLE 10: MULTI-CLUB OWNERSHIP\n\n        10.1    To ensure the integrity of the Competition, participating clubs shall meet the\n              below criteria when submitting the Participation Agreement and shall continue\n              to comply with the criteria until the end of the Competition:\n\n              a)       No club participating in the Competition may, either directly or indirectly:\n\n                    i)         hold or deal in the securities or shares of any other club participating in\n                          the Competition;\n\n                    ii)         be a member of any other club participating in the Competition;\n\n                    iii)      be involved in any capacity whatsoever in the management, administration\n                          and/or sporting performance of any other club participating in the\n                          Competition; or\n\n                    iv)     have any power whatsoever in the management, administration and/or\n                          sporting performance of any other club participating in the Competition.\n\n              b)    No one may simultaneously be involved, either directly or indirectly, in any\n                    capacity whatsoever in the management, administration and/or sporting\n                    performance of more than one",
+        "char_start": 0,
+        "char_end": 1331,
+        "baseline_rank": 10,
+        "cosine_score": 0.4671720862388611
+      }
+    ],
+    "reranked": [
+      {
+        "chunk_id": "C0068",
+        "page": 32,
+        "text": "up until the submission of the final\n              list. Any change requests must be submitted in writing.\n\n       23.6  Should two clubs wish to include the same player on their respective provisional\n              list, the FIFA general secretariat shall decide for which club the player may be\n              listed, after hearing all concerned parties.",
+        "char_start": 1831,
+        "char_end": 2186,
+        "baseline_rank": 1,
+        "cosine_score": 0.637969970703125,
+        "cross_score": 4.37797737121582,
+        "reranked_rank": 1
+      },
+      {
+        "chunk_id": "C0070",
+        "page": 33,
+        "text": "in the\n      Competition. In accordance with article 31 of these regulations, a maximum of\n      26 players (11 starting players and a maximum of 15 substitutes) may be selected\n      to participate in each match.\n\n24.3  Without prejudice to paragraphs 4 and 8 below, from 27 June 2025 to 3 July 2025,\n      clubs may make the following changes to their final list:\n\n      a)    Clubs may replace players whose contracts have naturally expired during\n            theCompetition.\n\n      b)     Clubs may add up to two new players to their final list, who shall not count\n            towards the maximum of 35 players.\n\n      c)       The total number of players changed on, or added to, the final list under a)and\n            b) above together may not exceed six.\n\n      d)     Any player changed on, or added to, the final list shall be duly registered for\n            their club in accordance with the RSTP as well as with the regulations of",
+        "char_start": 805,
+        "char_end": 1747,
+        "baseline_rank": 2,
+        "cosine_score": 0.5846487283706665,
+        "cross_score": 2.6918435096740723,
+        "reranked_rank": 2
+      },
+      {
+        "chunk_id": "C0069",
+        "page": 33,
+        "text": "33\n\n\n\n\nARTICLE 24: FINAL LIST\n\n24.1   Each participating club shall submit online a final list of a minimum of 26 players\n      and a maximum of 35 players (a minimum of three of whom shall be goalkeepers)\n      selected to participate in the Competition. A copy of the final list, signed by the\n      club, shall be submitted to FIFA by the deadline stipulated in the relevant circular\n      letter. All information requested online about the players shall be duly completed.\n      The final list shall contain the players’ shirt names and numbers in accordance\n      with article 28 paragraphs 1 and 2 of these Regulations.\n\n24.2  The players on the final list shall only be selected from the players on the provisional\n      list. Only up to 35 players on the final list will be permitted to take part in the\n      Competition. In accordance with article 31 of these regulations, a maximum of\n      26 players (11 starting players and a maximum of 15 substitutes) may",
+        "char_start": 0,
+        "char_end": 970,
+        "baseline_rank": 3,
+        "cosine_score": 0.5566619634628296,
+        "cross_score": -0.5597748160362244,
+        "reranked_rank": 3
+      },
+      {
+        "chunk_id": "C0063",
+        "page": 31,
+        "text": "31\n\n\n\n\nARTICLE 22: ELIGIBILITY, REGISTRATION AND PLAYER\n                       RELEASE\n\n22.1    Players are eligible to play in the Competition provided they are duly registered for\n      their club in accordance with the FIFA Regulations on the Status and Transfer of\n      Players (RSTP) as well as with the regulations of the participating club’s member\n      association. Therefore, the requirements that must be met for players to be\n      eligible to participate in the Competition include, but are not limited to:\n\n      a)        being duly and validly registered for their club;\n\n      b)    not being subject to any disciplinary sanction affecting their eligibility to\n            participate in official matches in the Competition;\n\n      c)        having been included in the final list, as defined in these Regulations; and\n\n      d)       meeting any additional eligibility requirement to participate in official matches\n            at the Competition that may be established in these Regulations or any other\n            applicable FIFA regulations or circular letters.\n\n22.2  The participating clubs are responsible for fielding",
+        "char_start": 0,
+        "char_end": 1144,
+        "baseline_rank": 7,
+        "cosine_score": 0.49562397599220276,
+        "cross_score": -1.1774673461914062,
+        "reranked_rank": 4
+      },
+      {
+        "chunk_id": "C0066",
+        "page": 32,
+        "text": "32\n\n\n\n\n       ARTICLE 23: PROVISIONAL LIST\n\n       23.1   Each participating club shall submit online a provisional list of a minimum of\n              26 players and a maximum of 50 players (a minimum of four of whom shall be\n              goalkeepers), all of whom shall be duly registered for their club, accompanied\n              by an accreditation photo and a copy of the passport of each player appearing\n              on the list.  A copy of the provisional list, signed by the club and by the member\n              association to which the club is affiliated, shall also be submitted to FIFA by the\n              deadline stipulated in the relevant circular letter. When signing the provisional\n              list, the member association shall confirm that all players on the provisional list\n              are duly registered for the club.\n\n       23.2  The provisional list shall contain information such as the player’s full last name(s),\n              all first names, popular name, name on the shirt, date of birth, passport number\n              and expi",
+        "char_start": 0,
+        "char_end": 1066,
+        "baseline_rank": 8,
+        "cosine_score": 0.4879331588745117,
+        "cross_score": -2.482326030731201,
+        "reranked_rank": 5
+      },
+      {
+        "chunk_id": "C0037",
+        "page": 17,
+        "text": "17\n\n\n\n\n\n\n10.3   If two or more clubs fail to meet the criteria defined in paragraph 1 above, only one\n      of them may be admitted to the Competition. The FIFA Disciplinary Committee\n      shall have jurisdiction to decide whether the criteria defined in paragraph1 above\n      are met.\n\n10.4  If the FIFA Disciplinary Committee decides that two or more clubs fail to meet\n      the criteria defined in paragraph 1 above, the FIFA general secretariat shall decide\n      which club may be admitted to the Competition and how a club that is not admitted\n      shall be replaced in accordance with the following principles, taking into account,\n      in particular, the respective ranking(s) of the club(s) concerned and the applicable\n      quota per confederation and/or member association to which the club(s) concerned\n      is/are affiliated.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n                                                                                                                        II.",
+        "char_start": 0,
+        "char_end": 992,
+        "baseline_rank": 4,
+        "cosine_score": 0.5336830615997314,
+        "cross_score": -3.0507760047912598,
+        "reranked_rank": 6
+      },
+      {
+        "chunk_id": "C0042",
+        "page": 20,
+        "text": "20\n\n\n\n\n\n\n          11.5     In the event of a club winning two or more editions of the confederation’s premier\n                   club competition during the 2021-2024 period, the FIFA club ranking calculated\n                   according to sporting criteria will be used to grant access. A cap of two clubs\n                   per country will be applied to the access list, with an exception in cases where\n                   more than two clubs from the same country win the confederation’s premier club\n                   competition over the four-year period.\n\n          11.6    In the event of a confederation holding fewer than four editions of a premier\n                   club competition during the 2021-2024 period, the FIFA club ranking calculated\n                   according to sporting criteria will be used to grant access to the confederation’s\n                   remaining slot(s).\n\n          11.7    Clubs that are not admitted shall be replaced in accordance with article 5 of\n                   these Regulations.\n\n          ARTICLE 12: GROUP AND KNOCKOUT STAGES\n\n          12.1    The Competition will be played in",
+        "char_start": 0,
+        "char_end": 1135,
+        "baseline_rank": 6,
+        "cosine_score": 0.5025490522384644,
+        "cross_score": -3.283308744430542,
+        "reranked_rank": 7
+      },
+      {
+        "chunk_id": "C0067",
+        "page": 32,
+        "text": "’s full last name(s),\n              all first names, popular name, name on the shirt, date of birth, passport number\n              and expiry date, height and weight. Further details on the submission process\n              for the provisional list, and the deadline by which the list shall be submitted to\n              FIFA, will be stipulated in the relevant circular letter.\n\n       23.3  Each participating club shall include up to 75 team officials on the provisional\n              list so that the relevant authorities can proceed with the background checks for\n              visa and accreditation purposes. Each participating club shall adhere to the visa\n              and accreditation requirements and process.\n\n       23.4  The provisional list will only be used for internal purposes and will not be published\n              by FIFA.\n\n       23.5  Changes may be made to the provisional list up until the submission of the final\n              list. Any change requests must be submitted in writing.\n\n       23.6  Should two clubs wish to include the same player",
+        "char_start": 927,
+        "char_end": 2000,
+        "baseline_rank": 5,
+        "cosine_score": 0.525288462638855,
+        "cross_score": -3.9837069511413574,
+        "reranked_rank": 8
+      },
+      {
+        "chunk_id": "C0003",
+        "page": 3,
+        "text": "15\nArticle 10: Multi-club ownership         16\n                                                             VI.\nIII.                                                         PLAYERS’ AND OFFICIALS’\n                                                             LISTS 30\nCOMPETITION FORMAT             18                            Article 22: Eligibility, registration\nArticle 11: Participating clubs                 19           and player release                                       31\nArticle 12: Group and knockout                               Article 23: Provisional list                       32\nstages                                        20             Article 24: Final list                                   33\nArticle 13: Equal points and                                 Article 25: Accreditation                         34\nqualification for knockout stage        23                   Article 26: Team Safeguarding/\nArticle 14: Extra time and                                   Welfare Officer                                           35\npenalties (penalty shootout)                24",
+        "char_start": 1664,
+        "char_end": 2761,
+        "baseline_rank": 9,
+        "cosine_score": 0.4818456172943115,
+        "cross_score": -5.608090400695801,
+        "reranked_rank": 9
+      },
+      {
+        "chunk_id": "C0034",
+        "page": 16,
+        "text": "16\n\n\n\n\n        ARTICLE 10: MULTI-CLUB OWNERSHIP\n\n        10.1    To ensure the integrity of the Competition, participating clubs shall meet the\n              below criteria when submitting the Participation Agreement and shall continue\n              to comply with the criteria until the end of the Competition:\n\n              a)       No club participating in the Competition may, either directly or indirectly:\n\n                    i)         hold or deal in the securities or shares of any other club participating in\n                          the Competition;\n\n                    ii)         be a member of any other club participating in the Competition;\n\n                    iii)      be involved in any capacity whatsoever in the management, administration\n                          and/or sporting performance of any other club participating in the\n                          Competition; or\n\n                    iv)     have any power whatsoever in the management, administration and/or\n                          sporting performance of any other club participating in the Competition.\n\n              b)    No one may simultaneously be involved, either directly or indirectly, in any\n                    capacity whatsoever in the management, administration and/or sporting\n                    performance of more than one",
+        "char_start": 0,
+        "char_end": 1331,
+        "baseline_rank": 10,
+        "cosine_score": 0.4671720862388611,
+        "cross_score": -7.75324821472168,
+        "reranked_rank": 10
+      }
+    ],
+    "baseline_ms": 7.713142000000062,
+    "rerank_ms": 18.7307369999985
+  }
+}

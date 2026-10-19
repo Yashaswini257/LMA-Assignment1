@@ -217,8 +217,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 19.78852799948072,
-    "rerank_ms": 14.365503000590252,
+    "baseline_ms": 18.28705899998795,
+    "rerank_ms": 30.046418999972957,
     "status": "both_have_labelled_evidence"
   },
   "Q16": {
@@ -439,8 +439,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.2754429994383827,
-    "rerank_ms": 14.311062999695423,
+    "baseline_ms": 5.926228000021183,
+    "rerank_ms": 21.824707999996917,
     "status": "labelled_evidence_outside_top10"
   },
   "Q17": {
@@ -661,8 +661,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.517519999149954,
-    "rerank_ms": 18.564975000117556,
+    "baseline_ms": 10.642937999989499,
+    "rerank_ms": 18.587016999958905,
     "status": "both_have_labelled_evidence"
   },
   "Q18": {
@@ -883,8 +883,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.558861999408691,
-    "rerank_ms": 17.360064999593305,
+    "baseline_ms": 10.334501999977874,
+    "rerank_ms": 32.6465439999879,
     "status": "both_have_labelled_evidence"
   },
   "Q19": {
@@ -1105,8 +1105,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 5.044015000748914,
-    "rerank_ms": 14.624102999732713,
+    "baseline_ms": 21.456389999968906,
+    "rerank_ms": 28.662714000006417,
     "status": "both_have_labelled_evidence"
   },
   "Q20": {
@@ -1327,8 +1327,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 5.261185000563273,
-    "rerank_ms": 17.84735100045509,
+    "baseline_ms": 13.957325999967907,
+    "rerank_ms": 30.353896000008262,
     "status": "both_have_labelled_evidence"
   },
   "Q21": {
@@ -1549,8 +1549,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.7985420003678882,
-    "rerank_ms": 14.732970999830286,
+    "baseline_ms": 12.847491000002265,
+    "rerank_ms": 22.524675999989086,
     "status": "both_have_labelled_evidence"
   },
   "Q22": {
@@ -1771,8 +1771,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.377674000148545,
-    "rerank_ms": 14.965252999900258,
+    "baseline_ms": 8.531396000023506,
+    "rerank_ms": 21.16549700002679,
     "status": "both_have_labelled_evidence"
   },
   "Q23": {
@@ -1993,8 +1993,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 4.346653999164118,
-    "rerank_ms": 16.014234999602195,
+    "baseline_ms": 9.11806900001011,
+    "rerank_ms": 19.291569000017716,
     "status": "both_have_labelled_evidence"
   },
   "Q24": {
@@ -2215,8 +2215,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 8.380052999200416,
-    "rerank_ms": 14.729036000062479,
+    "baseline_ms": 7.6542649999851164,
+    "rerank_ms": 21.145998999998028,
     "status": "both_have_labelled_evidence"
   },
   "Q25": {
@@ -2437,8 +2437,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.3806110004661605,
-    "rerank_ms": 15.955374999975902,
+    "baseline_ms": 12.413966999986314,
+    "rerank_ms": 28.557569000042804,
     "status": "both_miss_labelled_evidence"
   },
   "Q26": {
@@ -2659,8 +2659,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.7169010010984493,
-    "rerank_ms": 14.77325199994084,
+    "baseline_ms": 10.120276999998623,
+    "rerank_ms": 21.18914999999788,
     "status": "both_have_labelled_evidence"
   },
   "Q27": {
@@ -2881,8 +2881,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.9417389998561703,
-    "rerank_ms": 13.968048999231542,
+    "baseline_ms": 16.712978999976258,
+    "rerank_ms": 26.577117000044836,
     "status": "both_have_labelled_evidence"
   },
   "Q28": {
@@ -3103,8 +3103,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.761738000321202,
-    "rerank_ms": 14.557180000338121,
+    "baseline_ms": 15.92948500001512,
+    "rerank_ms": 24.23889700003201,
     "status": "both_have_labelled_evidence"
   },
   "Q29": {
@@ -3325,8 +3325,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.4320560007472523,
-    "rerank_ms": 15.017296000223723,
+    "baseline_ms": 16.571224000017537,
+    "rerank_ms": 23.39593499999637,
     "status": "both_have_labelled_evidence"
   },
   "Q30": {
@@ -3547,8 +3547,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.7971519996062852,
-    "rerank_ms": 13.297282999701565,
+    "baseline_ms": 15.54964399997516,
+    "rerank_ms": 25.767380999980105,
     "status": "candidate_recovery"
   },
   "Q31": {
@@ -3769,8 +3769,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 4.127013999095652,
-    "rerank_ms": 12.83013300053426,
+    "baseline_ms": 14.679166000007626,
+    "rerank_ms": 35.98288099999536,
     "status": "both_have_labelled_evidence"
   },
   "Q32": {
@@ -3991,8 +3991,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 4.04679799976293,
-    "rerank_ms": 13.719036000111373,
+    "baseline_ms": 13.328153999964343,
+    "rerank_ms": 28.106366000031358,
     "status": "both_have_labelled_evidence"
   },
   "Q33": {
@@ -4213,8 +4213,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.9336339996225433,
-    "rerank_ms": 13.258006998512428,
+    "baseline_ms": 15.709022000010009,
+    "rerank_ms": 24.582269999996242,
     "status": "labelled_evidence_outside_top10"
   },
   "Q34": {
@@ -4435,8 +4435,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.874912999890512,
-    "rerank_ms": 13.468660001308308,
+    "baseline_ms": 7.446080000022448,
+    "rerank_ms": 19.476886999996168,
     "status": "labelled_evidence_outside_top10"
   },
   "Q35": {
@@ -4657,8 +4657,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.398586999537656,
-    "rerank_ms": 14.676721000796533,
+    "baseline_ms": 6.698989000028632,
+    "rerank_ms": 18.46076900000071,
     "status": "both_have_labelled_evidence"
   },
   "Q36": {
@@ -4879,8 +4879,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.497658999549458,
-    "rerank_ms": 12.566261999381823,
+    "baseline_ms": 9.117454000033831,
+    "rerank_ms": 20.22554900003115,
     "status": "candidate_regression"
   },
   "Q37": {
@@ -5101,8 +5101,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.9431889999832492,
-    "rerank_ms": 13.90975699905539,
+    "baseline_ms": 6.17484100001775,
+    "rerank_ms": 20.847579000019323,
     "status": "both_have_labelled_evidence"
   },
   "Q38": {
@@ -5323,8 +5323,8 @@
         "reranked_rank": 10
       }
     ],
-    "baseline_ms": 3.6877419988741167,
-    "rerank_ms": 13.651110000864719,
+    "baseline_ms": 5.690435000019534,
+    "rerank_ms": 20.390023000004476,
     "status": "both_have_labelled_evidence"
   }
 }
